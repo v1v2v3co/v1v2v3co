@@ -1,0 +1,3 @@
+create contact and subscribe page
+    email+underline click email email disappear type now (no emil label text) font is garamond
+archive dates---->garamond 
