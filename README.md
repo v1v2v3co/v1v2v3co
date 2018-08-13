@@ -1,4 +1,5 @@
-## TODO
-- only Archive and Susbribe links at bottom of website (no Subscribe page as previously discussed)
+# TODO
+## AS OF AUGUST 13
+- Only Archive and Susbribe links at bottom of website (no Subscribe page as previously discussed)
     - Subscribe link becomes a text field when tapped. "email address" appears in gray italics
-- archive page _see files_
+- Archive page _see files_
