@@ -24,7 +24,7 @@
 
 - [ ] Create a "post" template page laid out in a similar manner as IMG_0243 in the wireframes folder etc **Priotity
 
-- [ ] Replace ugly house icon with simple text <sup>what style?</sup> that simply reads "Home" **Priotity
+- [ ] Replace ugly house icon with "Home" in Garamond **Priotity
 
 #### Revision changes are pushed  
 - [ ] CSS aesthetic tweaking/small changes (font, svg, spacing etc — tbd in more detail in the future)
