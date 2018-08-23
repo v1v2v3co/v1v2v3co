@@ -20,7 +20,7 @@
 - [ ] Create animation such that archive link at the bottom of page shakes when tapped <sup>need a little more specificity on this interaction</sup>
 - [ ] Replace ugly house icon with simple text <sup>what style?</sup> that simply reads "Home" 
 - [ ] CSS aesthetic tweaking/small changes (font, svg, spacing etc — tbd in more detail in the future)
-**- [ ] Add SVGs instead of text for V1 V2 V3**
+- [ ] Add SVGs instead of text for V1 V2 V3
     
     
- #### NOTE ------<sup>WE DO NOT NEED AN ARCHIVE MODE/STATE BY THE END OF AUGUST BUT ALL OTHER SMALL CHANGES ARE A NECESSITY BEFORE THE 28TH IF POSSIBLE</sup>
+ #### NOTE .<sup>WE DO NOT NEED AN ARCHIVE MODE/STATE BY THE END OF AUGUST BUT ALL OTHER SMALL CHANGES ARE A NECESSITY BEFORE THE 28TH IF POSSIBLE</sup>
