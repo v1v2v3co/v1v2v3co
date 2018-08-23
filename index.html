@@ -11,23 +11,50 @@
 
 <body class="garamond center">
 
+  <!-- TEMPORARILY INLINE CSS FOR TESTING -->
+  <!-- <style>
+    .vvv object svg:hover {
+      fill: blue;
+
+    }
+  </style> -->
+
+
   <article class="w-75 center near-black">
-    <div id="tablewrap" class="dt-ns dt--fixed-ns mv6-ns pv4 mv4 f-headline fw9 tc">
-      <div class="dtc-ns tc pv6 pv4-ns w4-ns"><a href="/v1.html" class="link" target="_none">  <object type="image/svg+xml" data="img/v1.svg" class="mw5"></object></a></div>
-      <div class="dtc-ns tc pv6 pv4-ns w4-ns"><a href="/v2.html" class="link" target="_none">  <object type="image/svg+xml" data="img/v2.svg" class="mw5"></object></a></div>
-      <div class="dtc-ns tc pv6 pv4-ns w4-ns"><a href="/v3.html" class="link" target="_none">  <object type="image/svg+xml" data="img/v3.svg" class="mw5"></object></a></div>
+    <div id="tablewrap" class="dt-ns dt--fixed-ns mv6-ns pv4 mv4 tc">
+
+      <div class="vvv dtc-ns tc pv6 pv4-ns w4-ns">
+        <a href="/v1">
+          <svg id="v1svg" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid" class="link hover-bg-light-blue">
+            <defs>
+              <style>
+                .cls-1 {
+                  fill: none;
+                  stroke: #000;
+                  stroke-width: 6px;
+                }
+
+                /* path:hover {
+                  fill:green;;
+                } */
+              </style>
+            </defs>
+              <path class="cls-1" d="M403.7,453.2l34.2,102.9,34.8-102.9h42.9L461,604.7H411.8L356.3,453.2Z" />
+              <path class="cls-1" d="M549.5,426.8A290.37,290.37,0,0,0,605,395.3h38.7V604.7H598.4V441.8c-8.7,6.6-26.1,17.4-48.9,26.7Z" />
+            </svg>
+      </div>
 
 
 
-      <!-- <div class="dtc-ns tc pv6 pv4-ns w4-ns tracked-tight"><a href="/v2.html" class="link b near-black hover-gray" target="_none">v2</a></div>
-      <div class="dtc-ns tc pv6 pv4-ns w4-ns tracked-tight"><a href="/v3.html" class="link b near-black hover-gray" target="_none">v3</a></div> -->
-    </div>
+
+      <div class="vvv dtc-ns tc pv6 pv4-ns w4-ns"> <a href="/v2"><object type="image/svg+xml" data="img/v2-optimized.svg" class="w4 dim"></object></div>
+      <div class="vvv dtc-ns tc pv6 pv4-ns w4-ns"> <a href="/v3"><object type="image/svg+xml" data="img/v3-optimized.svg" class="w4 dim"></object></div>
   </article>
 
   <section class="garamond mv3 pa3 pa4-m pa5-l center tc">
     <a class="f5 link hover-green no-underline black dib ph2 pv1 center" href="/archive.html">Archive</a>
-    <a class="f5 link hover-hot-pink no-underline black dib ph2 pv1" href="/subscribe.html">Subscribe</a>
-  </section>
+        <a class="f5 link hover-hot-pink no-underline black dib ph2 pv1" href="/subscribe.html">Subscribe</a>
+        </section>
 </body>
 
 </html>
