@@ -6,14 +6,14 @@
 ## BY AUGUST 28TH
 ### FOOTER CHANGES
 **Footer should contain only links to "Archive" and "Subscribe"**
-> Archive is a link to another webpage, 
 > onClick subscribe we trigger a text field to appear **Priotity
-
-        > this text box has "email address" in gray (perhaps semi-transparent) italics
+  > this text box has "email address" in gray (perhaps semi-transparent) italics
                 > subscribe can be on left while archive on right
                         >subscribe can cover or push archive off screen
                         
 > Create animation such that archive link at the bottom of page shakes when tapped <sup>need a little more specificity on this interaction</sup> **THIS IS NOT A PRIORITY        
+
+> Archive is a link to another webpage
 
 #### TEXT CHANGES
 - [ ] Make the body text ALL garamond
