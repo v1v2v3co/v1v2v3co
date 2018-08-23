@@ -29,7 +29,7 @@
 #### Revision changes are pushed  
 - [ ] CSS aesthetic tweaking/small changes (font, svg, spacing etc — tbd in more detail in the future)
 - [ ] reconsider "Archive" and "Subscribe" link animation
-- [ ] migrate from wordpress to github **Priotity {8/28/2018}** 
+- [ ] migrate from wordpress to github **Priority {8/28/2018}** 
 - [ ] make posting guide 
     
  #### NOTE .<sup>WE DO NOT NEED AN ARCHIVE MODE/STATE BY THE END OF AUGUST BUT ALL OTHER SMALL CHANGES ARE A NECESSITY BEFORE THE 28TH IF POSSIBLE</sup>
