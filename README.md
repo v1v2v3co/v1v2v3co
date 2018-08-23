@@ -24,7 +24,7 @@
 
 - [ ] Replace ugly house icon with "Home" in Garamond **Priotity
 
-#### Revision changes are pushed  
+#### Revision after above changes are pushed  
 - [ ] CSS aesthetic tweaking/small changes (font, svg, spacing etc — tbd in more detail in the future)
 - [ ] reconsider "Archive" and "Subscribe" link animation
 - [ ] migrate from wordpress to github **Priority {8/28/2018}** 
