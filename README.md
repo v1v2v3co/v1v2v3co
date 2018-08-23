@@ -1,7 +1,7 @@
 # TODO
 > UPCOMING ACTION ITEMS IN THE NEAR FUTURE 
 > WITH SOLID DEADLINES
-> AND EXACT, SPECIFIC CHANGES *all priorities by Sunday 8/26/2018***
+> AND EXACT, SPECIFIC CHANGES *all priorities by Sunday 8/26/2018*
 
 ## BY AUGUST 28TH
 ### FOOTER CHANGES
@@ -26,9 +26,10 @@
 
 - [ ] Replace ugly house icon with simple text <sup>what style?</sup> that simply reads "Home" **Priotity
 
-#### Revision once currently requested changes are pushed  
+#### Revision changes are pushed  
 - [ ] CSS aesthetic tweaking/small changes (font, svg, spacing etc — tbd in more detail in the future)
 - [ ] reconsider "Archive" and "Subscribe" link animation
-- [ ] make posting guide    **Priotity {8/28/2018}
+- [ ] migrate from wordpress to github **Priotity {8/28/2018}** 
+- [ ] make posting guide 
     
  #### NOTE .<sup>WE DO NOT NEED AN ARCHIVE MODE/STATE BY THE END OF AUGUST BUT ALL OTHER SMALL CHANGES ARE A NECESSITY BEFORE THE 28TH IF POSSIBLE</sup>
