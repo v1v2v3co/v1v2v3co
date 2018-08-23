@@ -8,7 +8,7 @@
 - [ ] onClick subscribe we trigger a text field to appear **Priotity
   - [ ] this text box has "email address" in gray (perhaps semi-transparent) italics
       - [ ] subscribe can be on left while archive on right
-                        >subscribe can cover or push archive off screen
+        - [ ]subscribe can cover or push archive off screen
                         
 > Archive is a link to another webpage
       > Create animation such that archive link at the bottom of page shakes when tapped <sup>need a little more      specificity on  this interaction</sup> **THIS IS NOT A PRIORITY        
