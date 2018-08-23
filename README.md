@@ -10,7 +10,7 @@
       > subscribe can be on left while archive on right
         > subscribe can cover or push archive off screen
                         
-> Archive is a link to another webpage
+- [ ] Archive is a link to another webpage
       > Create animation such that archive link at the bottom of page shakes when tapped <sup>need a little more      specificity on  this interaction</sup> **THIS IS NOT A PRIORITY        
 
 #### TEXT CHANGES
