@@ -1,0 +1,21 @@
+body {
+  font-family: "Garamond", Garamond, serif;
+}
+
+.v-page {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 0;
+  margin: 0;
+}
+
+.v-back {
+  text-decoration: none;
+  color: black;
+}
+
+.v-page img {
+  max-width:90vw;
+}

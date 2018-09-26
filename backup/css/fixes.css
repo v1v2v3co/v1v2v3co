@@ -1,0 +1,27 @@
+.struggle-btn {
+  cursor: pointer;
+}
+@keyframes skew-btn {
+  0%{
+    transform:skew(0deg, 0deg);
+  }
+  15%{
+    transform:skew(15deg, 15deg);
+  }
+  35%{
+    transform:skew(-15deg, -15deg);
+  }
+  55%{
+    transform:skew(15deg, 15deg);
+  }
+  75%{
+    transform:skew(-15deg, -15deg);
+  }
+  100%{
+    transform:skew(0deg, 0deg);
+  }
+}
+.struggle-btn:hover{
+  animation-name: skew-btn;
+  animation-duration: 0.5s;
+}
