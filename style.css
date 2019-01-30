@@ -19,5 +19,6 @@ body {
 }
 
 .v-page img {
-  max-width:90vw;
+    max-width:90vw;
+    width: 600px;
 }
