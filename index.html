@@ -1,123 +1,135 @@
 <!doctype html>
 <html lang="en">
 
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="style.css">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="style.css">
 
-    <title>v1v2v3</title>
+  <title>v1v2v3</title>
 
-    <!-- jQuery -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  </head>
+  <!-- jQuery -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="./dist/main.js"></script>
+</head>
 
-  <!-- Homepage styles -->
-  <style>
+<!-- Homepage styles -->
+<style>
+  .homepage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+    min-height: 100vh;
+  }
 
-    .homepage {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      flex-direction: column;
-      padding: 0;
-      margin: 0;
-      min-height:100vh;
-    }
+  .homepage-content {
+    display: flex;
+    flex-wrap: nowrap;
+    padding: 10px 0 30px 0;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+  }
 
+  .homepage-v {
+    padding: 5vw;
+    margin: 10px;
+    opacity: 1;
+    transition: opacity 0.2s ease;
+  }
+
+  .homepage-v:hover {
+    opacity: 0.5;
+  }
+
+  .homepage-v img {
+    width: 8vw;
+  }
+
+  @media only screen and (max-width: 800px) {
     .homepage-content {
-      display: flex;
-      flex-wrap: nowrap;
-      padding: 10px 0 30px 0;
-      justify-content: center;
-      align-items: center;
-      flex-direction: row;
+      flex-wrap: wrap;
     }
 
     .homepage-v {
-      padding: 5vw;
-      margin: 10px;
-      opacity: 1;
-      transition: opacity 0.2s ease;
+      padding: 20vh 30vw 20vh 30vw;
     }
 
-    .homepage-v:hover{
-      opacity: 0.5;
+    .homepage-v img {
+      width: 100px;
+    }
+  }
+
+  .homepage-footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 50px 10vw 20px 10vw;
+  }
+
+  .homepage-footer div {
+    padding: 20px;
+  }
+
+  .shake {
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+  }
+
+  @keyframes shake {
+    0% {
+      transform: translateX(0);
     }
 
-    .homepage-v img{
-      width: 8vw;
+    10% {
+      transform: translateX(5px);
     }
 
-    @media only screen and (max-width: 800px) {
-      .homepage-content {
-        flex-wrap: wrap;
-      }
-      .homepage-v {
-        padding: 20vh 30vw 20vh 30vw;
-      }
-      .homepage-v img {
-        width: 100px;
-      }
+    30% {
+      transform: translateX(-5px);
     }
 
-    .homepage-footer {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      padding: 50px 10vw 20px 10vw;
+    50% {
+      transform: translateX(3px);
     }
 
-    .homepage-footer div{
-      padding:20px;
+    70% {
+      transform: translateX(-3px);
     }
 
-    .shake {
-      cursor: pointer;
-      text-decoration: none;
-      color: black;
+    100% {
+      transform: translateX(0);
     }
+  }
 
-    @keyframes shake {
-      0% {
-        transform: translateX(0);
-      }
-      10% {
-        transform: translateX(5px);
-      }
-      30% {
-        transform: translateX(-5px);
-      }
-      50% {
-        transform: translateX(3px);
-      }
-      70% {
-        transform: translateX(-3px);
-      }
-      100% {
-        transform: translateX(0);
-      }
-    }
+  .shake-active {
+    animation-name: shake;
+    animation-duration: 0.5s;
+    animation-timing-function: ease;
+  }
+</style>
 
-    .shake-active {
-      animation-name: shake;
-      animation-duration: 0.5s;
-      animation-timing-function: ease;
-    }
+<body class="homepage">
 
-  </style>
+  <div id="content" class="homepage-content">
 
-  <body class="homepage">
+    <a target="_blank" href="https://www.youtube.com/watch?v=GXHzb6VvIhg" style="margin:15px;">
+      <div class="homepage-v"><img src="media/v1.svg"></div>
+    </a>
+    <a target="_blank" href="http://www.rezaaramesh.com/Works-1/12992229" style="margin:15px;">
+      <div class="homepage-v"><img src="media/v2.svg"></div>
+    </a>
+    <a target="_blank" href="https://m.youtube.com/watch?v=xgtnYoS3EuU&list=PLFD755D6BA98D3DC3&index=27" style="margin:15px;">
+      <div class="homepage-v"><img src="media/v3.svg"></div>
+    </a>
 
-    <div id="content" class="homepage-content">
+  </div>
 
-        <a target="_blank" href="https://www.youtube.com/watch?v=GXHzb6VvIhg" style="margin:15px;"><div class="homepage-v"><img src="media/v1.svg"></div></a>
-        <a target="_blank" href="http://www.rezaaramesh.com/Works-1/12992229" style="margin:15px;"><div class="homepage-v"><img src="media/v2.svg"></div></a>
-        <a target="_blank" href="https://m.youtube.com/watch?v=xgtnYoS3EuU&list=PLFD755D6BA98D3DC3&index=27" style="margin:15px;"><div class="homepage-v"><img src="media/v3.svg"></div></a>
-
-    </div>
-
-    <!-- Footer buttons (commented out)
+  <!-- Footer buttons (commented out)
 
     <div id="footer" class="homepage-footer">
 
@@ -128,18 +140,18 @@
 
     -->
 
-  </body>
+</body>
 
-  <!-- Custom JavaScript -->
-  <script>
+<!-- Custom JavaScript -->
+<script>
 
-    $(".shake").click(function(){
-      $(this).addClass("shake-active");
-      setTimeout(function() {
-        $(".shake-active").removeClass("shake-active");
-      }, 500);
-    });
+  $(".shake").click(function () {
+    $(this).addClass("shake-active");
+    setTimeout(function () {
+      $(".shake-active").removeClass("shake-active");
+    }, 500);
+  });
 
-  </script>
+</script>
 
 </html>
