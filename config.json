@@ -1,153 +1,80 @@
 {
 	"v1": {
+		"mode": "set",
 		"setContent": {
-			"on": true,
-			"content": {
-				"link": "https://www.youtube.com/watch?v=bybfO8OnORA",
-				"image": {
-					"url": null,
-					"link": null
-				}
-			}
+			"type": "link",
+			"url": "https://www.youtube.com/watch?v=bybfO8OnORA",
+			"assetUrl": null,
+			"newTab": true
 		},
-		"content": [
+		"randomContent": [
 			{
-				"link": "https://www.youtube.com/watch?v=bybfO8OnORA",
-				"image": {
-					"url": null,
-					"link": null
-				}
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://www.youtube.com/watch?v=bybfO8OnORA",
+				"newTab": true
 			},
 			{
-				"link": "https://www.youtube.com/watch?v=ro0DCOxxG18",
-				"image": {
-					"url": null,
-					"link": null
-				}
-			},
-			{
-				"link": "https://www.youtube.com/watch?v=ZXtimhT-ff4",
-				"image": {
-					"url": null,
-					"link": null
-				}
-			},
-			{
-				"link": "https://www.youtube.com/watch?v=EZJAtkqiV8U",
-				"image": {
-					"url": null,
-					"link": null
-				}
-			},
-			{
-				"link": "https://www.youtube.com/watch?v=iWjYsxaBjBI",
-				"image": {
-					"url": null,
-					"link": null
-				}
-			},
-			{
-				"link": null,
-				"image": {
-					"url": "./pages/v1/media/black-and-white.gif",
-					"link": null
-				}
+				"type": "image",
+				"assetUrl": "/v1/images/image.png",
+				"url": "https://www.youtube.com/watch?v=ro0DCOxxG18",
+				"newTab": true
 			}
 		]
 	},
 	"v2": {
+		"mode": "random",
 		"setContent": {
-			"link": "https://www.youtube.com/watch?v=bybfO8OnORA",
-			"image": {
-				"url": null,
-				"link": null
-			}
+			"type": "link",
+			"url": "https://www.youtube.com/watch?v=bybfO8OnORA",
+			"newTab": false
 		},
-		"switchInterval": 0,
-		"switchPattern": "random",
-		"content": [
+		"randomContent": [
 			{
-				"link": "https://www.youtube.com/watch?v=_CEAarqdAZc",
-				"image": {
-					"url": null,
-					"link": null
-				}
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://www.youtube.com/watch?v=_CEAarqdAZc",
+				"newTab": true
 			},
 			{
-				"link": "https://www.youtube.com/watch?v=XEw4IDzsAhc",
-				"image": {
-					"url": null,
-					"link": null
-				}
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://www.youtube.com/watch?v=XEw4IDzsAhc",
+				"newTab": false
 			},
 			{
-				"link": "https://www.youtube.com/watch?v=CsEDLGAlpm0",
-				"image": {
-					"url": null,
-					"link": null
-				}
-			},
-			{
-				"link": "https://www.youtube.com/watch?v=cIuTPKpQjI4",
-				"image": {
-					"url": null,
-					"link": null
-				}
-			},
-			{
-				"link": "https://www.youtube.com/watch?v=b5tJNXiB9Ko",
-				"image": {
-					"url": null,
-					"link": null
-				}
+				"type": "link",
+				"assetUrl": null,
+				"url": null,
+				"newTab": true
 			}
 		]
 	},
 	"v3": {
+		"mode": "random",
 		"setContent": {
-			"link": "https://www.youtube.com/watch?v=bybfO8OnORA",
-			"image": {
-				"url": null,
-				"link": null
-			}
+			"type": "link",
+			"url": "https://www.youtube.com/watch?v=bybfO8OnORA",
+			"newTab": false
 		},
-		"switchInterval": 0,
-		"switchPattern": "random",
-		"content": [
+		"randomContent": [
 			{
-				"link": "https://www.youtube.com/watch?time_continue=1&v=8c2AyDs1yKw",
-				"image": {
-					"url": null,
-					"link": null
-				}
+				"type": "image",
+				"assetUrl": null,
+				"url": "http://covers.i-d.co/",
+				"newTab": true
 			},
 			{
-				"link": "http://covers.i-d.co/",
-				"image": {
-					"url": null,
-					"link": null
-				}
+				"type": "image",
+				"assetUrl": null,
+				"url": "http://9-eyes.com/",
+				"newTab": true
 			},
 			{
-				"link": "http://9-eyes.com/",
-				"image": {
-					"url": null,
-					"link": null
-				}
-			},
-			{
-				"link": "https://www.youtube.com/watch?v=yk7IDVzLiQo",
-				"image": {
-					"url": null,
-					"link": null
-				}
-			},
-			{
-				"link": "https://www.nytimes.com/2018/10/26/style/phones-children-silicon-valley.html",
-				"image": {
-					"url": null,
-					"link": null
-				}
+				"type": "image",
+				"assetUrl": null,
+				"url": "https://www.youtube.com/watch?v=yk7IDVzLiQo",
+				"newTab": true
 			}
 		]
 	}
