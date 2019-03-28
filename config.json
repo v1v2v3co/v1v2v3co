@@ -16,7 +16,7 @@
 			},
 			{
 				"type": "image",
-				"assetUrl": "/v1/images/image.png",
+				"assetUrl": "/media/gashlycrumb-tinies.pdf",
 				"url": "https://www.youtube.com/watch?v=ro0DCOxxG18",
 				"newTab": true
 			}
@@ -25,26 +25,27 @@
 	"v2": {
 		"mode": "random",
 		"setContent": {
-			"type": "link",
-			"url": "https://www.youtube.com/watch?v=bybfO8OnORA",
-			"newTab": false
+			"type": "image",
+			"assetUrl": null,
+			"url": null,
+			"newTab": true
 		},
 		"randomContent": [
 			{
-				"type": "link",
-				"assetUrl": null,
-				"url": "https://www.youtube.com/watch?v=_CEAarqdAZc",
+				"type": "image",
+				"assetUrl": "/media/photo.jpg",
+				"url": null,
 				"newTab": true
 			},
 			{
-				"type": "link",
-				"assetUrl": null,
-				"url": "https://www.youtube.com/watch?v=XEw4IDzsAhc",
+				"type": "image",
+				"assetUrl": "/media/Untitled.png",
+				"url": "https://www.google.com",
 				"newTab": false
 			},
 			{
-				"type": "link",
-				"assetUrl": null,
+				"type": "pdf",
+				"assetUrl": "/media/gashlycrumb-tinies.pdf",
 				"url": null,
 				"newTab": true
 			}
@@ -59,19 +60,19 @@
 		},
 		"randomContent": [
 			{
-				"type": "image",
+				"type": "link",
 				"assetUrl": null,
 				"url": "http://covers.i-d.co/",
 				"newTab": true
 			},
 			{
-				"type": "image",
+				"type": "link",
 				"assetUrl": null,
 				"url": "http://9-eyes.com/",
 				"newTab": true
 			},
 			{
-				"type": "image",
+				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=yk7IDVzLiQo",
 				"newTab": true
