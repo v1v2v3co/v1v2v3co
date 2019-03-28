@@ -1,14 +1,16 @@
-# HOW TO CONFURE
+# Configuration
+
+### config.json
 
 ```json
 {
 	"v1": {
-		"mode": "set",
+		"mode": "set", // 'set' or 'random'
 		"setContent": {
-			"type": "link",
-			"url": "https://www.youtube.com/watch?v=bybfO8OnORA",
-			"assetUrl": null,
-			"newTab": true
+			"type": "link", // 'link', 'image', 'pdf', or 'audio'
+			"url": "https://www.youtube.com/watch?v=bybfO8OnORA", // Required if type is 'link'
+			"assetUrl": null, // Required if type isn't 'link'
+			"newTab": true // Open in new tab. true or false
 		},
 		"randomContent": [
 			{
@@ -19,7 +21,7 @@
 			},
 			{
 				"type": "image",
-				"assetUrl": "/v1/images/image.png",
+				"assetUrl": "/media/gashlycrumb-tinies.pdf",
 				"url": "https://www.youtube.com/watch?v=ro0DCOxxG18",
 				"newTab": true
 			}
@@ -28,26 +30,27 @@
 	"v2": {
 		"mode": "random",
 		"setContent": {
-			"type": "link",
-			"url": "https://www.youtube.com/watch?v=bybfO8OnORA",
-			"newTab": false
+			"type": "image",
+			"assetUrl": null,
+			"url": null,
+			"newTab": true
 		},
 		"randomContent": [
-			// {
-			// 	"type": "link",
-			// 	"assetUrl": null,
-			// 	"url": "https://www.youtube.com/watch?v=_CEAarqdAZc",
-			// 	"newTab": true
-			// },
-			// {
-			// 	"type": "link",
-			// 	"assetUrl": null,
-			// 	"url": "https://www.youtube.com/watch?v=XEw4IDzsAhc",
-			// 	"newTab": false
-			// },
 			{
 				"type": "image",
-				"assetUrl": null,
+				"assetUrl": "/media/photo.jpg",
+				"url": null,
+				"newTab": true
+			},
+			{
+				"type": "image",
+				"assetUrl": "/media/Untitled.png",
+				"url": "https://www.google.com",
+				"newTab": false
+			},
+			{
+				"type": "pdf",
+				"assetUrl": "/media/gashlycrumb-tinies.pdf",
 				"url": null,
 				"newTab": true
 			}
@@ -62,19 +65,19 @@
 		},
 		"randomContent": [
 			{
-				"type": "image",
+				"type": "link",
 				"assetUrl": null,
 				"url": "http://covers.i-d.co/",
 				"newTab": true
 			},
 			{
-				"type": "image",
+				"type": "link",
 				"assetUrl": null,
 				"url": "http://9-eyes.com/",
 				"newTab": true
 			},
 			{
-				"type": "image",
+				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=yk7IDVzLiQo",
 				"newTab": true
