@@ -34,7 +34,7 @@ module.exports = function(grunt) {
         dest: `dist/main.js`,
         options: {
           browserifyOptions: { debug: true },
-          transform: [[`babelify`, { presets: [`env`] }]],
+          transform: [[`babelify`, { presets: [`es2015`, `env`] }]],
         },
       },
     },
