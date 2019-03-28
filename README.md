@@ -2,7 +2,7 @@
 
 ### config.json
 
-```json
+```js
 {
 	"v1": {
 		"mode": "set", // 'set' or 'random'
@@ -21,7 +21,7 @@
 			},
 			{
 				"type": "image",
-				"assetUrl": "../../media/gashlycrumb-tinies.pdf",
+				"assetUrl": "/media/gashlycrumb-tinies.pdf",
 				"url": "https://www.youtube.com/watch?v=ro0DCOxxG18",
 				"newTab": true
 			}
@@ -38,19 +38,19 @@
 		"randomContent": [
 			{
 				"type": "image",
-				"assetUrl": "../../media/photo.jpg",
+				"assetUrl": "/media/photo.jpg",
 				"url": null,
 				"newTab": true
 			},
 			{
 				"type": "image",
-				"assetUrl": "../../media/Untitled.png",
+				"assetUrl": "/media/Untitled.png",
 				"url": "https://www.google.com",
 				"newTab": false
 			},
 			{
 				"type": "pdf",
-				"assetUrl": "../../media/gashlycrumb-tinies.pdf",
+				"assetUrl": "/media/gashlycrumb-tinies.pdf",
 				"url": null,
 				"newTab": true
 			}
