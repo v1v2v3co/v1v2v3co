@@ -1,9 +1,9 @@
 {
 	"v1": {
-		"mode": "set",
+		"mode": "random",
 		"setContent": {
 			"type": "link",
-			"url": "https://www.youtube.com/watch?v=bybfO8OnORA",
+			"url": "https://www.youtube.com/watch?v=FHCaK0vmd0Q",
 			"assetUrl": null,
 			"newTab": true
 		},
@@ -16,18 +16,48 @@
 			},
 			{
 				"type": "image",
-				"assetUrl": "/media/gashlycrumb-tinies.pdf",
+				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=ro0DCOxxG18",
+				"newTab": true
+			},
+			{
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://www.youtube.com/watch?v=gNv5l8KuoZw",
+				"newTab": true
+			},
+			{
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://www.vogue.com/fashion-shows/spring-1996-ready-to-wear/maison-martin-margiela/slideshow/collection#5",
+				"newTab": true
+			},
+			{
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://www.vogue.com/fashion-shows/spring-1998-ready-to-wear/maison-martin-margiela/slideshow/collection#10",
+				"newTab": true
+			},
+			{
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://www.youtube.com/watch?v=RoPYK1SlCN0",
+				"newTab": true
+			},
+			{
+				"type": "link",
+				"assetUrl": null,
+				"url": "http://isdmxinjail.com",
 				"newTab": true
 			}
 		]
 	},
 	"v2": {
-		"mode": "random",
+		"mode": "set",
 		"setContent": {
-			"type": "image",
+			"type": "link",
 			"assetUrl": null,
-			"url": null,
+			"url": "https://thesoundthisimagemakes.tumblr.com",
 			"newTab": true
 		},
 		"randomContent": [
@@ -52,11 +82,11 @@
 		]
 	},
 	"v3": {
-		"mode": "random",
+		"mode": "set",
 		"setContent": {
 			"type": "link",
-			"url": "https://www.youtube.com/watch?v=bybfO8OnORA",
-			"newTab": false
+			"url": "http://www.zachblas.info/works/facial-weaponization-suite/",
+			"newTab": true
 		},
 		"randomContent": [
 			{
