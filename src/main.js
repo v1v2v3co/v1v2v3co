@@ -1,5 +1,5 @@
 import $ from 'jquery';
-import config from '../config.json';
+// import config from '../config.json';
 
 const rnd = Math.floor(Math.random() * 99999);
 
@@ -23,7 +23,7 @@ const contentHtml = {
 
 
 $(document).on(`click`, `.v-link`, async function() {
-  // const config = await fetch(`https://kylepg.github.io/config.json?${rnd}`).then(res => res.json());
+  const config = await fetch(`https://kylepg.github.io/config.json?${rnd}`).then(res => res.json());
   const v = $(this).attr(`data-v`);
   let href = ``;
   let newTab = false;
@@ -52,7 +52,7 @@ $(document).on(`click`, `.v-link`, async function() {
 });
 
 $(async () => {
-  // const config = await fetch(`https://kylepg.github.io/config.json?${rnd}`).then(res => res.json());
+  const config = await fetch(`https://kylepg.github.io/config.json?${rnd}`).then(res => res.json());
   const v = $(`body`).attr(`data-v`);
   const mediaOptions = config[v].randomContent.filter(item => item.type !== `link`);
   const randomItem = mediaOptions[Math.floor(Math.random() * config[v].randomContent.length)];
