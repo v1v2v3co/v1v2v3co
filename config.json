@@ -7,12 +7,11 @@
 			"assetUrl": null,
 			"newTab": true
 		},
-		"randomContent": [
-			{
+		"randomContent": [{
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=bybfO8OnORA",
-				"newTab": true,
+				"newTab": true
 			},
 			{
 				"type": "link",
@@ -284,7 +283,7 @@
 				"url": "https://www.youtube.com/watch?v=s1jjBQqJGJs",
 				"newTab": true
 			}
-			
+
 		]
 	},
 	"v2": {
@@ -295,8 +294,7 @@
 			"url": "https://thesoundthisimagemakes.tumblr.com",
 			"newTab": true
 		},
-		"randomContent": [
-			{
+		"randomContent": [{
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=Ic2QxjB-xoo",
@@ -593,8 +591,7 @@
 			"url": "http://www.zachblas.info/works/facial-weaponization-suite/",
 			"newTab": true
 		},
-		"randomContent": [
-			{
+		"randomContent": [{
 				"type": "link",
 				"assetUrl": null,
 				"url": "http://covers.i-d.co/",
@@ -876,7 +873,7 @@
 				"url": "https://anderskrisar.com/#/untitled_2015",
 				"newTab": true
 			}
-			
+
 		]
 	}
 }
