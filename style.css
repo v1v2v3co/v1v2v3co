@@ -21,6 +21,7 @@ body {
 }
 
 .v-page img {
-    max-width:90vw;
-    width: 600px;
+    max-width: 90vw;
+    max-height: 90vh;
+    height: inherit !important;
 }

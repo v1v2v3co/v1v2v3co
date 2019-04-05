@@ -21,6 +21,7 @@ const contentHtml = {
   audio: assetUrl => ``,
 };
 
+
 $(document).on(`click`, `.v-link`, async function() {
   const config = await fetch(`https://kylepg.github.io/config.json?${rnd}`).then(res => res.json());
   const v = $(this).attr(`data-v`);
@@ -43,7 +44,8 @@ $(document).on(`click`, `.v-link`, async function() {
     }
   }
   if (newTab) {
-    window.open(href, `_blank`);
+    const windowReference = window.open();
+    windowReference.location = href;
   } else {
     window.location.href = href;
   }
@@ -57,7 +59,7 @@ $(async () => {
   let html = contentHtml[randomItem.type](randomItem.assetUrl);
   // If it has a link (not null), make it clickable. by wrapping in
   if (randomItem.url !== null) {
-    html = `<a href="${randomItem.url}" ${randomItem.newTab ? `target="_blank"` : ``}>${html}</a><img src="../../media/click-the-image.gif"/>`;
+    html = `<a href="${randomItem.url}" ${randomItem.newTab ? `target="_blank"` : ``}>${html}</a>${ typeof randomItem.showClickImageGif !== 'undefined' && randomItem.showClickImageGif ? '<img src="../../media/click-the-image.gif"/>' : ''}`
   }
   $(`#content`).html(html);
 });
