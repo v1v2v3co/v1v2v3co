@@ -54,7 +54,7 @@ $(document).on(`click`, `.v-link`, function() {
 });
 
 $(document).ready(async () => {
-  config = await fetch(`https://kylepg.github.io/config.json?${rnd}`).then(res => res.json());
+  config = await fetch(`https://v1v2v3.co/config.json?${rnd}`).then(res => res.json());
   for (let i = 1; i <= 3; i++) {
     const v = `v${i}`;
     setLinks(v);
@@ -62,7 +62,7 @@ $(document).ready(async () => {
 });
 
 $(async () => {
-  const configx = await fetch(`https://kylepg.github.io/config.json?${rnd}`).then(res => res.json());
+  const configx = await fetch(`https://v1v2v3.co/config.json?${rnd}`).then(res => res.json());
   const v = $(`body`).attr(`data-v`);
   const mediaOptions = configx[v].randomContent.filter(item => item.type !== `link`);
   const randomItem = mediaOptions[Math.floor(Math.random() * configx[v].randomContent.length)];
