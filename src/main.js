@@ -1,5 +1,5 @@
 import $ from 'jquery';
-// import config from '../config.json';
+import config from '../config.json';
 
 const rnd = Math.floor(Math.random() * 99999);
 
@@ -22,9 +22,10 @@ const contentHtml = {
 };
 
 
-$(document).on(`click`, `.v-link`, async function() {
-  const config = await fetch(`https://kylepg.github.io/config.json?${rnd}`).then(res => res.json());
-  const v = $(this).attr(`data-v`);
+$(document).ready(async function () {
+  // const config = await fetch(`https://kylepg.github.io/config.json?${rnd}`).then(res => res.json());
+  for (let i = 1; i <= 3; i++){
+    const v = `v${i}`
   let href = ``;
   let newTab = false;
   if (config[v].mode === `set`) {
@@ -43,16 +44,15 @@ $(document).on(`click`, `.v-link`, async function() {
       newTab = randomItem.newTab;
     }
   }
+  $(`a[data-v="${v}"]`).attr('href', href);
   if (newTab) {
-    const windowReference = window.open();
-    windowReference.location = href;
-  } else {
-    window.location.href = href;
+    $(`a[data-v="${v}"]`).attr('target', '_blank');
+  } 
   }
 });
 
 $(async () => {
-  const config = await fetch(`https://kylepg.github.io/config.json?${rnd}`).then(res => res.json());
+  // const config = await fetch(`https://kylepg.github.io/config.json?${rnd}`).then(res => res.json());
   const v = $(`body`).attr(`data-v`);
   const mediaOptions = config[v].randomContent.filter(item => item.type !== `link`);
   const randomItem = mediaOptions[Math.floor(Math.random() * config[v].randomContent.length)];
