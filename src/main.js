@@ -21,7 +21,7 @@ const contentHtml = {
   audio: assetUrl => ``,
 };
 
-function setLinks(v) {
+function setLinks(v, config) {
   let href = ``;
   let newTab = false;
   if (config[v].mode === `set`) {
@@ -55,7 +55,7 @@ $(document).ready(async () => {
   const config = await fetch(`https://kylepg.github.io/config.json?${rnd}`).then(res => res.json());
   for (let i = 1; i <= 3; i++) {
     const v = `v${i}`;
-    setLinks(v);
+    setLinks(v, config);
   }
 });
 
