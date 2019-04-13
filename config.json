@@ -1,175 +1,198 @@
 {
 	"v1": {
-		"mode": "random",
+		"mode": "set",
 		"setContent": {
-			"type": "link",
-			"url": "https://www.youtube.com/watch?v=FHCaK0vmd0Q",
-			"assetUrl": null,
-			"newTab": true
+			"name": "New Friends Shrigley",
+			"type": "image",
+			"url": null,
+			"assetUrl": "/media/900.png",
+			"newTab": false
 		},
-		"randomContent": [{
+		"randomContent": [
+			{
+				"name": "Day Job Jack Stauber",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=bybfO8OnORA",
 				"newTab": true
 			},
 			{
+				"name": "Stanky Leg Soulja",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=ro0DCOxxG18",
 				"newTab": true
 			},
 			{
+				"name": "The Cry of Jazz",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=gNv5l8KuoZw",
 				"newTab": true
 			},
 			{
+				"name": "Margiela Spring 1996",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.vogue.com/fashion-shows/spring-1996-ready-to-wear/maison-martin-margiela/slideshow/collection#5",
 				"newTab": true
 			},
 			{
+				"name": "Margiela Spring 1998",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.vogue.com/fashion-shows/spring-1998-ready-to-wear/maison-martin-margiela/slideshow/collection#10",
 				"newTab": true
 			},
 			{
+				"name": "1800 Girls",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=RoPYK1SlCN0",
 				"newTab": true
 			},
 			{
+				"name": "DMX Jail",
 				"type": "link",
 				"assetUrl": null,
 				"url": "http://isdmxinjail.com",
 				"newTab": true
 			},
 			{
+				"name": "Chrono Shredder",
 				"type": "link",
 				"assetUrl": null,
 				"url": "http://www.susannahertrich.com/work/chrono-shredder-i-iv/",
 				"newTab": true
 			},
 			{
+				"name": "Im Here Spike Jonze",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=6OY1EXZt4ok",
 				"newTab": true
 			},
 			{
+				"name": "Alien Uzi Dancing",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=x_UfBJF47nk",
 				"newTab": true
 			},
 			{
-				"type": "link",
-				"assetUrl": null,
-				"url": "https://www.dailymotion.com/video/x17afw0",
-				"newTab": true
-			},
-			{
+				"name": "Dennis Potter Interview",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=OjTnojZQ--0",
 				"newTab": true
 			},
 			{
+				"name": "These Things Happen",
 				"type": "link",
 				"assetUrl": null,
-				"url": "https://www.youtube.com/watch?v=2GLHvOhXOyQ&feature=youtu.be",
+				"url": "https://www.youtube.com/watch?v=2GLHvOhXOyQ",
 				"newTab": true
 			},
 			{
+				"name": "Kids Talking about Dreams",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=7T8vJccbof4",
 				"newTab": true
 			},
 			{
+				"name": "Conception and Contraception",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=fUn_ihqjoEY",
 				"newTab": true
 			},
 			{
+				"name": "Spinnerooni",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=61s4v0f-1sk",
 				"newTab": true
 			},
 			{
+				"name": "Steven Reich Drumming",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=doJk4yPwJDk",
 				"newTab": true
 			},
 			{
+				"name": "Beri Beri Nice",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=cp8NYBUBnss",
 				"newTab": true
 			},
 			{
+				"name": "St. Ides BIG",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=5-vVn3gBXZM",
 				"newTab": true
 			},
 			{
+				"name": "My Perfect Cousin",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=Pgqa3cVOxUc",
 				"newTab": true
 			},
 			{
+				"name": "Kalen Seeing Double",
 				"type": "link",
 				"assetUrl": null,
 				"url": "http://www.kalenhollomon.com/work-1#/seeing-double-2016/",
 				"newTab": true
 			},
 			{
+				"name": "Kanye Curb Your Enthusiasm",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?time_continue=136&v=LFLzBB7NCrA",
 				"newTab": true
 			},
 			{
+				"name": "Tabita",
 				"type": "link",
 				"assetUrl": null,
 				"url": "http://www.tabitarezaire.com",
 				"newTab": true
 			},
 			{
+				"name": "A Tribe Called Quest Scenario",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=Q6TLWqn82J4",
 				"newTab": true
 			},
 			{
+				"name": "Wouldnt Get Far",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=MlzrC-B6n-M",
 				"newTab": true
 			},
 			{
+				"name": "Outkast Prototype",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=uqhJfjbNuQg",
 				"newTab": true
 			},
 			{
+				"name": "Van Gogh At Eternity Gate",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://en.wikipedia.org/wiki/At_Eternity%27s_Gate",
 				"newTab": true
 			},
 			{
+				"name": "Sabrina Fuentes",
 				"type": "link",
 				"assetUrl": null,
 				"url": "http://www.noagency.nyc/talent#/sabrina-fuentes/",
@@ -182,404 +205,505 @@
 				"newTab": true
 			},
 			{
+				"name": "Principles of Good Design",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.vitsoe.com/gb/about/good-design",
 				"newTab": true
 			},
 			{
+				"name": "Nowness Radically Queer",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.nowness.com/seasons/radically-queer/rambling-eileen-myles-chelsea-mcmullen",
 				"newTab": true
 			},
 			{
+				"name": "John Jacob Jingleheimer Schmidt",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.mamalisa.com/?t=es&p=2356",
 				"newTab": true
 			},
 			{
+				"name": "Pounded Yam",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=QaNiwHP58BM",
 				"newTab": true
 			},
 			{
+				"name": "Chinese Google",
 				"type": "link",
 				"assetUrl": null,
 				"url": "http://www.baidu.com/",
 				"newTab": true
 			},
 			{
+				"name": "Khaki Swing",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=OLSjcGjLQ7s",
 				"newTab": true
 			},
 			{
+				"name": "Notorius Bum",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=ENAbFBQxZVw&t=76s",
 				"newTab": true
 			},
 			{
+				"name": "Mixed Signals PSA",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=E6i6BHvSEGc",
 				"newTab": true
 			},
 			{
+				"name": "Crack is Whack",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=kovGM1ZrCck",
 				"newTab": true
 			},
 			{
+				"name": "Bruce Mau",
 				"type": "link",
 				"assetUrl": null,
 				"url": "http://www.manifestoproject.it/bruce-mau/",
 				"newTab": true
 			},
 			{
+				"name": "The Real Life Internet",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=n42TmD2B0mA",
 				"newTab": true
 			},
 			{
+				"name": "The Erl King",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://germanstories.vcu.edu/goethe/erl_dual.html",
 				"newTab": true
 			},
 			{
+				"name": "How to Flirt",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.wikihow.com/Flirt-Through-Instant-Messaging",
 				"newTab": true
 			},
 			{
+				"name": "Thats Hot",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=Xd9VwVPEhnQ",
 				"newTab": true
 			},
 			{
+				"name": "ChokeSlam Through the Ring",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=0-3UsAP1-6E",
 				"newTab": true
 			},
 			{
+				"name": "Dont tell Nobody",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=CfVdoAXwW3o",
 				"newTab": true
 			},
 			{
+				"name": "Al Green 3/4",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=s1jjBQqJGJs",
 				"newTab": true
+			},
+			{
+				"name": "Depression Scale",
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://www.ismanet.org/doctoryourspirit/pdfs/Beck-Depression-Inventory-BDI.pdf",
+				"newTab": true
+			},
+			{
+				"name": "Tunica Studio",
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://tunicastudio.com",
+				"newTab": true
+			},
+			{
+				"name": "Anders Krisar",
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://anderskrisar.com/#/untitled_2009",
+				"newTab": true
+			},
+			{
+				"name": "Ja Funmi King Sunny Ade",
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://www.youtube.com/watch?v=nGmbyRaauog",
+				"newTab": true
 			}
-
 		]
 	},
 	"v2": {
 		"mode": "random",
 		"setContent": {
+			"name": "The Sound Images Make",
 			"type": "link",
 			"assetUrl": null,
 			"url": "https://thesoundthisimagemakes.tumblr.com",
 			"newTab": true
 		},
-		"randomContent": [{
+		"randomContent": [
+			{
+				"name": "Duster Inside Out",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=Ic2QxjB-xoo",
 				"newTab": true
 			},
 			{
+				"name": "Calvin Klein Spring 1996",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.vogue.com/fashion-shows/spring-1996-ready-to-wear/calvin-klein-collection/slideshow/collection#18",
 				"newTab": true
 			},
 			{
+				"name": "CDG Spring 1996",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.vogue.com/fashion-shows/spring-1996-ready-to-wear/comme-des-garcons/slideshow/collection#10",
 				"newTab": true
 			},
 			{
+				"name": "Sternberg Press",
 				"type": "link",
 				"assetUrl": null,
 				"url": "http://www.sternberg-press.com/index.php?pageId=1128&l=en&bookId=27&sort=",
 				"newTab": true
 			},
 			{
+				"name": "Kanye + Mom",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=SwX0-UWsrW8",
 				"newTab": true
 			},
 			{
+				"name": "Laundry David Shrigley",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=0LKnbI-bNJE",
 				"newTab": true
 			},
 			{
+				"name": "Emoji Zone",
 				"type": "link",
 				"assetUrl": null,
 				"url": "http://okfoc.us/300/reduced/emojizone/",
 				"newTab": true
 			},
 			{
+				"name": "Soulja Bow wow Beef",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=NgRIJPL4wAA",
 				"newTab": true
 			},
 			{
+				"name": "A Love Supreme",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?time_continue=20&v=0IFBrv1zSac",
 				"newTab": true
 			},
 			{
+				"name": "Birth Organ Synth ACW",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?time_continue=1&v=vYtt6oL2ddo",
 				"newTab": true
 			},
 			{
+				"name": "Catcher Freeman",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=UbKLM75YpnA",
 				"newTab": true
 			},
 			{
+				"name": "Wait What",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=kzHIs7j1CCs",
 				"newTab": true
 			},
 			{
+				"name": "Ed, Edd, and Eddy Theme Song",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=ql_trScVsFY",
 				"newTab": true
 			},
 			{
+				"name": "Control Your Emotions",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?time_continue=39&v=0b85QNfmeco",
 				"newTab": true
 			},
 			{
+				"name": "You on Kazzooo",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=cRpdIrq7Rbo",
 				"newTab": true
 			},
 			{
+				"name": "Pendelum Music",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=fU6qDeJPT-w",
 				"newTab": true
 			},
 			{
+				"name": "My Dad w/o Everybody Else",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://kalenroach.com/My-Dad-Without-Everybody-Else",
 				"newTab": true
 			},
 			{
+				"name": "Art Must be Beautiful",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?time_continue=7&v=zOuzzzltSOA",
 				"newTab": true
 			},
 			{
+				"name": "White Mice Mo Dettes",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=S0JCoMYpiA0",
 				"newTab": true
 			},
 			{
+				"name": "Wu Tang St Ides",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=19cjIAK_w1Q",
 				"newTab": true
 			},
 			{
+				"name": "Sisqo Thong Song",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?time_continue=1&v=Oai1V7kaFBk",
 				"newTab": true
 			},
 			{
+				"name": "Jim Joe tumblr",
 				"type": "link",
 				"assetUrl": null,
 				"url": "http://jim-joe.tumblr.com",
 				"newTab": true
 			},
 			{
+				"name": "Poo Yai Lee",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?time_continue=62&v=7c0giEhan4Q",
 				"newTab": true
 			},
 			{
+				"name": "Provider NERD",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=bRGcDO-U8Nc",
 				"newTab": true
 			},
 			{
+				"name": "I miss you Bjork",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?time_continue=60&v=IKSoBJ8WirE",
 				"newTab": true
 			},
 			{
+				"name": "Van Gogh Bulb Fields",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://en.wikipedia.org/wiki/Bulb_Fields",
 				"newTab": true
 			},
 			{
+				"name": "Anajah No Agency",
 				"type": "link",
 				"assetUrl": null,
 				"url": "http://www.noagency.nyc/talent#/anajah/",
 				"newTab": true
 			},
 			{
+				"name": "Action Terror Fabulous",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=2jK4a1yr65w",
 				"newTab": true
 			},
 			{
+				"name": "Russian Kid Dancing At Club",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=3eRBFkxgG7g",
 				"newTab": true
 			},
 			{
+				"name": "Nicole Mclaughlin",
 				"type": "link",
 				"assetUrl": null,
 				"url": "http://www.nicolemclaughlin.net/projects",
 				"newTab": true
 			},
 			{
+				"name": "Modern Creators Paradigm",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://maekan.com/article/the-modern-creators-paradigm/",
 				"newTab": true
 			},
 			{
+				"name": "Gimhongsok Balloons",
 				"type": "link",
 				"assetUrl": null,
 				"url": "http://www.gimhongsok.com/paintings/192",
 				"newTab": true
 			},
 			{
+				"name": "Good artist copy greatest artist steal",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=CW0DUg63lqU",
 				"newTab": true
 			},
 			{
+				"name": "Thierry Mandon Inside - Outside",
 				"type": "link",
 				"assetUrl": null,
-				"url": "https://vimeo.com/user13756184",
+				"url": "https://vimeo.com/146100426",
 				"newTab": true
 			},
 			{
+				"name": "Everybody gets a car oprah",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=hcJAWKdawuM",
 				"newTab": true
 			},
 			{
+				"name": "ODB in Brooklyn with No Shoes",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=V7NYehU1S-Q&t=12s",
 				"newTab": true
 			},
 			{
+				"name": "9 eyes",
 				"type": "link",
 				"assetUrl": null,
 				"url": "http://9-eyes.com/",
 				"newTab": true
 			},
 			{
+				"name": "Free White and 21",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=b5tJNXiB9Ko",
 				"newTab": true
 			},
 			{
+				"name": "Bless Fur Wig",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.et-caetera.com/bless-fur-wig/",
 				"newTab": true
 			},
 			{
+				"name": "Oscar Peterson Synth",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=FI-4HNQg1JI",
 				"newTab": true
 			},
 			{
+				"name": "How to dance at a rave",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.wikihow.com/Dance-at-a-Rave",
 				"newTab": true
 			},
 			{
+				"name": "Friday Knockout",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=Pa4BzTvYXcc",
 				"newTab": true
 			},
 			{
+				"name": "Go Demarcus",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=J8yqh778rW0",
 				"newTab": true
 			},
 			{
+				"name": "James the Nigga Hating Dolphin",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=PZKo_enssAQ",
 				"newTab": true
 			},
 			{
+				"name": "Stevie Wonder Soul Train",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=7SUEyf_2fbo",
 				"newTab": true
 			},
 			{
+				"name": "Marilyn Manson Phil Donahue Show",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=47TWt3vi9hc",
 				"newTab": true
 			},
 			{
+				"name": "Ander Skrisar",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://anderskrisar.com/#/untitled_2013",
 				"newTab": true
 			},
 			{
+				"name": "Bixi Wiki",
 				"type": "link",
 				"assetUrl": null,
-				"url": "https://anderskrisar.com/#/untitled_2009",
+				"url": "https://en.wikipedia.org/wiki/Bixi",
+				"newTab": true
+			},
+			{
+				"name": "Zapstista",
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://www.google.com/search?client=safari&rls=en&q=zapatista&ie=UTF-8&oe=UTF-8",
 				"newTab": true
 			}
 		]
@@ -587,293 +711,355 @@
 	"v3": {
 		"mode": "random",
 		"setContent": {
+			"name": "Facial Weaponization Suite",
 			"type": "link",
 			"url": "http://www.zachblas.info/works/facial-weaponization-suite/",
 			"newTab": true
 		},
-		"randomContent": [{
+		"randomContent": [
+			{
+				"name": "ID MAG Covers",
 				"type": "link",
 				"assetUrl": null,
 				"url": "http://covers.i-d.co/",
 				"newTab": true
 			},
 			{
+				"name": " Versace Spring 1996",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.vogue.com/fashion-shows/spring-1996-ready-to-wear/versace/slideshow/collection#10",
 				"newTab": true
 			},
 			{
+				"name": "CDG Fall 1993",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.vogue.com/fashion-shows/fall-1993-ready-to-wear/comme-des-garcons/slideshow/collection#3",
 				"newTab": true
 			},
 			{
-				"type": "link",
-				"assetUrl": null,
-				"url": "https://vine.co/v/htvUgpij6bF/",
-				"newTab": true
-			},
-			{
+				"name": "Ko May Tay",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=ZKhjVElzfnQ",
 				"newTab": true
 			},
 			{
+				"name": "Bathe in my milk",
 				"type": "link",
 				"assetUrl": null,
 				"url": "http://batheinmymilk.com",
 				"newTab": true
 			},
 			{
+				"name": "Nowness Commodity City",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.nowness.com/topic/design/commodity-city",
 				"newTab": true
 			},
 			{
+				"name": "Jones BBQ and Foot Massage",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://vine.co/v/5MwxzxW1Fda/",
 				"newTab": true
 			},
 			{
+				"name": "Daniel Johnston",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://en.wikipedia.org/wiki/Daniel_Johnston",
 				"newTab": true
 			},
 			{
+				"name": "Lima Bean Jack Strauber",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=YHWRVXyniK8",
 				"newTab": true
 			},
 			{
+				"name": "Stevie Wonder Free Throw",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=_CEAarqdAZc",
 				"newTab": true
 			},
 			{
+				"name": "Metal Fingers in my Body",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://vimeo.com/180205024",
 				"newTab": true
 			},
 			{
+				"name": "I dont need it SpongeBob",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=HA1mbZ_MMh8",
 				"newTab": true
 			},
 			{
+				"name": "You Page me?",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=hLMJX_IgV1I",
 				"newTab": true
 			},
 			{
+				"name": "Pink Elephants on Parade",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=Pl3YXl_m0uk",
 				"newTab": true
 			},
 			{
+				"name": "Deception Le Tigre",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=EU1CDSP7FRk",
 				"newTab": true
 			},
 			{
+				"name": "Girardoni",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://girardoni.com/Spectral-Bridge-1",
 				"newTab": true
 			},
 			{
+				"name": "Balenciaga Men's Tshirt Shirt",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.balenciaga.com/us/shirts_cod38757019tm.html#/us/men/shirts",
 				"newTab": true
 			},
 			{
+				"name": "Snoop St Ides",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=az0_O-nIWU0",
 				"newTab": true
 			},
 			{
+				"name": "Malcolm in the Middle Intro",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=wI-eRDrN3-4",
 				"newTab": true
 			},
 			{
+				"name": "Julia Scher",
 				"type": "link",
 				"assetUrl": null,
 				"url": "http://www.juliascher.com/historical.html",
 				"newTab": true
 			},
 			{
+				"name": "Reefer Madness",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=zhQlcMHhF3w",
 				"newTab": true
 			},
 			{
+				"name": " Hamzat's Friends Portfolio",
 				"type": "link",
 				"assetUrl": null,
 				"url": "http://ashtaev.com/portfolio/",
 				"newTab": true
 			},
 			{
+				"name": "Guess Who's Coming to Dinner",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=IC88Tc43r6A",
 				"newTab": true
 			},
 			{
+				"name": "Dipset Anthem",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=eCvxC8rofjs",
 				"newTab": true
 			},
 			{
+				"name": "Pretty Sick Dumb",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=K1eHgtsb-Xc",
 				"newTab": true
 			},
 			{
+				"name": "Van Gogh Skeleton w Burning Cigarette",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://en.wikipedia.org/wiki/Skull_of_a_Skeleton_with_Burning_Cigarette",
 				"newTab": true
 			},
 			{
+				"name": "Vicious Freaks",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=JLwRBCq3KrE",
 				"newTab": true
 			},
 			{
+				"name": "Lumia Nocito No Agency",
 				"type": "link",
 				"assetUrl": null,
 				"url": "http://www.noagency.nyc/talent#/lumia-nocito/",
 				"newTab": true
 			},
 			{
+				"name": "Tiga Shoes",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=TppnYXQsLDQ",
 				"newTab": true
 			},
 			{
+				"name": "David Shrigley Photographs",
 				"type": "link",
 				"assetUrl": null,
 				"url": "http://davidshrigley.com/photographs/",
 				"newTab": true
 			},
 			{
+				"name": "Gimhongsok Solitude of Silence",
 				"type": "link",
 				"assetUrl": null,
 				"url": "http://www.gimhongsok.com/paintings/183",
 				"newTab": true
 			},
 			{
+				"name": "Future Squidward",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=yk7IDVzLiQo",
 				"newTab": true
 			},
 			{
+				"name": "Sondra Resident Evil",
 				"type": "link",
 				"assetUrl": null,
-				"url": "https://sondraperry.com/",
+				"url": "https://sondraperry.com/Resident-Evil",
 				"newTab": true
 			},
 			{
+				"name": "River Phoenix",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=CsEDLGAlpm0",
 				"newTab": true
 			},
 			{
+				"name": "Trading Spouses Chappelle Show",
 				"type": "link",
 				"assetUrl": null,
 				"url": "http://www.cc.com/video-clips/2olmjv/chappelle-s-show-trading-spouses---uncensored",
 				"newTab": true
 			},
 			{
+				"name": "Nancy Holt boomerang",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=8z32JTnRrHc",
 				"newTab": true
 			},
 			{
+				"name": "10hrs of Pink Noise",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=ZXtimhT-ff4",
 				"newTab": true
 			},
 			{
+				"name": "Ladytron 17",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?time_continue=26&v=s6jaYJx7yeI",
 				"newTab": true
 			},
 			{
+				"name": "Violin PI Tchaikovsky",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?time_continue=452&v=CTE08SS8fNk",
 				"newTab": true
 			},
 			{
+				"name": "Jesse Pinkman First of Heroin",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=0qLGCBueZ34&app=desktop",
 				"newTab": true
 			},
 			{
+				"name": "Deckmann Books",
 				"type": "link",
 				"assetUrl": null,
 				"url": "http://deckmann.com/books/",
 				"newTab": true
 			},
 			{
+				"name": "How to react to an ugly baby",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.wikihow.com/React-to-an-Ugly-Baby",
 				"newTab": true
 			},
 			{
+				"name": "Bill Gates and the Team lit",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=84c7mRP7PLw",
 				"newTab": true
 			},
 			{
+				"name": "Undertaker throws mankind off cage",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=9hMp65SzyTU",
 				"newTab": true
 			},
 			{
+				"name": "Marvin Gaye National Anthem",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=QRvVzaQ6i8A",
 				"newTab": true
 			},
 			{
+				"name": "anders krisar",
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://anderskrisar.com/#/untitled_2015",
 				"newTab": true
+			},
+			{
+				"name": "TOTO Georgie Porgie",
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://www.youtube.com/watch?v=EWIgEtkE3GA",
+				"newTab": true
+			},
+			{
+				"name": "Pot Making",
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://www.youtube.com/watch?v=0EE-H128u4A",
+				"newTab": true
+			},
+			{
+				"name": "Sha La La La Excerpt",
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://vimeo.com/254696585",
+				"newTab": true
 			}
-
 		]
 	}
 }
