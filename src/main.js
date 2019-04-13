@@ -64,13 +64,18 @@ $(document).ready(async () => {
 $(async () => {
   const configx = await fetch(`https://v1v2v3.co/config.json?${rnd}`).then(res => res.json());
   const v = $(`body`).attr(`data-v`);
-  const mediaOptions = configx[v].randomContent.filter(item => item.type !== `link`);
-  const randomItem = mediaOptions[Math.floor(Math.random() * configx[v].randomContent.length)];
-  let html = contentHtml[randomItem.type](randomItem.assetUrl);
+  let item = null;
+  if (configx[v].mode === `set`) {
+    item = configx[v].setContent;
+  } else {
+    const mediaOptions = configx[v].randomContent.filter(i => i.type !== `link`);
+    item = mediaOptions[Math.floor(Math.random() * configx[v].randomContent.length)];
+  }
+  let html = contentHtml[item.type](item.assetUrl);
   // If it has a link (not null), make it clickable. by wrapping in
-  if (randomItem.url !== null) {
-    html = `<a href="${randomItem.url}" ${randomItem.newTab ? `target="_blank"` : ``}>${html}</a>${
-      typeof randomItem.showClickImageGif !== `undefined` && randomItem.showClickImageGif ? `<img src="../../media/click-the-image.gif"/>` : ``
+  if (item.url !== null) {
+    html = `<a href="${item.url}" ${item.newTab ? `target="_blank"` : ``}>${html}</a>${
+      typeof item.showClickImageGif !== `undefined` && item.showClickImageGif ? `<img src="../../media/click-the-image.gif"/>` : ``
     }`;
   }
   $(`#content`).html(html);
