@@ -24,6 +24,7 @@ body {
 
 .v-back {
     text-decoration: none;
+    text-align: center;
     color: black;
     padding-bottom: 80px;
     font-weight: bold;
