@@ -1,5 +1,5 @@
 import $ from 'jquery';
-// import config from '../config.json';
+import config from '../config.json';
 
 const rnd = Math.floor(Math.random() * 99999);
 
@@ -20,20 +20,27 @@ const contentHtml = {
   `,
 };
 
-let config = {};
+let envConfig = config;
+const url = window.location.href;
+let loc = false;
+
+// For local development.
+if (url.includes(`localhost`) || url.includes(`.loc`)) {
+  loc = true;
+}
 
 function setLinks(v) {
   let href = ``;
   let newTab = false;
-  if (config[v].mode === `set`) {
-    if (config[v].setContent.type !== `link`) {
+  if (envConfig[v].mode === `set`) {
+    if (envConfig[v].setContent.type !== `link`) {
       href = `/pages/${v}`;
     } else {
-      href = config[v].setContent.url;
-      newTab = config[v].setContent.newTab;
+      href = envConfig[v].setContent.url;
+      newTab = envConfig[v].setContent.newTab;
     }
   } else {
-    const randomItem = config[v].randomContent[Math.floor(Math.random() * config[v].randomContent.length)];
+    const randomItem = envConfig[v].randomContent[Math.floor(Math.random() * envConfig[v].randomContent.length)];
     if (randomItem.type !== `link`) {
       href = `/pages/${v}`;
     } else {
@@ -53,7 +60,9 @@ $(document).on(`click`, `.v-link`, function() {
 });
 
 $(document).ready(async () => {
-  config = await fetch(`https://v1v2v3.co/config.json?${rnd}`).then(res => res.json());
+  if (!loc) {
+    envConfig = await fetch(`https://v1v2v3.co/envConfig.json?${rnd}`).then(res => res.json());
+  }
   for (let i = 1; i <= 3; i++) {
     const v = `v${i}`;
     setLinks(v);
@@ -61,14 +70,16 @@ $(document).ready(async () => {
 });
 
 $(async () => {
-  const configx = await fetch(`https://v1v2v3.co/config.json?${rnd}`).then(res => res.json());
+  if (!loc) {
+    envConfig = await fetch(`https://v1v2v3.co/envConfig.json?${rnd}`).then(res => res.json());
+  }
   const v = $(`body`).attr(`data-v`);
   let item = null;
-  if (configx[v].mode === `set`) {
-    item = configx[v].setContent;
+  if (envConfig[v].mode === `set`) {
+    item = envConfig[v].setContent;
   } else {
-    const mediaOptions = configx[v].randomContent.filter(i => i.type !== `link`);
-    item = mediaOptions[Math.floor(Math.random() * configx[v].randomContent.length)];
+    const mediaOptions = envConfig[v].randomContent.filter(i => i.type !== `link`);
+    item = mediaOptions[Math.floor(Math.random() * envConfig[v].randomContent.length)];
   }
   let html = contentHtml[item.type](item.assetUrl);
   // If it has a link (not null), make it clickable. by wrapping in
