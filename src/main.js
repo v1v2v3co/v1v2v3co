@@ -18,7 +18,6 @@ const contentHtml = {
       Your browser does not support the video tag.
     </video>
   `,
-  audio: assetUrl => ``,
 };
 
 let config = {};

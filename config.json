@@ -2,11 +2,11 @@
 	"v1": {
 		"mode": "set",
 		"setContent": {
-			"name": "New Friends Shrigley",
+			"name": "Unnamed",
 			"type": "image",
 			"url": null,
-			"assetUrl": "/media/900.png",
-			"newTab": false
+			"assetUrl": "/media/unnamed.jpg",
+			"newTab": true
 		},
 		"randomContent": [
 			{
@@ -350,11 +350,25 @@
 				"assetUrl": null,
 				"url": "https://www.youtube.com/watch?v=nGmbyRaauog",
 				"newTab": true
+			},
+			{
+				"name": "Ways of Seeing",
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://www.youtube.com/watch?v=0pDE4VX_9Kk",
+				"newTab": true
+			},
+			{
+				"name": "Womanly-Kiri",
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://kiribm.com/womanly",
+				"newTab": true
 			}
 		]
 	},
 	"v2": {
-		"mode": "random",
+		"mode": "set",
 		"setContent": {
 			"name": "The Sound Images Make",
 			"type": "link",
@@ -705,11 +719,46 @@
 				"assetUrl": null,
 				"url": "https://www.google.com/search?client=safari&rls=en&q=zapatista&ie=UTF-8&oe=UTF-8",
 				"newTab": true
+			},
+			{
+				"name": "Man with a movie camera",
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://www.youtube.com/watch?v=cGYZ5847FiI",
+				"newTab": true
+			},
+			{
+				"name": "Gabby Douglas Doing the Dougie",
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://www.youtube.com/watch?v=Vq3_SClwxHY",
+				"newTab": true
+			},
+			{
+				"name": "Garbutt Estate Before Restoration",
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://www.youtube.com/watch?v=SF72BK-hApw",
+				"newTab": true
+			},
+			{
+				"name": "Matter Design Cement",
+				"type": "link",
+				"assetUrl": null,
+				"url": "http://www.matterdesignstudio.com/#/walking-assembly/",
+				"newTab": true
+			},
+			{
+				"name": "Most Expensive Paintings",
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://en.wikipedia.org/wiki/List_of_most_expensive_paintings",
+				"newTab": true
 			}
 		]
 	},
 	"v3": {
-		"mode": "random",
+		"mode": "set",
 		"setContent": {
 			"name": "Facial Weaponization Suite",
 			"type": "link",
@@ -1058,6 +1107,48 @@
 				"type": "link",
 				"assetUrl": null,
 				"url": "https://vimeo.com/254696585",
+				"newTab": true
+			},
+			{
+				"name": "Vetements Spring 2018",
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://www.vogue.com/fashion-shows/spring-2018-menswear/vetements/slideshow/collection#22",
+				"newTab": true
+			},
+			{
+				"name": "Wiki Tyvek",
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://www.vogue.com/fashion-shows/spring-2018-menswear/vetements/slideshow/collection#22",
+				"newTab": true
+			},
+			{
+				"name": "Michelle Falling",
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://www.youtube.com/watch?v=QHlNEdNnNGE",
+				"newTab": true
+			},
+			{
+				"name": "Horseshoe Theory",
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://en.wikipedia.org/wiki/Horseshoe_theory",
+				"newTab": true
+			},
+			{
+				"name": "Three Studies of Lucian Freud",
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://en.wikipedia.org/wiki/Three_Studies_of_Lucian_Freud",
+				"newTab": true
+			},
+			{
+				"name": "Hazel London Bella Noche",
+				"type": "link",
+				"assetUrl": null,
+				"url": "https://www.youtube.com/watch?v=sIouC-0QMmM",
 				"newTab": true
 			}
 		]
