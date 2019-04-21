@@ -2,10 +2,10 @@
 	"v1": {
 		"mode": "set",
 		"setContent": {
-			"name": "Unnamed",
-			"type": "image",
-			"url": null,
-			"assetUrl": "/media/unnamed.jpg",
+			"name": "New Friends",
+			"type": "link",
+			"url": "https://www.youtube.com/watch?v=FHCaK0vmd0Q",
+			"assetUrl": null,
 			"newTab": true
 		},
 		"randomContent": [

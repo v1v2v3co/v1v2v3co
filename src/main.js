@@ -61,7 +61,7 @@ $(document).on(`click`, `.v-link`, function() {
 
 $(document).ready(async () => {
   if (!loc) {
-    envConfig = await fetch(`https://v1v2v3.co/envConfig.json?${rnd}`).then(res => res.json());
+    envConfig = await fetch(`https://v1v2v3.co/config.json?${rnd}`).then(res => res.json());
   }
   for (let i = 1; i <= 3; i++) {
     const v = `v${i}`;
@@ -71,7 +71,7 @@ $(document).ready(async () => {
 
 $(async () => {
   if (!loc) {
-    envConfig = await fetch(`https://v1v2v3.co/envConfig.json?${rnd}`).then(res => res.json());
+    envConfig = await fetch(`https://v1v2v3.co/config.json?${rnd}`).then(res => res.json());
   }
   const v = $(`body`).attr(`data-v`);
   let item = null;
