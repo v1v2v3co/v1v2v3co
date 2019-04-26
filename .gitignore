@@ -1,3 +1,9 @@
 .DS_Store
 node_modules/
 ./CNAME
+pages/v1/media
+pages/v2/media
+pages/v3/media
+pages/v1/config.json
+pages/v2/config.json
+pages/v3/config.json
