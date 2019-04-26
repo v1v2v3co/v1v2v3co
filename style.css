@@ -46,7 +46,10 @@ body {
 a:focus,
 a:hover,
 a:active {
-    -webkit-box-shadow: none;
-    box-shadow: none;
-    background-color: unset;
+    -webkit-box-shadow: none !important;
+
+    box-shadow: none !important;
+
+    background-color: unset !important;
+
 }
