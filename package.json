@@ -5,25 +5,16 @@
 	"author": "Kyle George",
 	"license": "MIT",
 	"scripts": {
-		"watch": "parcel ./src/index.html --out-dir dist/js --port 3434 & onchange 'src/html/*' 'src/html' -- touch ./src/index.html"
+		"watch": "parcel ./src/index.html --out-dir dist/js --port 3434 & onchange 'src/html/*' 'src/html' -- touch ./src/index.html",
+		"stage": "git commit -a -m 'update' && git push 'https://github.com/kylepg/kylepg.github.io.git' master",
+		"publish": "git commit -a -m 'update' && git push 'https://github.com/v1v2v3co/v1v2v3co.git' master"
 	},
-	"eslintIgnore": [
-		"index.js",
-		"dist/**/*.js",
-		"dist/*.js",
-		"node_modules/"
-	],
+	"eslintIgnore": ["index.js", "dist/**/*.js", "dist/*.js", "node_modules/"],
 	"eslintConfig": {
-		"extends": [
-			"airbnb",
-			"prettier"
-		],
+		"extends": ["airbnb", "prettier"],
 		"rules": {
 			"no-console": 0,
-			"quotes": [
-				"error",
-				"backtick"
-			],
+			"quotes": ["error", "backtick"],
 			"func-names": 0,
 			"wrap-iife": 0,
 			"spaced-comment": 0,
@@ -50,9 +41,7 @@
 			"jquery": true
 		},
 		"parser": "babel-eslint",
-		"plugins": [
-			"prettier"
-		]
+		"plugins": ["prettier"]
 	},
 	"babel": {
 		"sourceMap": "inline",
@@ -66,9 +55,7 @@
 				}
 			]
 		],
-		"plugins": [
-			"transform-runtime"
-		],
+		"plugins": ["transform-runtime"],
 		"minified": true
 	},
 	"devDependencies": {
