@@ -2,9 +2,9 @@
 	"mode": "set",
 	"setContent": {
 		"name": "New Friends",
-		"type": "link",
-		"url": "https://www.youtube.com/watch?v=FHCaK0vmd0Q",
-		"assetUrl": null,
+		"type": "image",
+		"url": null,
+		"assetUrl": "./media/all 4's.jpeg",
 		"newTab": true
 	},
 	"randomContent": [

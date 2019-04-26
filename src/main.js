@@ -1,7 +1,7 @@
 import $ from 'jquery';
-// import config from '../config.json';
 
 const rnd = Math.floor(Math.random() * 99999);
+const url = window.location.href;
 
 const contentHtml = {
   image: assetUrl => `
@@ -20,27 +20,18 @@ const contentHtml = {
   `,
 };
 
-const envConfig = {};
-const url = window.location.href;
-let loc = false;
-
-// For local development.
-if (url.includes(`localhost`) || url.includes(`.loc`)) {
-  loc = true;
-}
-
-function setLinks(v) {
+function setLinks(v, config) {
   let href = ``;
   let newTab = false;
-  if (envConfig[v].mode === `set`) {
-    if (envConfig[v].setContent.type !== `link`) {
+  if (config[v].mode === `set`) {
+    if (config[v].setContent.type !== `link`) {
       href = `/pages/${v}`;
     } else {
-      href = envConfig[v].setContent.url;
-      newTab = envConfig[v].setContent.newTab;
+      href = config[v].setContent.url;
+      newTab = config[v].setContent.newTab;
     }
   } else {
-    const randomItem = envConfig[v].randomContent[Math.floor(Math.random() * envConfig[v].randomContent.length)];
+    const randomItem = config[v].randomContent[Math.floor(Math.random() * config[v].randomContent.length)];
     if (randomItem.type !== `link`) {
       href = `/pages/${v}`;
     } else {
@@ -54,47 +45,52 @@ function setLinks(v) {
   }
 }
 
-$(document).on(`click`, `.v-link`, function() {
-  const v = $(this).attr(`data-v`);
-  setLinks(v);
-});
-
-$(document).ready(async () => {
-  if (!loc) {
+$(async () => {
+  if (url.includes(`pages`)) {
+    const v = $(`body`).attr(`data-v`);
+    const config = await fetch(`./config.json?${rnd}`).then(res => res.json());
+    let item = null;
+    if (config.mode === `set`) {
+      item = config.setContent;
+    } else {
+      const mediaOptions = config.randomContent.filter(i => i.type !== `link`);
+      item = mediaOptions[Math.floor(Math.random() * config[v].randomContent.length)];
+    }
+    let html = contentHtml[item.type](item.assetUrl);
+    // If it has a link (not null), make it clickable. by wrapping in
+    if (item.url !== null) {
+      html = `<a href="${item.url}" ${item.newTab ? `target="_blank"` : ``}>${html}</a>${
+        typeof item.showClickImageGif !== `undefined` && item.showClickImageGif ? `<img src="../../media/click-the-image.gif"/>` : ``
+      }`;
+    }
+    $(`#content`).html(html);
+  } else {
+    const config = {};
     const promises = [
-      fetch(`https://v1v2v3.co/pages/v1/config.json?${rnd}`).then(res => {
-        envConfig.v1 = res.json();
-      }),
-      fetch(`https://v1v2v3.co/pages/v2/config.json?${rnd}`).then(res => {
-        envConfig.v2 = res.json();
-      }),
-      fetch(`https://v1v2v3.co/pages/v3/config.json?${rnd}`).then(res => {
-        envConfig.v3 = res.json();
-      }),
+      fetch(`../pages/v1/config.json?${rnd}`)
+        .then(res => res.json())
+        .then(res => {
+          config.v1 = res;
+        }),
+      fetch(`../pages/v2/config.json?${rnd}`)
+        .then(res => res.json())
+        .then(res => {
+          config.v2 = res;
+        }),
+      fetch(`../pages/v3/config.json?${rnd}`)
+        .then(res => res.json())
+        .then(res => {
+          config.v3 = res;
+        }),
     ];
     await Promise.all(promises);
+    for (let i = 1; i <= 3; i++) {
+      const v = `v${i}`;
+      setLinks(v, config);
+    }
+    $(document).on(`click`, `.v-link`, function() {
+      const v = $(this).attr(`data-v`);
+      setLinks(v, config);
+    });
   }
-  for (let i = 1; i <= 3; i++) {
-    const v = `v${i}`;
-    setLinks(v);
-  }
-});
-
-$(async () => {
-  const v = $(`body`).attr(`data-v`);
-  let item = null;
-  if (envConfig[v].mode === `set`) {
-    item = envConfig[v].setContent;
-  } else {
-    const mediaOptions = envConfig[v].randomContent.filter(i => i.type !== `link`);
-    item = mediaOptions[Math.floor(Math.random() * envConfig[v].randomContent.length)];
-  }
-  let html = contentHtml[item.type](item.assetUrl);
-  // If it has a link (not null), make it clickable. by wrapping in
-  if (item.url !== null) {
-    html = `<a href="${item.url}" ${item.newTab ? `target="_blank"` : ``}>${html}</a>${
-      typeof item.showClickImageGif !== `undefined` && item.showClickImageGif ? `<img src="../../media/click-the-image.gif"/>` : ``
-    }`;
-  }
-  $(`#content`).html(html);
 });
