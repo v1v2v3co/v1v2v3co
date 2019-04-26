@@ -1,5 +1,5 @@
 import $ from 'jquery';
-import config from '../config.json';
+// import config from '../config.json';
 
 const rnd = Math.floor(Math.random() * 99999);
 
@@ -20,7 +20,7 @@ const contentHtml = {
   `,
 };
 
-let envConfig = config;
+const envConfig = {};
 const url = window.location.href;
 let loc = false;
 
@@ -61,7 +61,18 @@ $(document).on(`click`, `.v-link`, function() {
 
 $(document).ready(async () => {
   if (!loc) {
-    envConfig = await fetch(`https://v1v2v3.co/config.json?${rnd}`).then(res => res.json());
+    const promises = [
+      fetch(`https://v1v2v3.co/pages/v1/config.json?${rnd}`).then(res => {
+        envConfig.v1 = res.json();
+      }),
+      fetch(`https://v1v2v3.co/pages/v2/config.json?${rnd}`).then(res => {
+        envConfig.v2 = res.json();
+      }),
+      fetch(`https://v1v2v3.co/pages/v3/config.json?${rnd}`).then(res => {
+        envConfig.v3 = res.json();
+      }),
+    ];
+    await Promise.all(promises);
   }
   for (let i = 1; i <= 3; i++) {
     const v = `v${i}`;
@@ -70,9 +81,6 @@ $(document).ready(async () => {
 });
 
 $(async () => {
-  if (!loc) {
-    envConfig = await fetch(`https://v1v2v3.co/config.json?${rnd}`).then(res => res.json());
-  }
   const v = $(`body`).attr(`data-v`);
   let item = null;
   if (envConfig[v].mode === `set`) {

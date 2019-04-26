@@ -1,0 +1,368 @@
+{
+	"mode": "set",
+	"setContent": {
+		"name": "New Friends",
+		"type": "link",
+		"url": "https://www.youtube.com/watch?v=FHCaK0vmd0Q",
+		"assetUrl": null,
+		"newTab": true
+	},
+	"randomContent": [
+		{
+			"name": "Day Job Jack Stauber",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=bybfO8OnORA",
+			"newTab": true
+		},
+		{
+			"name": "Stanky Leg Soulja",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=ro0DCOxxG18",
+			"newTab": true
+		},
+		{
+			"name": "The Cry of Jazz",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=gNv5l8KuoZw",
+			"newTab": true
+		},
+		{
+			"name": "Margiela Spring 1996",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.vogue.com/fashion-shows/spring-1996-ready-to-wear/maison-martin-margiela/slideshow/collection#5",
+			"newTab": true
+		},
+		{
+			"name": "Margiela Spring 1998",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.vogue.com/fashion-shows/spring-1998-ready-to-wear/maison-martin-margiela/slideshow/collection#10",
+			"newTab": true
+		},
+		{
+			"name": "1800 Girls",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=RoPYK1SlCN0",
+			"newTab": true
+		},
+		{
+			"name": "DMX Jail",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://isdmxinjail.com",
+			"newTab": true
+		},
+		{
+			"name": "Chrono Shredder",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://www.susannahertrich.com/work/chrono-shredder-i-iv/",
+			"newTab": true
+		},
+		{
+			"name": "Im Here Spike Jonze",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=6OY1EXZt4ok",
+			"newTab": true
+		},
+		{
+			"name": "Alien Uzi Dancing",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=x_UfBJF47nk",
+			"newTab": true
+		},
+		{
+			"name": "Dennis Potter Interview",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=OjTnojZQ--0",
+			"newTab": true
+		},
+		{
+			"name": "These Things Happen",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=2GLHvOhXOyQ",
+			"newTab": true
+		},
+		{
+			"name": "Kids Talking about Dreams",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=7T8vJccbof4",
+			"newTab": true
+		},
+		{
+			"name": "Conception and Contraception",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=fUn_ihqjoEY",
+			"newTab": true
+		},
+		{
+			"name": "Spinnerooni",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=61s4v0f-1sk",
+			"newTab": true
+		},
+		{
+			"name": "Steven Reich Drumming",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=doJk4yPwJDk",
+			"newTab": true
+		},
+		{
+			"name": "Beri Beri Nice",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=cp8NYBUBnss",
+			"newTab": true
+		},
+		{
+			"name": "St. Ides BIG",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=5-vVn3gBXZM",
+			"newTab": true
+		},
+		{
+			"name": "My Perfect Cousin",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=Pgqa3cVOxUc",
+			"newTab": true
+		},
+		{
+			"name": "Kalen Seeing Double",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://www.kalenhollomon.com/work-1#/seeing-double-2016/",
+			"newTab": true
+		},
+		{
+			"name": "Kanye Curb Your Enthusiasm",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?time_continue=136&v=LFLzBB7NCrA",
+			"newTab": true
+		},
+		{
+			"name": "Tabita",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://www.tabitarezaire.com",
+			"newTab": true
+		},
+		{
+			"name": "A Tribe Called Quest Scenario",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=Q6TLWqn82J4",
+			"newTab": true
+		},
+		{
+			"name": "Wouldnt Get Far",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=MlzrC-B6n-M",
+			"newTab": true
+		},
+		{
+			"name": "Outkast Prototype",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=uqhJfjbNuQg",
+			"newTab": true
+		},
+		{
+			"name": "Van Gogh At Eternity Gate",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://en.wikipedia.org/wiki/At_Eternity%27s_Gate",
+			"newTab": true
+		},
+		{
+			"name": "Sabrina Fuentes",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://www.noagency.nyc/talent#/sabrina-fuentes/",
+			"newTab": true
+		},
+		{
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://chomsky.info/books/",
+			"newTab": true
+		},
+		{
+			"name": "Principles of Good Design",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.vitsoe.com/gb/about/good-design",
+			"newTab": true
+		},
+		{
+			"name": "Nowness Radically Queer",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.nowness.com/seasons/radically-queer/rambling-eileen-myles-chelsea-mcmullen",
+			"newTab": true
+		},
+		{
+			"name": "John Jacob Jingleheimer Schmidt",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.mamalisa.com/?t=es&p=2356",
+			"newTab": true
+		},
+		{
+			"name": "Pounded Yam",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=QaNiwHP58BM",
+			"newTab": true
+		},
+		{
+			"name": "Chinese Google",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://www.baidu.com/",
+			"newTab": true
+		},
+		{
+			"name": "Khaki Swing",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=OLSjcGjLQ7s",
+			"newTab": true
+		},
+		{
+			"name": "Notorius Bum",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=ENAbFBQxZVw&t=76s",
+			"newTab": true
+		},
+		{
+			"name": "Mixed Signals PSA",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=E6i6BHvSEGc",
+			"newTab": true
+		},
+		{
+			"name": "Crack is Whack",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=kovGM1ZrCck",
+			"newTab": true
+		},
+		{
+			"name": "Bruce Mau",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://www.manifestoproject.it/bruce-mau/",
+			"newTab": true
+		},
+		{
+			"name": "The Real Life Internet",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=n42TmD2B0mA",
+			"newTab": true
+		},
+		{
+			"name": "The Erl King",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://germanstories.vcu.edu/goethe/erl_dual.html",
+			"newTab": true
+		},
+		{
+			"name": "How to Flirt",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.wikihow.com/Flirt-Through-Instant-Messaging",
+			"newTab": true
+		},
+		{
+			"name": "Thats Hot",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=Xd9VwVPEhnQ",
+			"newTab": true
+		},
+		{
+			"name": "ChokeSlam Through the Ring",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=0-3UsAP1-6E",
+			"newTab": true
+		},
+		{
+			"name": "Dont tell Nobody",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=CfVdoAXwW3o",
+			"newTab": true
+		},
+		{
+			"name": "Al Green 3/4",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=s1jjBQqJGJs",
+			"newTab": true
+		},
+		{
+			"name": "Depression Scale",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.ismanet.org/doctoryourspirit/pdfs/Beck-Depression-Inventory-BDI.pdf",
+			"newTab": true
+		},
+		{
+			"name": "Tunica Studio",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://tunicastudio.com",
+			"newTab": true
+		},
+		{
+			"name": "Anders Krisar",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://anderskrisar.com/#/untitled_2009",
+			"newTab": true
+		},
+		{
+			"name": "Ja Funmi King Sunny Ade",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=nGmbyRaauog",
+			"newTab": true
+		},
+		{
+			"name": "Ways of Seeing",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=0pDE4VX_9Kk",
+			"newTab": true
+		},
+		{
+			"name": "Womanly-Kiri",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://kiribm.com/womanly",
+			"newTab": true
+		}
+	]
+}
