@@ -7,15 +7,31 @@
 		"mode": "random", // or "set"
 		"setContent": {
 			"type": "link",
-			"url": "https://www.youtube.com/watch?v=bybfO8OnORA",
-			"newTab": false
+			"assetUrl": null,
+			"url": "http://covers.i-d.co/",
+			"newTab": true // Change to false to open in current tab
 		},
 		"randomContent": [
+			// Link example:
 			{
-				"type": "link", // or "image"
-				"assetUrl": null, // "./media/image-name.jpeg
+				"type": "link",
+				"assetUrl": null,
 				"url": "http://covers.i-d.co/",
-				"newTab": true // or false
+				"newTab": true // Change to false to open in current tab
+			},
+			// Uploaded PDF example:
+			{
+				"type": "link",
+				"assetUrl": null,
+				"url": "./pages/v2/media/pdf-name.pdf",
+				"newTab": true // Change to false to open in current tab
+			},
+			// Image example:
+			{
+				"type": "image",
+				"assetUrl": './media/image-name.jpeg",
+				"url": null, // Change this to a link if you want the image to be clickable
+				"newTab": true
 			},
 		]
 }
