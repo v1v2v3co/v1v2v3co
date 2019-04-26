@@ -3,7 +3,7 @@ body {
 }
 
 html {
-    -webkit-tap-highlight-color: transparent;
+    -webkit-tap-highlight-color: transparent !important;
 }
 
 .page-wrap {
@@ -55,5 +55,6 @@ a:active {
     box-shadow: none !important;
 
     background-color: unset !important;
+    -webkit-tap-highlight-color: transparent !important;
 
 }
