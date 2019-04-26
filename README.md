@@ -29,7 +29,7 @@
 			// Image example:
 			{
 				"type": "image",
-				"assetUrl": './media/image-name.jpeg",
+				"assetUrl": "./media/image-name.jpeg",
 				"url": null, // Change this to a link if you want the image to be clickable
 				"newTab": true
 			},
