@@ -42,3 +42,11 @@ body {
     max-height: 90vh;
     height: inherit !important;
 }
+
+a:focus,
+a:hover,
+a:active {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background-color: unset;
+}
