@@ -1,10 +1,10 @@
 {
-	"mode": "random",
+	"mode": "set",
 	"setContent": {
 		"name": "New Friends Shrigley",
-		"type": "image",
-		"url": null,
-		"assetUrl": "./media/baldesari.jpg",
+		"type": "link",
+		"url": "https://www.youtube.com/watch?v=FHCaK0vmd0Q",
+		"assetUrl": null,
 		"newTab": null
 	},
 	"randomContent": [
