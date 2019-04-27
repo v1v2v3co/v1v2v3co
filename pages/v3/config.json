@@ -2,10 +2,10 @@
 	"mode": "set",
 	"setContent": {
 		"name": "Facial Weaponization Suite",
-		"type": "image",
-		"assetUrl": "/pages/v3/media/all 4's.jpeg",
-		"url": null,
-		"newTab": false
+		"type": "link",
+		"assetUrl": null,
+		"url": "http://www.zachblas.info/works/facial-weaponization-suite/",
+		"newTab": true
 	},
 	"randomContent": [
 		{
