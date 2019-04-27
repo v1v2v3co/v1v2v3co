@@ -2,10 +2,10 @@
 	"mode": "set",
 	"setContent": {
 		"name": "Depression Scale",
-		"type": "image",
-		"assetUrl": "/pages/v2/media/mjspacejam.jpg",
-		"url": null,
-		"newTab": false
+		"type": "link",
+		"assetUrl": null,
+		"url": "https://thesoundthisimagemakes.tumblr.com",
+		"newTab": true
 	},
 	"randomContent": [
 		{
