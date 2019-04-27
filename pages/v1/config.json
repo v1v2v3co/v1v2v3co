@@ -358,6 +358,20 @@
 			"newTab": true
 		},
 		{
+			"name": "Data Reality",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.datareality.io",
+			"newTab": true
+		},
+		{
+			"name": "Deja Vu BET",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=74_wHWjgl00",
+			"newTab": true
+		},
+		{
 			"name": "2 Today",
 			"type": "image",
 			"assetUrl": "./media/2 today.png",
