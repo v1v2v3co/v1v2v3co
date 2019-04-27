@@ -463,13 +463,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Stop Trespassing",
-			"type": "image",
-			"assetUrl": "./media/StopTrespassing.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Trainspotting",
 			"type": "image",
 			"assetUrl": "./media/Trainspotting.png",
