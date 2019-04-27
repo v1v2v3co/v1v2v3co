@@ -394,6 +394,13 @@
 			"newTab": true
 		},
 		{
+			"name": "German Word Moving Forward",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://en.wikipedia.org/wiki/Vergangenheitsbewältigung",
+			"newTab": true
+		},
+		{
 			"name": "Horn Antenna",
 			"type": "image",
 			"assetUrl": "./media/763px-Horn_Antenna-in_Holmdel,_New_Jersey.jpeg",
