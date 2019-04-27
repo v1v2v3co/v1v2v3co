@@ -457,13 +457,6 @@
 			"newTab": false
 		},
 		{
-			"name": "But none of the windows",
-			"type": "image",
-			"assetUrl": "./media/butnoneofthemwerehis.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Choose A Face",
 			"type": "image",
 			"assetUrl": "./media/chooseaface.png",
@@ -513,13 +506,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Yves klein Fire Painting",
-			"type": "image",
-			"assetUrl": "./media/fire-painting-F25-yves-klein-1961.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Francis Capra Yankee Fitted",
 			"type": "image",
 			"assetUrl": "./media/francis_capra_1167493791.jpg",
@@ -537,13 +523,6 @@
 			"name": "In A Society",
 			"type": "image",
 			"assetUrl": "./media/inasociety.png",
-			"url": null,
-			"newTab": false
-		},
-		{
-			"name": "Is this Green",
-			"type": "image",
-			"assetUrl": "./media/isthisgreen.png",
 			"url": null,
 			"newTab": false
 		},
@@ -586,13 +565,6 @@
 			"name": "me on the runway",
 			"type": "image",
 			"assetUrl": "./media/meontherunway.png",
-			"url": null,
-			"newTab": false
-		},
-		{
-			"name": "Moncler",
-			"type": "image",
-			"assetUrl": "./media/moncler.png",
 			"url": null,
 			"newTab": false
 		},
