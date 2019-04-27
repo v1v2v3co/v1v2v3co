@@ -1,5 +1,5 @@
 {
-	"mode": "set",
+	"mode": "random",
 	"setContent": {
 		"name": "Depression Scale",
 		"type": "link",
@@ -389,301 +389,301 @@
 		{
 			"name": "Horn Antenna",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/763px-Horn_Antenna-in_Holmdel,_New_Jersey.jpeg",
+			"assetUrl": "./media/763px-Horn_Antenna-in_Holmdel,_New_Jersey.jpeg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "Balenciaga Shoulders",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/Balenciagahighshoulders.jpg",
+			"assetUrl": "./media/Balenciagahighshoulders.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "Tyvek House",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/HOUSE3.jpg",
+			"assetUrl": "./media/HOUSE3.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "Architecture Model",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/Loor_Alejandro_2A_FA16_web.jpg",
+			"assetUrl": "./media/Loor_Alejandro_2A_FA16_web.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "Tomato Head",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/McCarthy_Tomato_Head_Green_Hauser_Wirth_vertical.jpg",
+			"assetUrl": "./media/McCarthy_Tomato_Head_Green_Hauser_Wirth_vertical.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "Pakistani Airlines",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/Pakistan-airlines-WTC.jpg",
+			"assetUrl": "./media/Pakistan-airlines-WTC.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "Al Sharptoon",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/alsharpton.jpg",
+			"assetUrl": "./media/alsharpton.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "anklelock",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/anklelock.jpg",
+			"assetUrl": "./media/anklelock.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "Tips For Artists",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/baldessari_tipsforartists.jpg",
+			"assetUrl": "./media/baldessari_tipsforartists.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "Balenciaga Coveryaface",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/balenciaga-ss18coveryaface.jpg",
+			"assetUrl": "./media/balenciaga-ss18coveryaface.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "alex katz",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/bathing-cap-ada_lr.jpg",
+			"assetUrl": "./media/bathing-cap-ada_lr.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "Being John Malkovich",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/being-john-malkovich.jpg",
+			"assetUrl": "./media/being-john-malkovich.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "BEN SCHneiner",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/benschneidershoe.jpg",
+			"assetUrl": "./media/benschneidershoe.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "Black men in suits",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/blackmeninsuits.png",
+			"assetUrl": "./media/blackmeninsuits.png",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "12 in squares",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/bochner_12inchessquare_800__26398.jpg",
+			"assetUrl": "./media/bochner_12inchessquare_800__26398.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "The Wu",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/claninthefront.jpeg",
+			"assetUrl": "./media/claninthefront.jpeg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "CDG Shoes",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/cdgshoes.jpg",
+			"assetUrl": "./media/cdgshoes.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "CDG AD",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/comme-des-garcons-ad-1995-1.jpg",
+			"assetUrl": "./media/comme-des-garcons-ad-1995-1.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "RMUTT",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/duchamp-fountaine.jpg",
+			"assetUrl": "./media/duchamp-fountaine.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "dot and the line enigmatic",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/enigmatic.jpg",
+			"assetUrl": "./media/enigmatic.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "idk her name anymore",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/forgothername.png",
+			"assetUrl": "./media/forgothername.png",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "HOMOVHETERO",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/homovhetero.jpg",
+			"assetUrl": "./media/homovhetero.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "Jil Sanders",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/jil-sander-1978.jpg",
+			"assetUrl": "./media/jil-sander-1978.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "Kaia Airpods",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/kaiaairpod.jpg",
+			"assetUrl": "./media/kaiaairpod.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "Kissing Kissing",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/kissingpink.png",
+			"assetUrl": "./media/kissingpink.png",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "Kris Jenner",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/krisjenner.jpg",
+			"assetUrl": "./media/krisjenner.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "lillil uzi",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/lilliluzi.jpg",
+			"assetUrl": "./media/lilliluzi.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "margiela mask",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/margielamask.jpg",
+			"assetUrl": "./media/margielamask.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "an image of me",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/me.png",
+			"assetUrl": "./media/me.png",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "mj space jame",
 			"type": "image",
-			"assetUrl": "mjspacejam.jpg",
+			"assetUrl": "./media/mjspacejam.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "mod fashion",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/mod-clothing1.jpg",
+			"assetUrl": "./media/mod-clothing1.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "my president",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/mypresident.jpg",
+			"assetUrl": "./media/mypresident.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "airforce 2",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/nikeairforce2.jpg",
+			"assetUrl": "./media/nikeairforce2.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "no doubt huh",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/nodoubt1992.jpg",
+			"assetUrl": "./media/nodoubt1992.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "ODOG",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/odog.jpg",
+			"assetUrl": "./media/odog.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "ray j and kim",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/rayjandkim.jpg",
+			"assetUrl": "./media/rayjandkim.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "shorties w baggies",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/shortieswbaggies.png",
+			"assetUrl": "./media/shortieswbaggies.png",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "so many flowers",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/somanyflowers.png",
+			"assetUrl": "./media/somanyflowers.png",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "sphagetti limp",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/sphagettilimp.jpg",
+			"assetUrl": "./media/sphagettilimp.jpg",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "this is nyc",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/thisisnyc.png",
+			"assetUrl": "./media/thisisnyc.png",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "UNI",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/uniform.png",
+			"assetUrl": "./media/uniform.png",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "vaninshing point",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/vanishingpoint.png",
+			"assetUrl": "./media/vanishingpoint.png",
 			"url": null,
 			"newTab": false
 		},
 		{
 			"name": "wrapped up",
 			"type": "image",
-			"assetUrl": "/pages/v2/media/wrappedup.jpeg",
+			"assetUrl": "./media/wrappedup.jpeg",
 			"url": null,
 			"newTab": false
 		}
