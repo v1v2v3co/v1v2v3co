@@ -47,14 +47,13 @@ function setLinks(v, config) {
 
 $(async () => {
   if (url.includes(`pages`)) {
-    const v = $(`body`).attr(`data-v`);
     const config = await fetch(`./config.json?${rnd}`).then(res => res.json());
     let item = null;
     if (config.mode === `set`) {
       item = config.setContent;
     } else {
       const mediaOptions = config.randomContent.filter(i => i.type !== `link`);
-      item = mediaOptions[Math.floor(Math.random() * config[v].randomContent.length)];
+      item = mediaOptions[Math.floor(Math.random() * config.randomContent.length)];
     }
     let html = contentHtml[item.type](item.assetUrl);
     // If it has a link (not null), make it clickable. by wrapping in
