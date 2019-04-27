@@ -387,6 +387,13 @@
 			"newTab": true
 		},
 		{
+			"name": "Wall Street Interviews",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=UiMus1FJb9w",
+			"newTab": true
+		},
+		{
 			"name": "Horn Antenna",
 			"type": "image",
 			"assetUrl": "./media/763px-Horn_Antenna-in_Holmdel,_New_Jersey.jpeg",
