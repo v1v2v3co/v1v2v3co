@@ -394,6 +394,13 @@
 			"newTab": true
 		},
 		{
+			"name": "Fritz The Cat",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?time_continue=51&v=kf7diA3Rcp8",
+			"newTab": true
+		},
+		{
 			"name": "Dot and the Line Compelling",
 			"type": "image",
 			"assetUrl": "./media/compelling.jpg",
