@@ -1,5 +1,5 @@
 {
-	"mode": "set",
+	"mode": "random",
 	"setContent": {
 		"name": "Facial Weaponization Suite",
 		"type": "link",
@@ -392,6 +392,335 @@
 			"assetUrl": null,
 			"url": "https://www.youtube.com/watch?v=sIouC-0QMmM",
 			"newTab": true
+		},
+		{
+			"name": "Dot and the Line Compelling",
+			"type": "image",
+			"assetUrl": "./media/compelling.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "NO Doubt Milk",
+			"type": "image",
+			"assetUrl": "./media/90sbanddrinksmilk.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Hardy Boyz",
+			"type": "image",
+			"assetUrl": "./media/Hardy-Boyz-WWE.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Joie Lee",
+			"type": "image",
+			"assetUrl": "./media/Joie lee6.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "STAMP",
+			"type": "image",
+			"assetUrl": "./media/SICKO STAMP.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Touba Senegal",
+			"type": "image",
+			"assetUrl": "./media/Touba.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "All my pals are",
+			"type": "image",
+			"assetUrl": "./media/all-my-pals.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "al sharpton",
+			"type": "image",
+			"assetUrl": "./media/alsharpton.jpeg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Bjork",
+			"type": "image",
+			"assetUrl": "./media/bjorkorel.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "But none of the windows",
+			"type": "image",
+			"assetUrl": "./media/butnoneofthemwerehis.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Choose A Face",
+			"type": "image",
+			"assetUrl": "./media/chooseaface.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Class of 1998",
+			"type": "image",
+			"assetUrl": "./media/class-of-1998-.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Drug Lord",
+			"type": "image",
+			"assetUrl": "./media/columbiadruglord.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Darius Miles",
+			"type": "image",
+			"assetUrl": "./media/dariusmiles.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Dime Glory Challenge",
+			"type": "image",
+			"assetUrl": "./media/dimeglory.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Ellen Gallagher",
+			"type": "image",
+			"assetUrl": "./media/ellengallaghermany.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Fashion Bag Walk",
+			"type": "image",
+			"assetUrl": "./media/fashionbag.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Yves klein Fire Painting",
+			"type": "image",
+			"assetUrl": "./media/fire-painting-F25-yves-klein-1961.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Francis Capra Yankee Fitted",
+			"type": "image",
+			"assetUrl": "./media/francis_capra_1167493791.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Holocaust memorial",
+			"type": "image",
+			"assetUrl": "./media/holocaustmemorial.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "In A Society",
+			"type": "image",
+			"assetUrl": "./media/inasociety.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Is this Green",
+			"type": "image",
+			"assetUrl": "./media/isthisgreen.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "I talk I smile",
+			"type": "image",
+			"assetUrl": "./media/italkismile.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Judy Chicago",
+			"type": "image",
+			"assetUrl": "./media/judy chicago.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Kanye Fucking Awesome",
+			"type": "image",
+			"assetUrl": "./media/kanyefuckingawesome.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "LO LIFE",
+			"type": "image",
+			"assetUrl": "./media/lo-life-2.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Mandark",
+			"type": "image",
+			"assetUrl": "./media/mandark-outfit.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "me on the runway",
+			"type": "image",
+			"assetUrl": "./media/meontherunway.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Moncler",
+			"type": "image",
+			"assetUrl": "./media/moncler.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Mormon Family",
+			"type": "image",
+			"assetUrl": "./media/mormonfamily.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Mexican in Dickies",
+			"type": "image",
+			"assetUrl": "./media/newgetup.jpeg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Newsstand",
+			"type": "image",
+			"assetUrl": "./media/newsstand.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Nigerians in Japan",
+			"type": "image",
+			"assetUrl": "./media/nigeriansinjapan.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "NGV",
+			"type": "image",
+			"assetUrl": "./media/pablo-picasso-battle-empire-art-15.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "potential reactions",
+			"type": "image",
+			"assetUrl": "./media/potentialreactions.jpeg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Pray in a box",
+			"type": "image",
+			"assetUrl": "./media/prayinabox.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Prince is undefeated",
+			"type": "image",
+			"assetUrl": "./media/prince.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Pritzker Prize",
+			"type": "image",
+			"assetUrl": "./media/pritzkerprize.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Protect the Mosque",
+			"type": "image",
+			"assetUrl": "./media/protectthemosque.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Rimowa Collab",
+			"type": "image",
+			"assetUrl": "./media/rimowa.jpeg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Save Yourself First",
+			"type": "image",
+			"assetUrl": "./media/saveyourself.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Shoot That Hoe",
+			"type": "image",
+			"assetUrl": "./media/shootthathoe.jpeg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Stop IN Different Languages",
+			"type": "image",
+			"assetUrl": "./media/stopindifferentlangauges.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Suicide Virgins",
+			"type": "image",
+			"assetUrl": "./media/suicides1-0010.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Twiggy",
+			"type": "image",
+			"assetUrl": "twiggybaby.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Twin Towers Nice Sky",
+			"type": "image",
+			"assetUrl": "./media/twintowersnicesky.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Walls of Jericho",
+			"type": "image",
+			"assetUrl": "./media/wallsofjericho.png",
+			"url": null,
+			"newTab": false
 		}
 	]
 }
