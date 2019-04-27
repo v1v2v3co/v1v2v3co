@@ -55,6 +55,8 @@ $(async () => {
       const mediaOptions = config.randomContent.filter(i => i.type !== `link`);
       item = mediaOptions[Math.floor(Math.random() * config.randomContent.length)];
     }
+    console.log(config);
+    console.log(item);
     let html = contentHtml[item.type](item.assetUrl);
     // If it has a link (not null), make it clickable. by wrapping in
     if (item.url !== null) {

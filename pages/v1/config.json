@@ -1,11 +1,11 @@
 {
 	"mode": "set",
 	"setContent": {
-		"name": "Test",
+		"name": "New Friends Shrigley",
 		"type": "image",
 		"url": null,
-		"assetUrl": "./media/all 4's.jpeg",
-		"newTab": true
+		"assetUrl": "./media/baldesari.jpg",
+		"newTab": null
 	},
 	"randomContent": [
 		{
@@ -239,13 +239,6 @@
 			"newTab": true
 		},
 		{
-			"name": "Khaki Swing",
-			"type": "link",
-			"assetUrl": null,
-			"url": "https://www.youtube.com/watch?v=OLSjcGjLQ7s",
-			"newTab": true
-		},
-		{
 			"name": "Notorius Bum",
 			"type": "link",
 			"assetUrl": null,
@@ -363,6 +356,342 @@
 			"assetUrl": null,
 			"url": "https://kiribm.com/womanly",
 			"newTab": true
+		},
+		{
+			"name": "2 Today",
+			"type": "image",
+			"assetUrl": "./media/2 today.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "3 Billboards",
+			"type": "image",
+			"assetUrl": "./media/3 Billboards.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Apple Logo",
+			"type": "image",
+			"assetUrl": "./media/Appleorsomething.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "CDG Dunks",
+			"type": "image",
+			"assetUrl": "./media/CDG See through.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Cube without Corner",
+			"type": "image",
+			"assetUrl": "./media/Cubewocorner.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Earl Sharpton",
+			"type": "image",
+			"assetUrl": "./media/Earl Sharpton.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Hank Willis Thomas Lynch",
+			"type": "image",
+			"assetUrl": "./media/Hank-Willis-Thomas-And-One-FORT_GANSEVOORT-nyc-artreport-1170x2247.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "All these phones",
+			"type": "image",
+			"assetUrl": "./media/Hiro_Tanaka_Around42nd_015.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Holocaust Memorial",
+			"type": "image",
+			"assetUrl": "./media/Holocaust memorial.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Larry King Mug Shot",
+			"type": "image",
+			"assetUrl": "./media/Larry_King_mug_shot.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Leo Romeo vs Juliett",
+			"type": "image",
+			"assetUrl": "./media/LeoSquad.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Moshe Safdie",
+			"type": "image",
+			"assetUrl": "./media/Moshe Safdie.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Gwen Stefani",
+			"type": "image",
+			"assetUrl": "./media/Nodoubt1992album.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Pretty Sick",
+			"type": "image",
+			"assetUrl": "./media/PrettySickHuh.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Reflective Ayat Jacket",
+			"type": "image",
+			"assetUrl": "./media/Reflectiveayat.JPG",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Reggie Bush",
+			"type": "image",
+			"assetUrl": "./media/ReggieBush.jpeg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Stop Trespassing",
+			"type": "image",
+			"assetUrl": "./media/StopTrespassing.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Trainspotting",
+			"type": "image",
+			"assetUrl": "./media/Trainspotting.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "We Did This to Ourselves",
+			"type": "image",
+			"assetUrl": "./media/Wedidthis.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "World Trade Center",
+			"type": "image",
+			"assetUrl": "./media/World_Trade_Center_fog.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "All You Can Eat",
+			"type": "image",
+			"assetUrl": "./media/allyoucaneat.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Airport Transporting",
+			"type": "image",
+			"assetUrl": "./media/attheairport.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Half A Shirt",
+			"type": "image",
+			"assetUrl": "./media/ayenewshirt.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Baldesari",
+			"type": "image",
+			"assetUrl": "./media/baldesari.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Black Shorties",
+			"type": "image",
+			"assetUrl": "./media/black shorties.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Black Airpods",
+			"type": "image",
+			"assetUrl": "./media/blackairpodscolorware-800x519.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Bullying duh",
+			"type": "image",
+			"assetUrl": "./media/bullying.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Clothesline Colors",
+			"type": "image",
+			"assetUrl": "./media/clothescolors.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Darius Miles",
+			"type": "image",
+			"assetUrl": "./media/dariusandQ.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Different Shapes and Sizes",
+			"type": "image",
+			"assetUrl": "./media/differentshapesandsizes.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Queenie II",
+			"type": "image",
+			"assetUrl": "./media/duane-hanson-queenie-ii.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "FreakBroPoster",
+			"type": "image",
+			"assetUrl": "./media/freakbrosposter.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "How the Brain Works",
+			"type": "image",
+			"assetUrl": "./media/how the brain works.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Industry Plant",
+			"type": "image",
+			"assetUrl": "./media/industry plant.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Jean Arp",
+			"type": "image",
+			"assetUrl": "./media/jean arp.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Jordan Pitching",
+			"type": "image",
+			"assetUrl": "./media/jordan pitching.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Jordyn White",
+			"type": "image",
+			"assetUrl": "./media/jordyn.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "KD Scared of Brush",
+			"type": "image",
+			"assetUrl": "./media/kdbrushyahair.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Knitted",
+			"type": "image",
+			"assetUrl": "./media/knitted too.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Lovely",
+			"type": "image",
+			"assetUrl": "./media/lovely.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Mr and Mrs Woodman",
+			"type": "image",
+			"assetUrl": "./media/man ray mr and mrs woodman.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "MosYeKobeSwizz",
+			"type": "image",
+			"assetUrl": "./media/mosyekobeswizz.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "DotandLineMysterious",
+			"type": "image",
+			"assetUrl": "./media/mysterious.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Pablo Picasso Dessinant",
+			"type": "image",
+			"assetUrl": "./media/pablo-picasso-battle-empire-art-16.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Raul Steinbergg",
+			"type": "image",
+			"assetUrl": "./media/raul-steinberg.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Vanishing Point",
+			"type": "image",
+			"assetUrl": "./media/vanishing point room.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "White Guys in Suits",
+			"type": "image",
+			"assetUrl": "./media/whiteguysinsuits.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Wrapped Up",
+			"type": "image",
+			"assetUrl": "./media/wrappedup.png",
+			"url": null,
+			"newTab": false
 		}
 	]
 }
