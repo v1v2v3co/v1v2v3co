@@ -372,6 +372,13 @@
 			"newTab": true
 		},
 		{
+			"name": "Stay Safe",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=wkT18Hymthg",
+			"newTab": true
+		},
+		{
 			"name": "2 Today",
 			"type": "image",
 			"assetUrl": "./media/2 today.png",
