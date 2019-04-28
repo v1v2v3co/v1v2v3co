@@ -1,5 +1,5 @@
 {
-	"mode": "set",
+	"mode": "random",
 	"setContent": {
 		"name": "New Friends Shrigley",
 		"type": "link",
@@ -683,6 +683,363 @@
 			"name": "Wrapped Up",
 			"type": "image",
 			"assetUrl": "./media/wrappedup.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Princess Diana",
+			"type": "image",
+			"assetUrl": "./media/Dianaaa.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Kanye Cartier",
+			"type": "image",
+			"assetUrl": "./media/DucX-KaWwAAcn0i.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Political Poster",
+			"type": "image",
+			"assetUrl": "./media/Ephemera-Poster-Paris-Student-Political-On-Nous-Intoxique-1969.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Ford Falcon",
+			"type": "image",
+			"assetUrl": "./media/FordFalcon.JPG",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Hausa Folk",
+			"type": "image",
+			"assetUrl": "./media/Hausa-people.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Spilled Drum",
+			"type": "image",
+			"assetUrl": "./media/LC10S030_Mucho_Caliente..jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Juggling Titties",
+			"type": "image",
+			"assetUrl": "./media/Marion_Fayolle_Les_Coquins_04.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Nigerian Boy",
+			"type": "image",
+			"assetUrl": "./media/Nigerian Boy.jpeg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Sismos",
+			"type": "image",
+			"assetUrl": "./media/SISMOS.JPG",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Scrubs",
+			"type": "image",
+			"assetUrl": "./media/Scrubs V1V2V3.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "African Independence",
+			"type": "image",
+			"assetUrl": "./media/africanindependence.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Anna Wintour probably Chanel",
+			"type": "image",
+			"assetUrl": "./media/anna-wintour-young-style-243063-1511787179718-image.1200x0c.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Basketball Png",
+			"type": "image",
+			"assetUrl": "./media/basketball.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "boot w tie being worn",
+			"type": "image",
+			"assetUrl": "./media/boot-with-tie-being-worn.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Bunny",
+			"type": "image",
+			"assetUrl": "./media/bunny.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "craiggreen",
+			"type": "image",
+			"assetUrl": "./media/craiggreen.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "adderall",
+			"type": "image",
+			"assetUrl": "./media/d11_bll_adderall_22.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Female Body",
+			"type": "image",
+			"assetUrl": "./media/female body.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Fighting Grandma",
+			"type": "image",
+			"assetUrl": "./media/fightinggrandma.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "William Thompson Funny Picture",
+			"type": "image",
+			"assetUrl": "./media/funny-pictures-of-people-living-in-future-23-5b1e7eeed7af6__605.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Hamzat",
+			"type": "image",
+			"assetUrl": "./media/hamzat.jpeg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "I Pass By",
+			"type": "image",
+			"assetUrl": "./media/ipass.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "",
+			"type": "image",
+			"assetUrl": "./media/japannowness.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Jean Arp",
+			"type": "image",
+			"assetUrl": "./media/jean arp.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "JW Anderson",
+			"type": "image",
+			"assetUrl": "./media/jwandersonconverse.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Labor Defender",
+			"type": "image",
+			"assetUrl": "./media/labordefender.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "malice@thepalace",
+			"type": "image",
+			"assetUrl": "./media/malicev1.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Massage",
+			"type": "image",
+			"assetUrl": "./media/massage.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Me Again",
+			"type": "image",
+			"assetUrl": "./media/meagainagain.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "never forget",
+			"type": "image",
+			"assetUrl": "./media/neverforget.JPG",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Kris Kross Apple Sauce",
+			"type": "image",
+			"assetUrl": "./media/newvedw11 copy.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Nipple Snake",
+			"type": "image",
+			"assetUrl": "./media/nipplesnake.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Nike Air",
+			"type": "image",
+			"assetUrl": "./media/ourbestathletes.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Photo",
+			"type": "image",
+			"assetUrl": "./media/photo.jpeg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Nike Air Forces Piet",
+			"type": "image",
+			"assetUrl": "./media/piet-nike-air-force-1-golf-2.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "pullup",
+			"type": "image",
+			"assetUrl": "./media/pullup.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Rock SHow Harajuku",
+			"type": "image",
+			"assetUrl": "./media/rockshowharajuku.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "scotty2hotty",
+			"type": "image",
+			"assetUrl": "./media/scotty2hotty.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Sex",
+			"type": "image",
+			"assetUrl": "./media/sex.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "ShoeHorn Painting",
+			"type": "image",
+			"assetUrl": "./media/shoehorn.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Slump",
+			"type": "image",
+			"assetUrl": "./media/slump.jpeg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "SMD",
+			"type": "image",
+			"assetUrl": "./media/smd.JPG",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Stray Dogs",
+			"type": "image",
+			"assetUrl": "./media/straydogs.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Tear Through The Wall",
+			"type": "image",
+			"assetUrl": "./media/tearthroughthewall.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Trylon",
+			"type": "image",
+			"assetUrl": "./media/trylon-perisphere_2009.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Watermelon Women",
+			"type": "image",
+			"assetUrl": "./media/watermelonwomen.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "whats up nigga",
+			"type": "image",
+			"assetUrl": "./media/whatsupnigga.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "What the Fuck",
+			"type": "image",
+			"assetUrl": "./media/whatthefuck.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "With The Twist",
+			"type": "image",
+			"assetUrl": "./media/witthetwist.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "With The Twist",
+			"type": "image",
+			"assetUrl": "./media/wrestlinghoes.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "With The Twist",
+			"type": "image",
+			"assetUrl": "./media/wrestlinghoes.png",
 			"url": null,
 			"newTab": false
 		}
