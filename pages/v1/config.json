@@ -967,13 +967,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Slump",
-			"type": "image",
-			"assetUrl": "./media/slump.jpeg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "SMD",
 			"type": "image",
 			"assetUrl": "./media/smd.JPG",
