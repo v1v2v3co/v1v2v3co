@@ -408,6 +408,13 @@
 			"newTab": true
 		},
 		{
+			"name": "Manu Pillai",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://manupillai.info",
+			"newTab": true
+		},
+		{
 			"name": "Dot and the Line Compelling",
 			"type": "image",
 			"assetUrl": "./media/compelling.jpg",
