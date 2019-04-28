@@ -708,13 +708,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Ford Falcon",
-			"type": "image",
-			"assetUrl": "./media/FordFalcon.JPG",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Hausa Folk",
 			"type": "image",
 			"assetUrl": "./media/Hausa-people.jpg",
