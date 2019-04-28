@@ -400,13 +400,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Cube without Corner",
-			"type": "image",
-			"assetUrl": "./media/Cubewocorner.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Earl Sharpton",
 			"type": "image",
 			"assetUrl": "./media/Earl Sharpton.png",
