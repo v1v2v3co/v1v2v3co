@@ -40,6 +40,7 @@ function setLinks(v, config) {
     }
   }
   $(`a[data-v="${v}"]`).attr(`href`, href);
+  $(`a[data-v="${v}"]`).attr(`target`, `_self`);
   if (newTab) {
     $(`a[data-v="${v}"]`).attr(`target`, `_blank`);
   }

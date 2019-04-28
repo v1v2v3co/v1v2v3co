@@ -1,5 +1,4 @@
 .DS_Store
 node_modules/
 ./CNAME
-pages/**/media
-pages/**/config.json
+pages/**/media/

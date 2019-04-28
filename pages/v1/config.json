@@ -1,11 +1,11 @@
 {
-	"mode": "random",
+	"mode": "set",
 	"setContent": {
-		"name": "New Friends Shrigley",
-		"type": "image",
-		"url": null,
-		"assetUrl": "./media/baldesari.jpg",
-		"newTab": null
+		"name": "Day Job Jack Stauber",
+		"type": "link",
+		"assetUrl": null,
+		"url": "https://www.youtube.com/watch?v=bybfO8OnORA",
+		"newTab": true
 	},
 	"randomContent": [
 		{
