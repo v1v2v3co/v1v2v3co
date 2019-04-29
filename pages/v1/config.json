@@ -379,6 +379,13 @@
 			"newTab": true
 		},
 		{
+			"name": "Good Morning Vietnam",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=BIikfdNIHQE",
+			"newTab": true
+		},
+		{
 			"name": "2 Today",
 			"type": "image",
 			"assetUrl": "./media/2 today.png",
