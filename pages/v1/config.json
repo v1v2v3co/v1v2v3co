@@ -1021,6 +1021,13 @@
 			"assetUrl": "./media/shrigley-those-who-get-it.jpg",
 			"url": null,
 			"newTab": false
+		},
+		{
+			"name": "Man in Polyseter Suit",
+			"type": "image",
+			"assetUrl": "./media/robert-mapplethorpe-man-in-polyester-suit-1980.jpg",
+			"url": null,
+			"newTab": false
 		}
 	]
 }
