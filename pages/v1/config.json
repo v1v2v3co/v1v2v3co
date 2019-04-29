@@ -645,13 +645,6 @@
 			"newTab": false
 		},
 		{
-			"name": "DotandLineMysterious",
-			"type": "image",
-			"assetUrl": "./media/mysterious.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Pablo Picasso Dessinant",
 			"type": "image",
 			"assetUrl": "./media/pablo-picasso-battle-empire-art-16.jpg",
