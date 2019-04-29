@@ -1022,6 +1022,13 @@
 			"assetUrl": "./media/willywonkaslat.png",
 			"url": null,
 			"newTab": false
+		},
+		{
+			"name": "Those Who get it",
+			"type": "image",
+			"assetUrl": "./media/shrigley-those-who-get-it.jpg",
+			"url": null,
+			"newTab": false
 		}
 	]
 }
