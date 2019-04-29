@@ -736,13 +736,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Sismos",
-			"type": "image",
-			"assetUrl": "./media/SISMOS.JPG",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Scrubs",
 			"type": "image",
 			"assetUrl": "./media/Scrubs V1V2V3.png",
