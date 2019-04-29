@@ -688,13 +688,6 @@
 			"newTab": false
 		},
 		{
-			"name": "vaninshing point",
-			"type": "image",
-			"assetUrl": "./media/vanishingpoint.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "wrapped up",
 			"type": "image",
 			"assetUrl": "./media/wrappedup.jpeg",
