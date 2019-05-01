@@ -386,6 +386,69 @@
 			"newTab": true
 		},
 		{
+			"name": "Charlie Engman",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://www.charlieengman.com",
+			"newTab": true
+		},
+		{
+			"name": "Front Window View",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=ukOHqdPbYYg",
+			"newTab": true
+		},
+		{
+			"name": "Breathing Exercise",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.google.com/search?client=safari&rls=en&q=breathing+exercise&ie=UTF-8&oe=UTF-8",
+			"newTab": true
+		},
+		{
+			"name": "HBB",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://en.wikipedia.org/wiki/",
+			"newTab": true
+		},
+		{
+			"name": "Mobile Review",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://mobile-review.com/print.php?filename=/articles/2010/iphone-history1-en.shtml",
+			"newTab": true
+		},
+		{
+			"name": "Indian Boy Dancing",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=t0mbGiwckT0 ",
+			"newTab": true
+		},
+		{
+			"name": "Mac Dre",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=-mAo37uEpeE",
+			"newTab": true
+		},
+		{
+			"name": "Steve Lacy",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://en.wikipedia.org/wiki/Steve_Lacy_(saxophonist)",
+			"newTab": true
+		},
+		{
+			"name": "Make your own tube",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.instructables.com/id/Make-your-own-Kraft-Paper-Tubes/",
+			"newTab": true
+		},
+		{
 			"name": "2 Today",
 			"type": "image",
 			"assetUrl": "./media/2 today.png",
