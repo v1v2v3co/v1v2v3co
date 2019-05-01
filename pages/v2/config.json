@@ -478,6 +478,20 @@
 			"newTab": true
 		},
 		{
+			"name": "Lightskin Awareness",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=0-Y0Is3iXU",
+			"newTab": true
+		},
+		{
+			"name": "Mos Def Freestyling",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=SmqXKbxDoJ0",
+			"newTab": true
+		},
+		{
 			"name": "Horn Antenna",
 			"type": "image",
 			"assetUrl": "./media/763px-Horn_Antenna-in_Holmdel,_New_Jersey.jpeg",
