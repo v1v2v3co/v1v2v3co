@@ -456,6 +456,13 @@
 			"newTab": true
 		},
 		{
+			"name": "Faithless Live",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=T1XoC5ctUNU&feature=youtu.be&t=1175",
+			"newTab": true
+		},
+		{
 			"name": "2 Today",
 			"type": "image",
 			"assetUrl": "./media/2 today.png",
