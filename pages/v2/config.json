@@ -499,6 +499,28 @@
 			"newTab": true
 		},
 		{
+			"name": "No I dont know",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://noidontknow.com",
+			"newTab": true
+		},
+		
+		{
+			"name": "Save the Sounds",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://www.savethesounds.info",
+			"newTab": true
+		},
+		{
+			"name": "Sink Slow",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://www.sinkslow.com",
+			"newTab": true
+		},
+		{
 			"name": "Horn Antenna",
 			"type": "image",
 			"assetUrl": "./media/763px-Horn_Antenna-in_Holmdel,_New_Jersey.jpeg",
