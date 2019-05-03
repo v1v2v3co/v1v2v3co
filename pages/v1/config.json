@@ -477,6 +477,13 @@
 			"newTab": true
 		},
 		{
+			"name": "The end of internet",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://hmpg.net",
+			"newTab": true
+		},
+		{
 			"name": "2 Today",
 			"type": "image",
 			"assetUrl": "./media/2 today.png",
