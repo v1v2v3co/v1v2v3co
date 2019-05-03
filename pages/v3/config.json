@@ -506,6 +506,27 @@
 			"newTab": true
 		},
 		{
+			"name": "Ten Years Ago",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://tenyearsago.io",
+			"newTab": true
+		},
+		{
+			"name": "CNNs First Broadcast",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=dqDopY5dMD8#t=50s",
+			"newTab": true
+		},
+		{
+			"name": "Spend Bill Gates Money",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://neal.fun/spend/",
+			"newTab": true
+		},
+		{
 			"name": "NO Doubt Milk",
 			"type": "image",
 			"assetUrl": "./media/90sbanddrinksmilk.jpg",
