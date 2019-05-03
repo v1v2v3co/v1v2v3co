@@ -463,6 +463,13 @@
 			"newTab": true
 		},
 		{
+			"name": "Kyoto Trash",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://kyoto-kogomi.net/wp-content/uploads/2016/04/gg-eng.pdf",
+			"newTab": true
+		},
+		{
 			"name": "2 Today",
 			"type": "image",
 			"assetUrl": "./media/2 today.png",
