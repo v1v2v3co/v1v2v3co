@@ -470,6 +470,13 @@
 			"newTab": true
 		},
 		{
+			"name": "Flight Radar",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.flightradar24.com/-2.31,-8.79/4",
+			"newTab": true
+		},
+		{
 			"name": "2 Today",
 			"type": "image",
 			"assetUrl": "./media/2 today.png",
