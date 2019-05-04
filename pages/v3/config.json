@@ -639,13 +639,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Newsstand",
-			"type": "image",
-			"assetUrl": "./media/newsstand.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Nigerians in Japan",
 			"type": "image",
 			"assetUrl": "./media/nigeriansinjapan.jpg",
