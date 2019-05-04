@@ -617,23 +617,9 @@
 			"newTab": false
 		},
 		{
-			"name": "Half A Shirt",
-			"type": "image",
-			"assetUrl": "./media/ayenewshirt.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Baldesari",
 			"type": "image",
 			"assetUrl": "./media/baldesari.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
-			"name": "Black Shorties",
-			"type": "image",
-			"assetUrl": "./media/black shorties.jpg",
 			"url": null,
 			"newTab": false
 		},
