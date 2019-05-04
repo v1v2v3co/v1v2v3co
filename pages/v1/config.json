@@ -645,13 +645,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Queenie II",
-			"type": "image",
-			"assetUrl": "./media/duane-hanson-queenie-ii.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "FreakBroPoster",
 			"type": "image",
 			"assetUrl": "./media/freakbrosposter.png",
