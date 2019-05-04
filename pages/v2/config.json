@@ -661,13 +661,6 @@
 			"newTab": false
 		},
 		{
-			"name": "mj space jame",
-			"type": "image",
-			"assetUrl": "./media/mjspacejam.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "mod fashion",
 			"type": "image",
 			"assetUrl": "./media/mod-clothing1.jpg",
