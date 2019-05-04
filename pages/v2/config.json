@@ -885,13 +885,6 @@
 			"newTab": false
 		},
 		{
-			"name": "fitted",
-			"type": "image",
-			"assetUrl": "./media/fitted.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "fonz",
 			"type": "image",
 			"assetUrl": "./media/fonz.png",
