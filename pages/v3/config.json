@@ -877,13 +877,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Cleo",
-			"type": "image",
-			"assetUrl": "./media/connor:cleo.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Fall Back",
 			"type": "image",
 			"assetUrl": "./media/fallbackdaddy.jpg",
