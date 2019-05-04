@@ -661,13 +661,6 @@
 			"newTab": false
 		},
 		{
-			"name": "ray j and kim",
-			"type": "image",
-			"assetUrl": "./media/rayjandkim.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "shorties w baggies",
 			"type": "image",
 			"assetUrl": "./media/shortieswbaggies.png",
@@ -867,13 +860,6 @@
 			"name": "Kobe to Smush",
 			"type": "image",
 			"assetUrl": "./media/passtheball.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
-			"name": "Red Pink Black",
-			"type": "image",
-			"assetUrl": "./media/redpinkblack.png",
 			"url": null,
 			"newTab": false
 		},
