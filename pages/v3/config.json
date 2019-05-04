@@ -959,13 +959,6 @@
 			"assetUrl": "./media/tyga.jpg",
 			"url": null,
 			"newTab": false
-		},
-		{
-			"name": "Tic TAc toe",
-			"type": "image",
-			"assetUrl": "./media/xo.png",
-			"url": null,
-			"newTab": false
 		}
 	]
 }
