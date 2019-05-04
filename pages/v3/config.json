@@ -884,13 +884,6 @@
 			"newTab": false
 		},
 		{
-			"name": "This Pink is Beautiful",
-			"type": "image",
-			"assetUrl": "./media/knowthispink.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Money baby",
 			"type": "image",
 			"assetUrl": "./media/money.png",
