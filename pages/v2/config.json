@@ -675,13 +675,6 @@
 			"newTab": false
 		},
 		{
-			"name": "sphagetti limp",
-			"type": "image",
-			"assetUrl": "./media/sphagettilimp.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "this is nyc",
 			"type": "image",
 			"assetUrl": "./media/thisisnyc.png",
