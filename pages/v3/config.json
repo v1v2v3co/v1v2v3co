@@ -681,13 +681,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Save Yourself First",
-			"type": "image",
-			"assetUrl": "./media/saveyourself.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Shoot That Hoe",
 			"type": "image",
 			"assetUrl": "./media/shootthathoe.jpeg",
