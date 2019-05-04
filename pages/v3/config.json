@@ -604,13 +604,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Fashion Bag Walk",
-			"type": "image",
-			"assetUrl": "./media/fashionbag.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Francis Capra Yankee Fitted",
 			"type": "image",
 			"assetUrl": "./media/francis_capra_1167493791.jpg",
