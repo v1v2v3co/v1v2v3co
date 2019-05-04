@@ -912,13 +912,6 @@
 			"newTab": false
 		},
 		{
-			"name": "The morning after",
-			"type": "image",
-			"assetUrl": "./media/themorning.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "tiny sunglasses",
 			"type": "image",
 			"assetUrl": "./media/tinysunglasse.jpg",
