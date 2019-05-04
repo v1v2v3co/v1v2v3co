@@ -527,13 +527,6 @@
 			"newTab": true
 		},
 		{
-			"name": "STAMP",
-			"type": "image",
-			"assetUrl": "./media/SICKO STAMP.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Touba Senegal",
 			"type": "image",
 			"assetUrl": "./media/Touba.jpg",
