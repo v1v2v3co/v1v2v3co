@@ -932,27 +932,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Watermelon Women",
-			"type": "image",
-			"assetUrl": "./media/watermelonwomen.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
-			"name": "whats up nigga",
-			"type": "image",
-			"assetUrl": "./media/whatsupnigga.png",
-			"url": null,
-			"newTab": false
-		},
-		{
-			"name": "What the Fuck",
-			"type": "image",
-			"assetUrl": "./media/whatthefuck.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "With The Twist",
 			"type": "image",
 			"assetUrl": "./media/witthetwist.jpg",
