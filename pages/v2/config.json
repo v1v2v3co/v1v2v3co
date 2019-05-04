@@ -871,20 +871,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Shirt",
-			"type": "image",
-			"assetUrl": "./media/shirtshirt.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
-			"name": "Shoes wo",
-			"type": "image",
-			"assetUrl": "./media/shoeswoshoestrings.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "So Modern",
 			"type": "image",
 			"assetUrl": "./media/somodern.png",
