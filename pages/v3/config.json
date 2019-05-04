@@ -639,13 +639,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Mexican in Dickies",
-			"type": "image",
-			"assetUrl": "./media/newgetup.jpeg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Newsstand",
 			"type": "image",
 			"assetUrl": "./media/newsstand.jpg",
