@@ -862,13 +862,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Nipple Snake",
-			"type": "image",
-			"assetUrl": "./media/nipplesnake.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Nike Air",
 			"type": "image",
 			"assetUrl": "./media/ourbestathletes.jpg",
