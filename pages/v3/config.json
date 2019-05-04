@@ -870,13 +870,6 @@
 			"newTab": false
 		},
 		{
-			"name": "See Through Bag",
-			"type": "image",
-			"assetUrl": "./media/baggie.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Golf Balls Beetle Juice",
 			"type": "image",
 			"assetUrl": "./media/beatlejuice.jpg",
