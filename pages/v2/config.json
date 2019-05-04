@@ -871,13 +871,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Immortal",
-			"type": "image",
-			"assetUrl": "./media/immortal.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "John Dankwa",
 			"type": "image",
 			"assetUrl": "./media/johndankwa.png",
