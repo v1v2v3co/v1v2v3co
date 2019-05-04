@@ -638,13 +638,6 @@
 			"newTab": false
 		},
 		{
-			"name": "FreakBroPoster",
-			"type": "image",
-			"assetUrl": "./media/freakbrosposter.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "How the Brain Works",
 			"type": "image",
 			"assetUrl": "./media/how the brain works.png",
