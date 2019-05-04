@@ -528,13 +528,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Tyvek House",
-			"type": "image",
-			"assetUrl": "./media/HOUSE3.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Architecture Model",
 			"type": "image",
 			"assetUrl": "./media/Loor_Alejandro_2A_FA16_web.jpg",
