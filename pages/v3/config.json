@@ -870,13 +870,6 @@
 			"newTab": false
 		},
 		{
-			"name": "KAws Dior",
-			"type": "image",
-			"assetUrl": "./media/kaws.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Keep Lagos Clean",
 			"type": "image",
 			"assetUrl": "./media/keeplagosclean.jpg",
