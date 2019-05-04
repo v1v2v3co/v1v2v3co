@@ -568,13 +568,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Trainspotting",
-			"type": "image",
-			"assetUrl": "./media/Trainspotting.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "We Did This to Ourselves",
 			"type": "image",
 			"assetUrl": "./media/Wedidthis.jpg",
