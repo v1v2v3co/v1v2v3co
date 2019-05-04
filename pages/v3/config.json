@@ -695,13 +695,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Twiggy",
-			"type": "image",
-			"assetUrl": "./media/twiggybaby.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Pan Am Logo",
 			"type": "image",
 			"assetUrl": "./media/1200px-Pan_Am_Logo.svg.png",
