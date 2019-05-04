@@ -540,13 +540,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Larry King Mug Shot",
-			"type": "image",
-			"assetUrl": "./media/Larry_King_mug_shot.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Leo Romeo vs Juliett",
 			"type": "image",
 			"assetUrl": "./media/LeoSquad.jpg",
