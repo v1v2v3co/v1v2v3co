@@ -638,13 +638,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Clothesline Colors",
-			"type": "image",
-			"assetUrl": "./media/clothescolors.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Darius Miles",
 			"type": "image",
 			"assetUrl": "./media/dariusandQ.jpg",
