@@ -632,13 +632,6 @@
 			"newTab": false
 		},
 		{
-			"name": "me on the runway",
-			"type": "image",
-			"assetUrl": "./media/meontherunway.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Mormon Family",
 			"type": "image",
 			"assetUrl": "./media/mormonfamily.jpg",
