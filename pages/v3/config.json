@@ -723,13 +723,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Walls of Jericho",
-			"type": "image",
-			"assetUrl": "./media/wallsofjericho.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Pan Am Logo",
 			"type": "image",
 			"assetUrl": "./media/1200px-Pan_Am_Logo.svg.png",
