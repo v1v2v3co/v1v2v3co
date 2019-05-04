@@ -730,13 +730,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Pray in a box",
-			"type": "image",
-			"assetUrl": "./media/prayinabox.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Prince is undefeated",
 			"type": "image",
 			"assetUrl": "./media/prince.jpg",
