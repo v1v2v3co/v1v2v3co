@@ -611,23 +611,9 @@
 			"newTab": false
 		},
 		{
-			"name": "LO LIFE",
-			"type": "image",
-			"assetUrl": "./media/lo-life-2.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Mandark",
 			"type": "image",
 			"assetUrl": "./media/mandark-outfit.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
-			"name": "Mormon Family",
-			"type": "image",
-			"assetUrl": "./media/mormonfamily.jpg",
 			"url": null,
 			"newTab": false
 		},
