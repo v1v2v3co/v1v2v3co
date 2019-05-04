@@ -855,13 +855,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Bunny",
-			"type": "image",
-			"assetUrl": "./media/bunny.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "craiggreen",
 			"type": "image",
 			"assetUrl": "./media/craiggreen.jpg",
