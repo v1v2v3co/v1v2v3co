@@ -871,13 +871,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Devilman",
-			"type": "image",
-			"assetUrl": "./media/devilman.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Dizengoff Square",
 			"type": "image",
 			"assetUrl": "./media/dizengoff-square-tel-aviv-white-city-m100214-n.jpg",
