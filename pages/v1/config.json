@@ -869,13 +869,6 @@
 			"newTab": false
 		},
 		{
-			"name": "I Pass By",
-			"type": "image",
-			"assetUrl": "./media/ipass.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "",
 			"type": "image",
 			"assetUrl": "./media/japannowness.png",
