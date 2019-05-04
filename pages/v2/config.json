@@ -556,13 +556,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Al Sharptoon",
-			"type": "image",
-			"assetUrl": "./media/alsharpton.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "anklelock",
 			"type": "image",
 			"assetUrl": "./media/anklelock.jpg",
