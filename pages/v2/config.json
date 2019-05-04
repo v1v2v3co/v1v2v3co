@@ -876,6 +876,125 @@
 			"assetUrl": "./media/phoebe philo.jpg",
 			"url": null,
 			"newTab": false
+		},
+		{
+			"name": "Got Milk",
+			"type": "image",
+			"assetUrl": "./media/140224-got-milk-serena-venus-3p_ee5a03e7105b0b24b2a88dec644590e7.jpg*.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Bruce Nauman",
+			"type": "image",
+			"assetUrl": "./media/2012-45_1.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Racism",
+			"type": "image",
+			"assetUrl": "./media/C6LBD64WAAA9axm.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Jeff Koons Equilibrium",
+			"type": "image",
+			"assetUrl": "./media/EQUILIBRUIM JEFF KOONS.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Table",
+			"type": "image",
+			"assetUrl": "./media/InfraStruttura---4_1500.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Needles Collaboration",
+			"type": "image",
+			"assetUrl": "./media/Needles.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Braun Heat Gun",
+			"type": "image",
+			"assetUrl": "./media/braunheatgun.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Satisfy Her",
+			"type": "image",
+			"assetUrl": "./media/howtosatisfyher.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Issey Miyake",
+			"type": "image",
+			"assetUrl": "./media/issey-miyake-9410792-1-402.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Running of the bulls",
+			"type": "image",
+			"assetUrl": "./media/la-fg-running-of-the-bulls-pictures-2017-015.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Incomplete Open Cubes",
+			"type": "image",
+			"assetUrl": "./media/le-witt-incomplete-open-cubes-08a.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Please do not return",
+			"type": "image",
+			"assetUrl": "./media/lostfilofax.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Al Sharpton",
+			"type": "image",
+			"assetUrl": "./media/revalsharpton.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Size Venn Diagram",
+			"type": "image",
+			"assetUrl": "./media/size_venn_diagram_2x.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Still Life",
+			"type": "image",
+			"assetUrl": "./media/stilllife.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Nike Presto",
+			"type": "image",
+			"assetUrl": "./media/virgil-abloh-off-white-nike-presto.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "What it Do",
+			"type": "image",
+			"assetUrl": "./media/whatitdo.jpg",
+			"url": null,
+			"newTab": false
 		}
 	]
 }
