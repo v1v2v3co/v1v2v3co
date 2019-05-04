@@ -794,13 +794,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Caution Wide Right",
-			"type": "image",
-			"assetUrl": "./media/Caution-Wide-Right-Turns-Placard-Sign-DAS948J__17740.1481224354.1280.1280.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Checks",
 			"type": "image",
 			"assetUrl": "./media/Closky_V_Montparnasse_03.jpg",
