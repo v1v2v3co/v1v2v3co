@@ -757,13 +757,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Scrubs",
-			"type": "image",
-			"assetUrl": "./media/Scrubs V1V2V3.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "African Independence",
 			"type": "image",
 			"assetUrl": "./media/africanindependence.png",
