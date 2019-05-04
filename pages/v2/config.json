@@ -654,13 +654,6 @@
 			"newTab": false
 		},
 		{
-			"name": "margiela mask",
-			"type": "image",
-			"assetUrl": "./media/margielamask.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "an image of me",
 			"type": "image",
 			"assetUrl": "./media/me.png",
@@ -881,13 +874,6 @@
 			"name": "made u look",
 			"type": "image",
 			"assetUrl": "./media/madeulook.png",
-			"url": null,
-			"newTab": false
-		},
-		{
-			"name": "make up",
-			"type": "image",
-			"assetUrl": "./media/makeup.png",
 			"url": null,
 			"newTab": false
 		},
