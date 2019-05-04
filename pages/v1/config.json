@@ -876,13 +876,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Labor Defender",
-			"type": "image",
-			"assetUrl": "./media/labordefender.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "malice@thepalace",
 			"type": "image",
 			"assetUrl": "./media/malicev1.jpg",
