@@ -661,13 +661,6 @@
 			"newTab": false
 		},
 		{
-			"name": "shorties w baggies",
-			"type": "image",
-			"assetUrl": "./media/shortieswbaggies.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "so many flowers",
 			"type": "image",
 			"assetUrl": "./media/somanyflowers.png",
