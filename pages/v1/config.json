@@ -827,7 +827,7 @@
 			"newTab": false
 		},
 		{
-			"name": "",
+			"name": "Japan Nowness",
 			"type": "image",
 			"assetUrl": "./media/japannowness.png",
 			"url": null,
@@ -865,13 +865,6 @@
 			"name": "Me Again",
 			"type": "image",
 			"assetUrl": "./media/meagainagain.png",
-			"url": null,
-			"newTab": false
-		},
-		{
-			"name": "Kris Kross Apple Sauce",
-			"type": "image",
-			"assetUrl": "./media/newvedw11 copy.jpg",
 			"url": null,
 			"newTab": false
 		},
