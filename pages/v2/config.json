@@ -661,13 +661,6 @@
 			"newTab": false
 		},
 		{
-			"name": "my president",
-			"type": "image",
-			"assetUrl": "./media/mypresident.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "airforce 2",
 			"type": "image",
 			"assetUrl": "./media/nikeairforce2.jpg",
