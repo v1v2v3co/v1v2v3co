@@ -569,13 +569,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Choose A Face",
-			"type": "image",
-			"assetUrl": "./media/chooseaface.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Class of 1998",
 			"type": "image",
 			"assetUrl": "./media/class-of-1998-.jpg",
