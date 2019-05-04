@@ -787,13 +787,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Goodbye Picasso",
-			"type": "image",
-			"assetUrl": "./media/GoodbyePicasso.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Ill Show You All One Day",
 			"type": "image",
 			"assetUrl": "./media/Illshowyou.jpg",
