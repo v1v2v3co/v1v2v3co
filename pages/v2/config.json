@@ -668,13 +668,6 @@
 			"newTab": false
 		},
 		{
-			"name": "UNI",
-			"type": "image",
-			"assetUrl": "./media/uniform.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Checks",
 			"type": "image",
 			"assetUrl": "./media/Closky_V_Montparnasse_03.jpg",
