@@ -653,13 +653,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Prince is undefeated",
-			"type": "image",
-			"assetUrl": "./media/prince.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Pritzker Prize",
 			"type": "image",
 			"assetUrl": "./media/pritzkerprize.jpg",
