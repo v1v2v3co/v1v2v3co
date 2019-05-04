@@ -668,13 +668,6 @@
 			"newTab": false
 		},
 		{
-			"name": "this is nyc",
-			"type": "image",
-			"assetUrl": "./media/thisisnyc.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "UNI",
 			"type": "image",
 			"assetUrl": "./media/uniform.png",
