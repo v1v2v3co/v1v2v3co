@@ -877,13 +877,6 @@
 			"newTab": false
 		},
 		{
-			"name": "ShoeCover",
-			"type": "image",
-			"assetUrl": "./media/shoecovercover.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "White women show",
 			"type": "image",
 			"assetUrl": "./media/showsalimsent.png",
