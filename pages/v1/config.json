@@ -925,20 +925,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Sex",
-			"type": "image",
-			"assetUrl": "./media/sex.png",
-			"url": null,
-			"newTab": false
-		},
-		{
-			"name": "ShoeHorn Painting",
-			"type": "image",
-			"assetUrl": "./media/shoehorn.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "SMD",
 			"type": "image",
 			"assetUrl": "./media/smd.JPG",
