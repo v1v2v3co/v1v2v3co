@@ -944,6 +944,111 @@
 			"assetUrl": "./media/robert-mapplethorpe-man-in-polyester-suit-1980.jpg",
 			"url": null,
 			"newTab": false
+		},
+		{
+			"name": "Animal Nitrate",
+			"type": "image",
+			"assetUrl": "./media/ANIMAL NITRATE COVER.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Marc Quinn",
+			"type": "image",
+			"assetUrl": "./media/MARC QUINN 2001.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "ODB",
+			"type": "image",
+			"assetUrl": "./media/Ol’-Dirty-Bastard.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Poligony Table",
+			"type": "image",
+			"assetUrl": "./media/Poligony-table_three-pieces_Duccio-Maria-Gambi_special-project_Nero-design-gallery_01_1500.jpeg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Visine Test",
+			"type": "image",
+			"assetUrl": "./media/VISINETEST.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Antidepressants",
+			"type": "image",
+			"assetUrl": "./media/antidepressants.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Ball is lifeee",
+			"type": "image",
+			"assetUrl": "./media/ballislife.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Helmut Lang",
+			"type": "image",
+			"assetUrl": "./media/helmutlang.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "KobeyTyra",
+			"type": "image",
+			"assetUrl": "./media/kobetyra.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Lijadou Sis",
+			"type": "image",
+			"assetUrl": "./media/lijadou sis.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "MoreIssey",
+			"type": "image",
+			"assetUrl": "./media/moreissey.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "the nation of Islam",
+			"type": "image",
+			"assetUrl": "./media/nation.JPG",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Ring when...",
+			"type": "image",
+			"assetUrl": "./media/sculpture-2008-the-bell.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Simpsons Assasin",
+			"type": "image",
+			"assetUrl": "./media/simpsons-assasin.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "The Monogram",
+			"type": "image",
+			"assetUrl": "./media/themonogram.png",
+			"url": null,
+			"newTab": false
 		}
 	]
 }
