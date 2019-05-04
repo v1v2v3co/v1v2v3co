@@ -877,13 +877,6 @@
 			"newTab": false
 		},
 		{
-			"name": "black hope",
-			"type": "image",
-			"assetUrl": "./media/blackhope.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Chanel",
 			"type": "image",
 			"assetUrl": "./media/chanel.jpg",
