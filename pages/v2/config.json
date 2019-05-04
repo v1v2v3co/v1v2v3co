@@ -787,13 +787,6 @@
 			"newTab": false
 		},
 		{
-			"name": "made u look",
-			"type": "image",
-			"assetUrl": "./media/madeulook.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "module",
 			"type": "image",
 			"assetUrl": "./media/module.jpg",
