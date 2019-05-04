@@ -868,6 +868,69 @@
 			"assetUrl": "./media/tyga.jpg",
 			"url": null,
 			"newTab": false
+		},
+		{
+			"name": "MLK time traveling",
+			"type": "image",
+			"assetUrl": "./media/Mlktimetravel.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Saul Steinberg",
+			"type": "image",
+			"assetUrl": "./media/Saul_Steinberg_1978.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Warning Poem Shel",
+			"type": "image",
+			"assetUrl": "./media/Warning-Poem.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "What About Bob",
+			"type": "image",
+			"assetUrl": "./media/What_About_Bob.jpeg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Good Burger",
+			"type": "image",
+			"assetUrl": "./media/good-burger.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "No Cellphone",
+			"type": "image",
+			"assetUrl": "./media/hy-ko-stock-signs-hsv-205-64_1000.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Jacqmeus Bag",
+			"type": "image",
+			"assetUrl": "./media/jacqmeus.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "African people",
+			"type": "image",
+			"assetUrl": "./media/nintchdbpict000386549529.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Rubber",
+			"type": "image",
+			"assetUrl": "./media/rubber.png",
+			"url": null,
+			"newTab": false
 		}
 	]
 }
