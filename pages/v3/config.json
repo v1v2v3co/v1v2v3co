@@ -527,13 +527,6 @@
 			"newTab": true
 		},
 		{
-			"name": "Hardy Boyz",
-			"type": "image",
-			"assetUrl": "./media/Hardy-Boyz-WWE.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Joie Lee",
 			"type": "image",
 			"assetUrl": "./media/Joie lee6.jpg",
