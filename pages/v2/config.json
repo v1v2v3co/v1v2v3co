@@ -626,13 +626,6 @@
 			"newTab": false
 		},
 		{
-			"name": "CDG Shoes",
-			"type": "image",
-			"assetUrl": "./media/cdgshoes.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "CDG AD",
 			"type": "image",
 			"assetUrl": "./media/comme-des-garcons-ad-1995-1.jpg",
