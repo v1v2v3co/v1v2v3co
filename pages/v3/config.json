@@ -884,13 +884,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Indulge yourself",
-			"type": "image",
-			"assetUrl": "./media/indulgeyourself.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "KAws Dior",
 			"type": "image",
 			"assetUrl": "./media/kaws.png",
