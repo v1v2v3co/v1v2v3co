@@ -654,13 +654,6 @@
 			"newTab": false
 		},
 		{
-			"name": "an image of me",
-			"type": "image",
-			"assetUrl": "./media/me.png",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "mod fashion",
 			"type": "image",
 			"assetUrl": "./media/mod-clothing1.jpg",
