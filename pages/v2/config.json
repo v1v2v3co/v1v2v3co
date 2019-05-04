@@ -556,13 +556,6 @@
 			"newTab": false
 		},
 		{
-			"name": "anklelock",
-			"type": "image",
-			"assetUrl": "./media/anklelock.jpg",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Tips For Artists",
 			"type": "image",
 			"assetUrl": "./media/baldessari_tipsforartists.jpg",
