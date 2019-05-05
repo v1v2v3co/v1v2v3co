@@ -2,4 +2,6 @@
 node_modules/
 ./CNAME
 pages/**/media/
-pages/**/config.json
+/pages/v1/*
+/pages/v2/*
+/pages/v3/*

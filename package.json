@@ -9,12 +9,23 @@
 		"stage": "git commit -a -m 'update' && git push 'https://github.com/kylepg/kylepg.github.io.git' master",
 		"publish": "git commit -a -m 'update' && git push 'https://github.com/v1v2v3co/v1v2v3co.git' master"
 	},
-	"eslintIgnore": ["index.js", "dist/**/*.js", "dist/*.js", "node_modules/"],
+	"eslintIgnore": [
+		"index.js",
+		"dist/**/*.js",
+		"dist/*.js",
+		"node_modules/"
+	],
 	"eslintConfig": {
-		"extends": ["airbnb", "prettier"],
+		"extends": [
+			"airbnb",
+			"prettier"
+		],
 		"rules": {
 			"no-console": 0,
-			"quotes": ["error", "backtick"],
+			"quotes": [
+				"error",
+				"backtick"
+			],
 			"func-names": 0,
 			"wrap-iife": 0,
 			"spaced-comment": 0,
@@ -41,7 +52,9 @@
 			"jquery": true
 		},
 		"parser": "babel-eslint",
-		"plugins": ["prettier"]
+		"plugins": [
+			"prettier"
+		]
 	},
 	"babel": {
 		"sourceMap": "inline",
@@ -55,7 +68,9 @@
 				}
 			]
 		],
-		"plugins": ["transform-runtime"],
+		"plugins": [
+			"transform-runtime"
+		],
 		"minified": true
 	},
 	"devDependencies": {
@@ -90,6 +105,7 @@
 		"babel-polyfill": "^6.26.0",
 		"babel-runtime": "^6.26.0",
 		"jquery": "^3.3.1",
+		"js-cookie": "^2.2.0",
 		"npm": "^6.9.0"
 	}
 }

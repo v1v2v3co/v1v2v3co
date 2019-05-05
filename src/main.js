@@ -1,7 +1,13 @@
 import $ from 'jquery';
+import Cookies from 'js-cookie';
 
 const rnd = Math.floor(Math.random() * 99999);
 const url = window.location.href;
+if (Cookies.get(`v1v2v3_viewed`) === undefined) {
+  Cookies.set(`v1v2v3_viewed`, []);
+}
+let viewed = JSON.parse(Cookies.get(`v1v2v3_viewed`));
+console.log(viewed);
 
 const contentHtml = {
   image: assetUrl => `
@@ -31,12 +37,25 @@ function setLinks(v, config) {
       newTab = config[v].setContent.newTab;
     }
   } else {
-    const randomItem = config[v].randomContent[Math.floor(Math.random() * config[v].randomContent.length)];
+    let randomItem = ``;
+    while (true) {
+      randomItem = config[v].randomContent[Math.floor(Math.random() * config[v].randomContent.length)];
+      if (!viewed.includes(randomItem.name)) {
+        break;
+      }
+    }
     if (randomItem.type !== `link`) {
       href = `/pages/${v}`;
+      $(`a[data-v="${v}"]`).attr(`data-content-name`, `page`);
     } else {
       href = randomItem.url;
       newTab = randomItem.newTab;
+      // - Add cookie - //
+      if (viewed.length > 20) {
+        viewed = [];
+      }
+      viewed.push(randomItem.name);
+      Cookies.set(`v1v2v3_viewed`, viewed);
     }
   }
   $(`a[data-v="${v}"]`).attr(`href`, href);
@@ -47,6 +66,7 @@ function setLinks(v, config) {
 }
 
 $(async () => {
+  // * PAGE * //
   if (url.includes(`pages`)) {
     const config = await fetch(`./config.json?${rnd}`).then(res => res.json());
     let item = null;
@@ -54,8 +74,19 @@ $(async () => {
       item = config.setContent;
     } else {
       const mediaOptions = config.randomContent.filter(i => i.type !== `link`);
-      item = mediaOptions[Math.floor(Math.random() * mediaOptions.length)];
+      while (true) {
+        item = mediaOptions[Math.floor(Math.random() * mediaOptions.length)];
+        if (!viewed.includes(item.name)) {
+          break;
+        }
+      }
     }
+    // - Add cookie - //
+    if (viewed.length > 20) {
+      viewed = [];
+    }
+    viewed.push(item.name);
+    Cookies.set(`v1v2v3_viewed`, viewed);
     let html = contentHtml[item.type](item.assetUrl);
     // If it has a link (not null), make it clickable. by wrapping in
     if (item.url !== null) {
@@ -65,6 +96,7 @@ $(async () => {
     }
     $(`#content`).html(html);
   } else {
+    // * INDEX * //
     const config = {};
     const promises = [
       fetch(`../pages/v1/config.json?${rnd}`)
@@ -90,7 +122,9 @@ $(async () => {
     }
     $(document).on(`click`, `.v-link`, function() {
       const v = $(this).attr(`data-v`);
-      setLinks(v, config);
+      setTimeout(() => {
+        setLinks(v, config);
+      }, 1000);
     });
   }
 });
