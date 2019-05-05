@@ -6,7 +6,7 @@ const url = window.location.href;
 if (Cookies.get(`v1v2v3_viewed`) === undefined) {
   Cookies.set(`v1v2v3_viewed`, []);
 }
-let viewed = JSON.parse(Cookies.get(`v1v2v3_viewed`));
+const viewed = JSON.parse(Cookies.get(`v1v2v3_viewed`));
 console.log(viewed);
 
 const contentHtml = {
@@ -51,8 +51,8 @@ function setLinks(v, config) {
       href = randomItem.url;
       newTab = randomItem.newTab;
       // - Add cookie - //
-      if (viewed.length > 20) {
-        viewed = [];
+      if (viewed.length === 30) {
+        viewed.shift();
       }
       viewed.push(randomItem.name);
       Cookies.set(`v1v2v3_viewed`, viewed);
@@ -82,8 +82,8 @@ $(async () => {
       }
     }
     // - Add cookie - //
-    if (viewed.length > 20) {
-      viewed = [];
+    if (viewed.length === 30) {
+      viewed.shift();
     }
     viewed.push(item.name);
     Cookies.set(`v1v2v3_viewed`, viewed);
