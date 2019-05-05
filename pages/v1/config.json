@@ -491,6 +491,20 @@
 			"newTab": true
 		},
 		{
+			"name": "Runaways in New York",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=9DLuALBnolM",
+			"newTab": true
+		},
+		{
+			"name": "Random Letter Generator",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://www.dave-reed.com/Nifty/randSeq.html",
+			"newTab": true
+		},
+		{
 			"name": "2 Today",
 			"type": "image",
 			"assetUrl": "./media/2 today.png",
