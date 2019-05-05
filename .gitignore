@@ -1,7 +1,4 @@
 .DS_Store
 node_modules/
 ./CNAME
-pages/**/media/
-/pages/v1/*
-/pages/v2/*
-/pages/v3/*
+
