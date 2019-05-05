@@ -521,6 +521,27 @@
 			"newTab": true
 		},
 		{
+			"name": "Kenan and Kel",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=jgC18L6UOKQ",
+			"newTab": true
+		},
+		{
+			"name": "Jesus Walks Block Party",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?time_continue=50&v=dEzLvnXtqMc",
+			"newTab": true
+		},
+		{
+			"name": "Ason Unique in the Studio w Pharrell",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=nOfSXF21vkM",
+			"newTab": true
+		},
+		{
 			"name": "Balenciaga Shoulders",
 			"type": "image",
 			"assetUrl": "./media/Balenciagahighshoulders.jpg",
