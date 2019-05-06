@@ -731,13 +731,6 @@
 			"newTab": false
 		},
 		{
-			"name": "Lawson",
-			"type": "image",
-			"assetUrl": "./media/LAWSON.JPG",
-			"url": null,
-			"newTab": false
-		},
-		{
 			"name": "Marion Fayolle",
 			"type": "image",
 			"assetUrl": "./media/Marion_Fayolle_Les_Coquins_05.jpg",
