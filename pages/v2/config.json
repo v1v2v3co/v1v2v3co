@@ -1023,6 +1023,34 @@
 			"assetUrl": "./media/whatitdo.jpg",
 			"url": null,
 			"newTab": false
+		},
+		{
+			"name": "Rap Sheet",
+			"type": "image",
+			"assetUrl": "./media/31-8a100ab24f.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "CDG Perfum Ad",
+			"type": "image",
+			"assetUrl": "./media/double.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Mariko Mori",
+			"type": "image",
+			"assetUrl": "./media/mariko mori.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Sega Dreamcast",
+			"type": "image",
+			"assetUrl": "./media/sega-dreamcast-blighty-the-french-the-spanish-the-germans-print-61831-adeevee.jpg",
+			"url": null,
+			"newTab": false
 		}
 	]
 }
