@@ -1084,6 +1084,34 @@
 			"assetUrl": "./media/themonogram.png",
 			"url": null,
 			"newTab": false
+		},
+		{
+			"name": "2013SitePlan",
+			"type": "image",
+			"assetUrl": "./media/2013_siteplan.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Model of the Fondaizone",
+			"type": "image",
+			"assetUrl": "./media/model-of-the-building.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Not Your Friend",
+			"type": "image",
+			"assetUrl": "./media/notyourfriendcdg.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Philip Lorca",
+			"type": "image",
+			"assetUrl": "./media/PhilipLorca.jpg",
+			"url": null,
+			"newTab": false
 		}
 	]
 }
