@@ -505,6 +505,27 @@
 			"newTab": true
 		},
 		{
+			"name": "Method MAN",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=PEnwXYJcSZc",
+			"newTab": true
+		},
+		{
+			"name": "Rest in Red",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://soundcloud.com/mickey-beyda/rest-in-red",
+			"newTab": true
+		},
+		{
+			"name": "Balenciaga 18",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=C5EKQD6sWNc",
+			"newTab": true
+		},
+		{
 			"name": "2 Today",
 			"type": "image",
 			"assetUrl": "./media/2 today.png",
