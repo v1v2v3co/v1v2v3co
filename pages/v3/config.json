@@ -966,6 +966,34 @@
 			"assetUrl": "./media/rubber.png",
 			"url": null,
 			"newTab": false
+		},
+		{
+			"name": "DOUBLE 3 CDG",
+			"type": "image",
+			"assetUrl": "./media/double-3.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "FBI OFFICE PARTY",
+			"type": "image",
+			"assetUrl": "./media/fbiofficeparty.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Wanted Poster",
+			"type": "image",
+			"assetUrl": "./media/poster933.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "ODB WutangClan",
+			"type": "image",
+			"assetUrl": "./media/10-ca86ac8be1.jpg",
+			"url": null,
+			"newTab": false
 		}
 	]
 }
