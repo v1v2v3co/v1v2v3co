@@ -555,6 +555,13 @@
 			"newTab": true
 		},
 		{
+			"name": "Brud",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://docs.google.com/document/d/1V5N5tcfm7wBuUshgrmIOz9ijAO-VRqvkUbGRu0uKdI8/edit",
+			"newTab": true
+		},
+		{
 			"name": "Touba Senegal",
 			"type": "image",
 			"assetUrl": "./media/Touba.jpg",
