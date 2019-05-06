@@ -541,6 +541,20 @@
 			"newTab": true
 		},
 		{
+			"name": "Ayonha",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://soundcloud.com/mayonnaisebaybeh/hamid-el-shaeri-ayonha",
+			"newTab": true
+		},
+		{
+			"name": "Pr Coqui",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=sLhCRzLOYWk",
+			"newTab": true
+		},
+		{
 			"name": "Touba Senegal",
 			"type": "image",
 			"assetUrl": "./media/Touba.jpg",
