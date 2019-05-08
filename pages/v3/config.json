@@ -562,6 +562,13 @@
 			"newTab": true
 		},
 		{
+			"name": "Apple Park Drone",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?time_continue=1&v=2jVwoDgvXZE",
+			"newTab": true
+		},
+		{
 			"name": "Touba Senegal",
 			"type": "image",
 			"assetUrl": "./media/Touba.jpg",
