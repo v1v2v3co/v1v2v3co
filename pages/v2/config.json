@@ -1,5 +1,6 @@
 {
 	"mode": "random",
+	"allowRepeats": false,
 	"setContent": {
 		"name": "Gabby Dougie",
 		"type": "link",
@@ -505,7 +506,7 @@
 			"url": "https://noidontknow.com",
 			"newTab": true
 		},
-		
+
 		{
 			"name": "Save the Sounds",
 			"type": "link",

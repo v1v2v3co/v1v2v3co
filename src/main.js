@@ -1,12 +1,12 @@
 import $ from 'jquery';
-import Cookies from 'js-cookie';
 
 const rnd = Math.floor(Math.random() * 99999);
 const url = window.location.href;
-if (Cookies.get(`v1v2v3_viewed`) === undefined) {
-  Cookies.set(`v1v2v3_viewed`, []);
+if (localStorage.getItem(`v1v2v3_viewed`) === null) {
+  console.log(`new`);
+  localStorage.setItem(`v1v2v3_viewed`, JSON.stringify({ v1: [], v2: [], v3: [] }));
 }
-const viewed = JSON.parse(Cookies.get(`v1v2v3_viewed`));
+const viewed = JSON.parse(localStorage.getItem(`v1v2v3_viewed`));
 console.log(viewed);
 
 const contentHtml = {
@@ -29,6 +29,7 @@ const contentHtml = {
 function setLinks(v, config) {
   let href = ``;
   let newTab = false;
+  console.log(config);
   if (config[v].mode === `set`) {
     if (config[v].setContent.type !== `link`) {
       href = `/pages/${v}`;
@@ -38,9 +39,15 @@ function setLinks(v, config) {
     }
   } else {
     let randomItem = ``;
+    if (viewed[v].length >= config[v].randomContent.length) {
+      viewed[v] = [];
+    }
     while (true) {
       randomItem = config[v].randomContent[Math.floor(Math.random() * config[v].randomContent.length)];
-      if (!viewed.includes(randomItem.name)) {
+      if (config[v].allowRepeats) {
+        break;
+      }
+      if (!viewed[v].includes(randomItem.name)) {
         break;
       }
     }
@@ -51,11 +58,10 @@ function setLinks(v, config) {
       href = randomItem.url;
       newTab = randomItem.newTab;
       // - Add cookie - //
-      if (viewed.length === 30) {
-        viewed.shift();
+      if (!config[v].allowRepeats) {
+        viewed[v].push(randomItem.name);
+        localStorage.setItem(`v1v2v3_viewed`, JSON.stringify(viewed));
       }
-      viewed.push(randomItem.name);
-      Cookies.set(`v1v2v3_viewed`, viewed);
     }
   }
   $(`a[data-v="${v}"]`).attr(`href`, href);
@@ -68,25 +74,32 @@ function setLinks(v, config) {
 $(async () => {
   // * PAGE * //
   if (url.includes(`pages`)) {
+    const v = $(`body`).attr(`data-v`);
     const config = await fetch(`./config.json?${rnd}`).then(res => res.json());
     let item = null;
+    if (!config.allowRepeats) {
+      if (viewed[v].length === config.randomContent.length) {
+        viewed[v] = [];
+      }
+    }
     if (config.mode === `set`) {
       item = config.setContent;
     } else {
       const mediaOptions = config.randomContent.filter(i => i.type !== `link`);
       while (true) {
         item = mediaOptions[Math.floor(Math.random() * mediaOptions.length)];
-        if (!viewed.includes(item.name)) {
+        if (config.allowRepeats) {
+          break;
+        }
+        if (!viewed[v].includes(item.name)) {
           break;
         }
       }
     }
-    // - Add cookie - //
-    if (viewed.length === 30) {
-      viewed.shift();
+    if (!config.allowRepeats) {
+      viewed[v].push(item.name);
+      localStorage.setItem(`v1v2v3_viewed`, JSON.stringify(viewed));
     }
-    viewed.push(item.name);
-    Cookies.set(`v1v2v3_viewed`, viewed);
     let html = contentHtml[item.type](item.assetUrl);
     // If it has a link (not null), make it clickable. by wrapping in
     if (item.url !== null) {

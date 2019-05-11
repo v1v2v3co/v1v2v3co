@@ -1,5 +1,6 @@
 {
 	"mode": "random",
+	"allowRepeats": false,
 	"setContent": {
 		"name": "Facial Weaponization Suite",
 		"type": "link",
