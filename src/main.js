@@ -3,7 +3,6 @@ import $ from 'jquery';
 const rnd = Math.floor(Math.random() * 99999);
 const url = window.location.href;
 if (localStorage.getItem(`v1v2v3_viewed`) === null) {
-  console.log(`new`);
   localStorage.setItem(`v1v2v3_viewed`, JSON.stringify({ v1: [], v2: [], v3: [] }));
 }
 const viewed = JSON.parse(localStorage.getItem(`v1v2v3_viewed`));

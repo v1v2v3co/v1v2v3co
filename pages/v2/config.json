@@ -522,6 +522,41 @@
 			"newTab": true
 		},
 		{
+			"name": "Kenan and Kel",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=jgC18L6UOKQ",
+			"newTab": true
+		},
+		{
+			"name": "Jesus Walks Block Party",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?time_continue=50&v=dEzLvnXtqMc",
+			"newTab": true
+		},
+		{
+			"name": "Ason Unique in the Studio w Pharrell",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=nOfSXF21vkM",
+			"newTab": true
+		},
+		{
+			"name": "Mestor Bingini",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://soundcloud.com/mestorbingini/fast-bitch2",
+			"newTab": true
+		},
+		{
+			"name": "Funk w My Feelings",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://soundcloud.com/fromthe514/myfeelings",
+			"newTab": true
+		},
+		{
 			"name": "Balenciaga Shoulders",
 			"type": "image",
 			"assetUrl": "./media/Balenciagahighshoulders.jpg",
@@ -693,13 +728,6 @@
 			"name": "Kiri Dressing",
 			"type": "image",
 			"assetUrl": "./media/Kiribmdressing.png",
-			"url": null,
-			"newTab": false
-		},
-		{
-			"name": "Lawson",
-			"type": "image",
-			"assetUrl": "./media/LAWSON.JPG",
 			"url": null,
 			"newTab": false
 		},
@@ -994,6 +1022,34 @@
 			"name": "What it Do",
 			"type": "image",
 			"assetUrl": "./media/whatitdo.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Rap Sheet",
+			"type": "image",
+			"assetUrl": "./media/31-8a100ab24f.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "CDG Perfum Ad",
+			"type": "image",
+			"assetUrl": "./media/double.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Mariko Mori",
+			"type": "image",
+			"assetUrl": "./media/mariko mori.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Sega Dreamcast",
+			"type": "image",
+			"assetUrl": "./media/sega-dreamcast-blighty-the-french-the-spanish-the-germans-print-61831-adeevee.jpg",
 			"url": null,
 			"newTab": false
 		}

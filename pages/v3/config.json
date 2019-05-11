@@ -241,13 +241,6 @@
 			"newTab": true
 		},
 		{
-			"name": "River Phoenix",
-			"type": "link",
-			"assetUrl": null,
-			"url": "https://www.youtube.com/watch?v=CsEDLGAlpm0",
-			"newTab": true
-		},
-		{
 			"name": "Trading Spouses Chappelle Show",
 			"type": "link",
 			"assetUrl": null,
@@ -525,6 +518,48 @@
 			"type": "link",
 			"assetUrl": null,
 			"url": "https://neal.fun/spend/",
+			"newTab": true
+		},
+		{
+			"name": "When keeping it real goes wrong",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://www.cc.com/video-clips/t0brk3/chappelle-s-show-when-keeping-it-real-goes-wrong---vernon-franklin---uncensored",
+			"newTab": true
+		},
+		{
+			"name": "Picking up food stamps",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=bB6EkeWoG2I",
+			"newTab": true
+		},
+		{
+			"name": "Ayonha",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://soundcloud.com/mayonnaisebaybeh/hamid-el-shaeri-ayonha",
+			"newTab": true
+		},
+		{
+			"name": "Pr Coqui",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=sLhCRzLOYWk",
+			"newTab": true
+		},
+		{
+			"name": "Brud",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://docs.google.com/document/d/1V5N5tcfm7wBuUshgrmIOz9ijAO-VRqvkUbGRu0uKdI8/edit",
+			"newTab": true
+		},
+		{
+			"name": "Apple Park Drone",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?time_continue=1&v=2jVwoDgvXZE",
 			"newTab": true
 		},
 		{
@@ -930,6 +965,34 @@
 			"name": "Rubber",
 			"type": "image",
 			"assetUrl": "./media/rubber.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "DOUBLE 3 CDG",
+			"type": "image",
+			"assetUrl": "./media/double-3.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "FBI OFFICE PARTY",
+			"type": "image",
+			"assetUrl": "./media/fbiofficeparty.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Wanted Poster",
+			"type": "image",
+			"assetUrl": "./media/poster933.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "ODB WutangClan",
+			"type": "image",
+			"assetUrl": "./media/10-ca86ac8be1.jpg",
 			"url": null,
 			"newTab": false
 		}
