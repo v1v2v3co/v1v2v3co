@@ -557,6 +557,27 @@
 			"newTab": true
 		},
 		{
+			"name": "GesamTkunstwerk Total Work",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://en.wikipedia.org/wiki/Gesamtkunstwerk",
+			"newTab": true
+		},
+		{
+			"name": "Special about this number",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www2.stetson.edu/~efriedma/numbers.html",
+			"newTab": true
+		},
+		{
+			"name": "Diddy",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=gul0ZDtnGzI",
+			"newTab": true
+		},
+		{
 			"name": "Balenciaga Shoulders",
 			"type": "image",
 			"assetUrl": "./media/Balenciagahighshoulders.jpg",
