@@ -563,6 +563,27 @@
 			"newTab": true
 		},
 		{
+			"name": "Bear in the Big Blue House",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=R6dWH77cgFk",
+			"newTab": true
+		},
+		{
+			"name": "Pronunciation",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://i-d.vice.com/en_us/article/kzvyvy/guide-to-fashion-pronunciation",
+			"newTab": true
+		},
+		{
+			"name": "Phobia List",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://www.phobialist.com",
+			"newTab": true
+		},
+		{
 			"name": "Touba Senegal",
 			"type": "image",
 			"assetUrl": "./media/Touba.jpg",
