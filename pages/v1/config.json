@@ -527,6 +527,27 @@
 			"newTab": true
 		},
 		{
+			"name": "How To...",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.wikihow.com/Have-Sex-Without-Your-Parents-Knowing",
+			"newTab": true
+		},
+		{
+			"name": "Pharrell Freestyle",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=YSzp3iKN3rg",
+			"newTab": true
+		},
+		{
+			"name": "Triangulo",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=EKn8U1LiSpc",
+			"newTab": true
+		},
+		{
 			"name": "2 Today",
 			"type": "image",
 			"assetUrl": "./media/2 today.png",
