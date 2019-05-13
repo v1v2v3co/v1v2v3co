@@ -1016,6 +1016,41 @@
 			"assetUrl": "./media/10-ca86ac8be1.jpg",
 			"url": null,
 			"newTab": false
+		},
+		{
+			"name": "Kiss it",
+			"type": "image",
+			"assetUrl": "./media/kissit.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Michael Jordan",
+			"type": "image",
+			"assetUrl": "./media/michaeljordan1jpg.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "NoseTings",
+			"type": "image",
+			"assetUrl": "./media/nosetings.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "ODB Live/uncut",
+			"type": "image",
+			"assetUrl": "./media/odbliveanduncut.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "NGV",
+			"type": "image",
+			"assetUrl": "./media/princess.PNG",
+			"url": null,
+			"newTab": false
 		}
 	]
 }
