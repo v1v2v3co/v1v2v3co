@@ -578,6 +578,13 @@
 			"newTab": true
 		},
 		{
+			"name": "Lv",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://photos.google.com/share/AF1QipM2hnL3coKxzhV51RPqEftYwqNBsfRn4AcLDdbtzN7eymF9pdc6hKMGIe2RCOZYKQ?key=SXlLTVE0ZUJJbDRhWTJobmJQZ282UldMMkg2QmJn",
+			"newTab": true
+		},
+		{
 			"name": "Balenciaga Shoulders",
 			"type": "image",
 			"assetUrl": "./media/Balenciagahighshoulders.jpg",
