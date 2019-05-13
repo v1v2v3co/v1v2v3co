@@ -1,12 +1,12 @@
 {
-	"mode": "random",
+	"mode": "set",
 	"allowRepeats": false,
 	"setContent": {
 		"name": "Gabby Dougie",
-		"type": "link",
-		"assetUrl": null,
-		"url": "https://www.youtube.com/watch?v=Vq3_SClwxHY",
-		"newTab": true
+		"type": "image",
+		"assetUrl": "./media/2000px-فيديكس.png",
+		"url": null,
+		"newTab": false
 	},
 	"randomContent": [
 		{
