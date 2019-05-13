@@ -1141,6 +1141,41 @@
 			"assetUrl": "./media/PhilipLorca.jpg",
 			"url": null,
 			"newTab": false
+		},
+		{
+			"name": "USPS",
+			"type": "image",
+			"assetUrl": "./media/usps.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Girl with Peaches",
+			"type": "image",
+			"assetUrl": "./media/Walentin_Alexandrowitsch_Serow_Girl_with_Peaches.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "DanceCurves",
+			"type": "image",
+			"assetUrl": "./media/WassilyDancecurves.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Lauryn Hill",
+			"type": "image",
+			"assetUrl": "./media/laurynhill.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "mew mew",
+			"type": "image",
+			"assetUrl": "./media/miu-miu-colourstool-design_dezeen_2364_col_5.jpg",
+			"url": null,
+			"newTab": false
 		}
 	]
 }
