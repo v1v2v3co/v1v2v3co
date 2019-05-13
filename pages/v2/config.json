@@ -1,12 +1,12 @@
 {
-	"mode": "set",
+	"mode": "random",
 	"allowRepeats": false,
 	"setContent": {
 		"name": "Gabby Dougie",
-		"type": "image",
-		"assetUrl": "./media/2000px-فيديكس.png",
-		"url": null,
-		"newTab": false
+		"type": "link",
+		"assetUrl": null,
+		"url": "https://www.youtube.com/watch?v=Vq3_SClwxHY",
+		"newTab": true
 	},
 	"randomContent": [
 		{
@@ -1071,6 +1071,41 @@
 			"name": "Sega Dreamcast",
 			"type": "image",
 			"assetUrl": "./media/sega-dreamcast-blighty-the-french-the-spanish-the-germans-print-61831-adeevee.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Fedex in arabic",
+			"type": "image",
+			"assetUrl": "./media/2000px-فيديكس.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "cocaine manual",
+			"type": "image",
+			"assetUrl": "./media/cocainemanual.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "dance curvesss",
+			"type": "image",
+			"assetUrl": "./media/dancecurvesss.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Hokusetsu",
+			"type": "image",
+			"assetUrl": "./media/house-in-hokusetsu-tato-architects-osaka-japan_dezeen_1704_ground-floor-plan.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "LEGS",
+			"type": "image",
+			"assetUrl": "./media/legs.png",
 			"url": null,
 			"newTab": false
 		}
