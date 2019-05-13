@@ -584,6 +584,13 @@
 			"newTab": true
 		},
 		{
+			"name": "FAmily Affair",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=znlFu_lemsU",
+			"newTab": true
+		},
+		{
 			"name": "Touba Senegal",
 			"type": "image",
 			"assetUrl": "./media/Touba.jpg",
