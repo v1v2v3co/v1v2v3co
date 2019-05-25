@@ -555,6 +555,13 @@
 			"newTab": true
 		},
 		{
+			"name": "Dank Snowboarding",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=gER7xe11nz8",
+			"newTab": true
+		},
+		{
 			"name": "2 Today",
 			"type": "image",
 			"assetUrl": "./media/2 today.png",
