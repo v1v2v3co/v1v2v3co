@@ -592,6 +592,13 @@
 			"newTab": true
 		},
 		{
+			"name": "I know what boys like",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=5UX2afsTqFI",
+			"newTab": true
+		},
+		{
 			"name": "Balenciaga Shoulders",
 			"type": "image",
 			"assetUrl": "./media/Balenciagahighshoulders.jpg",
