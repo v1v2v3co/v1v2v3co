@@ -562,6 +562,27 @@
 			"newTab": true
 		},
 		{
+			"name": "Jeffrey Shaw",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=paaacEIF6wU",
+			"newTab": true
+		},
+		{
+			"name": "Artist Talk: Arthur Jafa",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://vimeo.com/307286991",
+			"newTab": true
+		},
+		{
+			"name": "TNEG",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://tneg.us",
+			"newTab": true
+		},
+		{
 			"name": "2 Today",
 			"type": "image",
 			"assetUrl": "./media/2 today.png",
