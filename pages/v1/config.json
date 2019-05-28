@@ -583,6 +583,13 @@
 			"newTab": true
 		},
 		{
+			"name": "Wikihow: Jealousy",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.wikihow.com/Overcome-Jealousy",
+			"newTab": true
+		},
+		{
 			"name": "2 Today",
 			"type": "image",
 			"assetUrl": "./media/2 today.png",
