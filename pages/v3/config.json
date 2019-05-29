@@ -591,6 +591,34 @@
 			"newTab": true
 		},
 		{
+			"name": "Dame Dash",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?time_continue=40&v=XEqikmQkkd4",
+			"newTab": true
+		},
+		{
+			"name": "Spongebob Perfume",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=uGH8m7Q313s",
+			"newTab": true
+		},
+		{
+			"name": "Earfquake",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=HmAsUQEFYGI",
+			"newTab": true
+		},
+		{
+			"name": "Andy Kaufman",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=2FUIFQQI7d0",
+			"newTab": true
+		},
+		{
 			"name": "Touba Senegal",
 			"type": "image",
 			"assetUrl": "./media/Touba.jpg",
