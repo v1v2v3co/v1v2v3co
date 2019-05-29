@@ -599,10 +599,24 @@
 			"newTab": true
 		},
 		{
+			"name": "Eli",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://vimeo.com/332708894",
+			"newTab": true
+		},
+		{
 			"name": "I know what boys like",
 			"type": "link",
 			"assetUrl": null,
 			"url": "https://www.youtube.com/watch?v=5UX2afsTqFI",
+			"newTab": true
+		},
+		{
+			"name": "Slam Jam Socialism Hidden Cam",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.slamjamsocialism.com/editorial/hidden-cam/",
 			"newTab": true
 		},
 		{
