@@ -590,6 +590,20 @@
 			"newTab": true
 		},
 		{
+			"name": "Tony Toni Tone",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://tonycamaro.com/doodles#/id/i12833925",
+			"newTab": true
+		},
+		{
+			"name": "Darts Showcase",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=x2w-tbUBgN4",
+			"newTab": true
+		},
+		{
 			"name": "2 Today",
 			"type": "image",
 			"assetUrl": "./media/2 today.png",
