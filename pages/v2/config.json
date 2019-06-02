@@ -620,6 +620,13 @@
 			"newTab": true
 		},
 		{
+			"name": "Paul Institute",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://paul.institute/login",
+			"newTab": true
+		},
+		{
 			"name": "Balenciaga Shoulders",
 			"type": "image",
 			"assetUrl": "./media/Balenciagahighshoulders.jpg",
