@@ -604,6 +604,13 @@
 			"newTab": true
 		},
 		{
+			"name": "82 Portraits and 1 still",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://www.hockney.com/works/paintings/82-portraits",
+			"newTab": true
+		},
+		{
 			"name": "2 Today",
 			"type": "image",
 			"assetUrl": "./media/2 today.png",
