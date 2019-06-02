@@ -1232,6 +1232,56 @@
 			"assetUrl": "./media/miu-miu-colourstool-design_dezeen_2364_col_5.jpg",
 			"url": null,
 			"newTab": false
+		},
+		{
+			"name": "Edouard Manet",
+			"type": "image",
+			"assetUrl": "./media/1200px-edouard_manet_-_olympia_-_google_art_project_3.jpg.jpeg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "exposing the foundation of the museum",
+			"type": "image",
+			"assetUrl": "./media/foundationofmuseum.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "infared",
+			"type": "image",
+			"assetUrl": "./media/infared.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "JapaneseFaces",
+			"type": "image",
+			"assetUrl": "./media/japanese faces.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "scratch",
+			"type": "image",
+			"assetUrl": "./media/scratch.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "the world",
+			"type": "image",
+			"assetUrl": "./media/theworld.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Totaled",
+			"type": "image",
+			"assetUrl": "./media/totaled.jpg",
+			"url": null,
+			"newTab": false
 		}
+		
 	]
 }
