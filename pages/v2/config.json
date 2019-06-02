@@ -1157,6 +1157,62 @@
 			"assetUrl": "./media/legs.png",
 			"url": null,
 			"newTab": false
+		},
+		{
+			"name": "Rih",
+			"type": "image",
+			"assetUrl": "./media/17tmag-conversation-2-superJumbo-v2.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Rosa Bonheur",
+			"type": "image",
+			"assetUrl": "./media/Rosa_Bonheur_-_Ploughing_in_Nevers_-_Google_Art_Project.jpg.jpeg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Cactus",
+			"type": "image",
+			"assetUrl": "./media/cactus.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Kate Moss Fighting",
+			"type": "image",
+			"assetUrl": "./media/katie.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "manymen",
+			"type": "image",
+			"assetUrl": "./media/manymen.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "more japanesefaces",
+			"type": "image",
+			"assetUrl": "./media/morejapanesefaces.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Satsuma",
+			"type": "image",
+			"assetUrl": "./media/satsuma.jpg",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Slump",
+			"type": "image",
+			"assetUrl": "./media/slump.jpg",
+			"url": null,
+			"newTab": false
 		}
 	]
 }
