@@ -619,6 +619,13 @@
 			"newTab": true
 		},
 		{
+			"name": "A mag",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.kdpresse.com/en/AMAG/",
+			"newTab": true
+		},
+		{
 			"name": "Touba Senegal",
 			"type": "image",
 			"assetUrl": "./media/Touba.jpg",
