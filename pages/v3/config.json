@@ -626,6 +626,27 @@
 			"newTab": true
 		},
 		{
+			"name": "Charlie Parker",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://en.wikipedia.org/wiki/",
+			"newTab": true
+		},
+		{
+			"name": "Astor Piazolla",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://en.wikipedia.org/wiki/Astor_Piazzolla",
+			"newTab": true
+		},
+		{
+			"name": "Egon Schiele",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://en.wikipedia.org/wiki/Egon_Schiele",
+			"newTab": true
+		},
+		{
 			"name": "Touba Senegal",
 			"type": "image",
 			"assetUrl": "./media/Touba.jpg",
