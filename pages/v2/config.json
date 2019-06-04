@@ -627,6 +627,20 @@
 			"newTab": true
 		},
 		{
+			"name": "Barbapapa",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=agB7MYfuLls",
+			"newTab": true
+		},
+		{
+			"name": "Foreign Children",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.bartleby.com/360/1/93.html",
+			"newTab": true
+		},
+		{
 			"name": "Balenciaga Shoulders",
 			"type": "image",
 			"assetUrl": "./media/Balenciagahighshoulders.jpg",
