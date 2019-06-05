@@ -647,6 +647,20 @@
 			"newTab": true
 		},
 		{
+			"name": "Tokyo Train",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=ZGLrP5eawdY",
+			"newTab": true
+		},
+		{
+			"name": "There Will Be XTC",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=A_Ddu1OKqls",
+			"newTab": true
+		},
+		{
 			"name": "Touba Senegal",
 			"type": "image",
 			"assetUrl": "./media/Touba.jpg",
