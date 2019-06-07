@@ -661,6 +661,20 @@
 			"newTab": true
 		},
 		{
+			"name": "DS + R: Facsimile",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://dsrny.com/project/facsimile?index=false&tags=installation&section=projects",
+			"newTab": true
+		},
+		{
+			"name": "Runnin Lip",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?time_continue=4&v=QR9RODr31v8",
+			"newTab": true
+		},
+		{
 			"name": "Touba Senegal",
 			"type": "image",
 			"assetUrl": "./media/Touba.jpg",
