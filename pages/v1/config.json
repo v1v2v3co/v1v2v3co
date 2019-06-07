@@ -611,6 +611,27 @@
 			"newTab": true
 		},
 		{
+			"name": "James Hampton",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://en.wikipedia.org/wiki/James_Hampton_(artist)",
+			"newTab": true
+		},
+		{
+			"name": "Every Person in NYC",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://everypersoninnewyork.blogspot.com",
+			"newTab": true
+		},
+		{
+			"name": "DS + R: Pageant",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://dsrny.com/project/pageant",
+			"newTab": true
+		},
+		{
 			"name": "2 Today",
 			"type": "image",
 			"assetUrl": "./media/2 today.png",
