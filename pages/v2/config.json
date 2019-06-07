@@ -648,6 +648,13 @@
 			"newTab": true
 		},
 		{
+			"name": "Turkish Bath",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://en.wikipedia.org/wiki/The_Turkish_Bath",
+			"newTab": true
+		},
+		{
 			"name": "Balenciaga Shoulders",
 			"type": "image",
 			"assetUrl": "./media/Balenciagahighshoulders.jpg",
