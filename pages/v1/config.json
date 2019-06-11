@@ -1309,7 +1309,15 @@
 			"assetUrl": "./media/totaled.jpg",
 			"url": null,
 			"newTab": false
+		},
+		{
+			"name": "80sart",
+			"type": "image",
+			"assetUrl": "./media/80sart.jpg",
+			"url": null,
+			"newTab": false
 		}
+		
 		
 	]
 }
