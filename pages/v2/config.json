@@ -1,6 +1,6 @@
 {
 	"mode": "random",
-	"allowRepeats": false,
+	"allowRepeats": true,
 	"setContent": {
 		"name": "Gabby Dougie",
 		"type": "link",
