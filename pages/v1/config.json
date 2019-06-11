@@ -1,6 +1,6 @@
 {
 	"mode": "random",
-	"allowRepeats": false,
+	"allowRepeats": true,
 	"setContent": {
 		"name": "New Friends Shrigley",
 		"type": "link",
