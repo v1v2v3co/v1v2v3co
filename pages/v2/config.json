@@ -1241,6 +1241,13 @@
 			"assetUrl": "./media/slump.jpg",
 			"url": null,
 			"newTab": false
+		},
+		{
+			"name": "Light Blue Movers",
+			"type": "image",
+			"assetUrl": "./media/light-blue-movers-basquiat-1987.jpeg",
+			"url": null,
+			"newTab": false
 		}
 	]
 }
