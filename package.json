@@ -6,7 +6,7 @@
 	"license": "MIT",
 	"scripts": {
 		"watch": "parcel ./src/index.html --out-dir dist/js --port 3434 & onchange 'src/html/*' 'src/html' -- touch ./src/index.html",
-		"stage": "git commit -a -m 'update' && git push 'https://github.com/kylepg/kylepg.github.io.git' master",
+		"stage": "git commit -a -m 'update' && git push 'https://github.com/kylepg/kylepg.github.io.git' master -f",
 		"publish": "git commit -a -m 'update' && git push 'https://github.com/v1v2v3co/v1v2v3co.git' master"
 	},
 	"eslintIgnore": [
