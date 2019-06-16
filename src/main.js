@@ -1,3 +1,5 @@
+/* global gtag */
+
 import $ from 'jquery';
 
 const rnd = Math.floor(Math.random() * 99999);
@@ -6,7 +8,6 @@ if (localStorage.getItem(`v1v2v3_viewed`) === null) {
   localStorage.setItem(`v1v2v3_viewed`, JSON.stringify({ v1: [], v2: [], v3: [] }));
 }
 const viewed = JSON.parse(localStorage.getItem(`v1v2v3_viewed`));
-console.log(viewed);
 
 const contentHtml = {
   image: assetUrl => `
@@ -25,16 +26,21 @@ const contentHtml = {
   `,
 };
 
+//
+// ─── SET LINKS ──────────────────────────────────────────────────────────────────
+//
+
 function setLinks(v, config) {
   let href = ``;
   let newTab = false;
-  console.log(config);
+  let name = ``;
   if (config[v].mode === `set`) {
     if (config[v].setContent.type !== `link`) {
       href = `/pages/${v}`;
     } else {
       href = config[v].setContent.url;
       newTab = config[v].setContent.newTab;
+      name = config[v].setContent.name;
     }
   } else {
     let randomItem = ``;
@@ -56,6 +62,7 @@ function setLinks(v, config) {
     } else {
       href = randomItem.url;
       newTab = randomItem.newTab;
+      name = randomItem.name;
       // - Add cookie - //
       if (!config[v].allowRepeats) {
         viewed[v].push(randomItem.name);
@@ -66,14 +73,16 @@ function setLinks(v, config) {
   $(`a[data-v="${v}"]`).attr(`href`, href);
   $(`a[data-v="${v}"]`).attr(`target`, `_self`);
   if (newTab) {
+    $(`a[data-v="${v}"]`).attr(`data-name`, name);
     $(`a[data-v="${v}"]`).attr(`target`, `_blank`);
   }
 }
 
 $(async () => {
-  // * PAGE * //
+  // *************** v1v2v3.co/page/ **************** //
   if (url.includes(`pages`)) {
     const v = $(`body`).attr(`data-v`);
+    // Get config.
     const config = await fetch(`./config.json?${rnd}`).then(res => res.json());
     let item = null;
     if (!config.allowRepeats) {
@@ -107,8 +116,15 @@ $(async () => {
       }`;
     }
     $(`#content`).html(html);
-  } else {
-    // * INDEX * //
+    // - SEND CONTENT VIEW - //
+    gtag(`config`, `UA-137417690-1`, {
+      page_title: `${item.name}`,
+      page_path: `${item.assetUrl}`,
+    });
+  }
+  // *************** v1v2v3.co/ **************** //
+  else {
+    // Set config.
     const config = {};
     const promises = [
       fetch(`../pages/v1/config.json?${rnd}`)
@@ -132,8 +148,21 @@ $(async () => {
       const v = `v${i}`;
       setLinks(v, config);
     }
+    // Link click.
     $(document).on(`click`, `.v-link`, function() {
       const v = $(this).attr(`data-v`);
+      if (jQuery(this).attr(`target`) === `_blank`) {
+        // - SEND PAGE VIEW IF NEW TAB - //
+        gtag(`config`, `UA-137417690-1`, {
+          page_title: `${$(this).attr(`data-v`)}`,
+          page_path: `/${$(this).attr(`data-v`)}`,
+        });
+        // - SEND CONTENT VIEW IF NEW TAB - //
+        gtag(`config`, `UA-137417690-1`, {
+          page_title: `${$(this).attr(`data-name`)}`,
+          page_path: `${$(this).attr(`href`)}`,
+        });
+      }
       setTimeout(() => {
         setLinks(v, config);
       }, 1000);
