@@ -675,6 +675,20 @@
 			"newTab": true
 		},
 		{
+			"name": "Sousveillance",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://en.wikipedia.org/wiki/Sousveillance",
+			"newTab": true
+		},
+		{
+			"name": "Courage the Cowardly Dog",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=L6cbbaIK7m8&app=desktop",
+			"newTab": true
+		},
+		{
 			"name": "Touba Senegal",
 			"type": "image",
 			"assetUrl": "./media/Touba.jpg",
