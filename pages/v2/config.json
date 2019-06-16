@@ -655,6 +655,20 @@
 			"newTab": true
 		},
 		{
+			"name": "We got that B roll",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=SItFvB0Upb8",
+			"newTab": true
+		},
+		{
+			"name": "Freedom Cary Fagan",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://cary-fagan.com/takeo-shi-saga",
+			"newTab": true
+		},
+		{
 			"name": "Balenciaga Shoulders",
 			"type": "image",
 			"assetUrl": "./media/Balenciagahighshoulders.jpg",
