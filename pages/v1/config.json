@@ -1316,6 +1316,20 @@
 			"assetUrl": "./media/80sart.jpg",
 			"url": null,
 			"newTab": false
+		},
+		{
+			"name": "Blur Ref",
+			"type": "image",
+			"assetUrl": "./media/Blur Ref.png",
+			"url": null,
+			"newTab": false
+		},
+		{
+			"name": "Easter Heads",
+			"type": "image",
+			"assetUrl": "./media/CharlieKwai Easter Heads.jpg",
+			"url": null,
+			"newTab": false
 		}
 	]
 }
