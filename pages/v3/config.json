@@ -689,6 +689,20 @@
 			"newTab": true
 		},
 		{
+			"name": "You could stop@ 5 or 6 stoes",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=YCeQLeQiRP4",
+			"newTab": true
+		},
+		{
+			"name": "injera",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://en.wikipedia.org/wiki/Injera",
+			"newTab": true
+		},
+		{
 			"name": "Touba Senegal",
 			"type": "image",
 			"assetUrl": "./media/Touba.jpg",
