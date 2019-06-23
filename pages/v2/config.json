@@ -669,6 +669,27 @@
 			"newTab": true
 		},
 		{
+			"name": "1984 NBA Draft",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://en.wikipedia.org/wiki/1984_NBA_draft",
+			"newTab": true
+		},
+		{
+			"name": "I have a bad case of diarrhea",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=CKjaFG4YN6g",
+			"newTab": true
+		},
+		{
+			"name": "Happy Birthday Dance by Pool",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=2JeGL0_PjtE",
+			"newTab": true
+		},
+		{
 			"name": "Balenciaga Shoulders",
 			"type": "image",
 			"assetUrl": "./media/Balenciagahighshoulders.jpg",
