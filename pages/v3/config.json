@@ -703,6 +703,83 @@
 			"newTab": true
 		},
 		{
+			"name": "Andy Warhol The Factory",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://en.wikipedia.org/wiki/The_Factory",
+			"newTab": true
+		},
+		{
+			"name": "Why Sculpture is Boring Again",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=2yG80TdanIk&fbclid=IwAR1XMdw8NY59MBmLdCMHQOVAtN6k0ZJQ-YHTevjmgG-MCqMu3hSbZFU3ddg",
+			"newTab": true
+		},
+		{
+			"name": "Invisible Boards",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=92nbYoHT_j0",
+			"newTab": true
+		},
+		{
+			"name": "4 on the Floor",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=AYu_kak6lyE",
+			"newTab": true
+		},
+		{
+			"name": "Summer Camp",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.bernardfaucon.fr/summer-camp/?lang=en",
+			"newTab": true
+		},
+		{
+			"name": "Chocolate Rain",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=EwTZ2xpQwpA",
+			"newTab": true
+		},
+		{
+			"name": "The Wood - The bet",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=LBU5Yu6RFBY",
+			"newTab": true
+		},
+		{
+			"name": "Killings",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://fredescher.com/index.php/nggallery/image/161?page_id=265",
+			"newTab": true
+		},
+		{
+			"name": "Disco/Very",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=ISwQavXuMhA",
+			"newTab": true
+		},
+		{
+			"name": "The Strange Thing about the Johnsons",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://vimeo.com/155016328",
+			"newTab": true
+		},
+		{
+			"name": "Tetrapods",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://en.m.wikipedia.org/wiki/Tetrapod_(structure)?wprov=sfti1",
+			"newTab": true
+		},
+		{
 			"name": "Touba Senegal",
 			"type": "image",
 			"assetUrl": "./media/Touba.jpg",
