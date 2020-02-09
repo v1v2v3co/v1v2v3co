@@ -1,10 +1,10 @@
 {
-	"mode": "random",
+	"mode": "set",
 	"allowRepeats": true,
 	"setContent": {
-		"name": "New Friends Shrigley",
+		"name": "locally grown",
 		"type": "link",
-		"url": "https://www.youtube.com/watch?v=FHCaK0vmd0Q",
+		"url": "https://locallygrown.tv/v1v2v3",
 		"assetUrl": null,
 		"newTab": false
 	},
