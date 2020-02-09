@@ -1,11 +1,11 @@
 {
-	"mode": "random",
+	"mode": "set",
 	"allowRepeats": true,
 	"setContent": {
-		"name": "Facial Weaponization Suite",
+		"name": "locally grown",
 		"type": "link",
 		"assetUrl": null,
-		"url": "http://www.zachblas.info/works/facial-weaponization-suite/",
+		"url": "https://locallygrown.tv/v1v2v3",
 		"newTab": true
 	},
 	"randomContent": [
