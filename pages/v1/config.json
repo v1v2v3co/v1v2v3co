@@ -744,6 +744,55 @@
 			"newTab": true
 		},
 		{
+			"name": "Rock Steady",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=rPJz3syNbtE",
+			"newTab": true
+		},
+		{
+			"name": "Aphex Twin 1996 Interview",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=rndV_5q8Tkc",
+			"newTab": true
+		},
+		{
+			"name": "Longest Name",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=i5DvIv49VWo ",
+			"newTab": true
+		},
+		{
+			"name": "Peter Fend",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://peterfend.tumblr.com",
+			"newTab": true
+		},
+		{
+			"name": "How to make sugar",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=jCKt02NGjfM",
+			"newTab": true
+		},
+		{
+			"name": "Monica Lewinsky",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=VBe_guezGGc",
+			"newTab": true
+		},
+		{
+			"name": "Mary Beth Meehan",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://www.marybethmeehan.com/portfolio/brockton-installation/",
+			"newTab": true
+		},
+		{
 			"name": "2 Today",
 			"type": "image",
 			"assetUrl": "./media/2 today.png",
