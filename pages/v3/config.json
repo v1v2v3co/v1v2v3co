@@ -780,6 +780,62 @@
 			"newTab": true
 		},
 		{
+			"name": "academy speech",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://aaspeechesdb.oscars.org",
+			"newTab": true
+		},
+		{
+			"name": "Laraji",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=-bdYHYnJI-E",
+			"newTab": true
+		},
+		{
+			"name": "Sigur Ros",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://vimeo.com/3975173",
+			"newTab": true
+		},
+		{
+			"name": "take you to the movies",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=byNlqUFddeo",
+			"newTab": true
+		},
+		{
+			"name": "Human/nonHuman Symbiosis",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://humanresourcesla.com/event/ecology-of-the-edge/",
+			"newTab": true
+		},
+		{
+			"name": "alex prager",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.alexprager.com/part-ii-view",
+			"newTab": true
+		},
+		{
+			"name": "Chess",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://vimeo.com/362164795",
+			"newTab": true
+		},
+		{
+			"name": "tainted love",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=CCTBuOheUpE",
+			"newTab": true
+		},
+		{
 			"name": "Touba Senegal",
 			"type": "image",
 			"assetUrl": "./media/Touba.jpg",
