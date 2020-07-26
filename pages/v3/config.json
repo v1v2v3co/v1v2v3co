@@ -836,6 +836,41 @@
 			"newTab": true
 		},
 		{
+			"name": "locally grown",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://locallygrown.tv/channels",
+			"newTab": true
+		},
+		{
+			"name": "bypass paywalls",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
+			"newTab": true
+		},
+		{
+			"name": "Pandemic Urbanism",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://docs.google.com/document/u/0/d/1EK9MSBySLHLk9aqADj2k3i5Z7RD-fKpLdAVplKBFw8w/mobilebasic",
+			"newTab": true
+		},
+		{
+			"name": "the online town",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://theonline.town",
+			"newTab": true
+		},
+		{
+			"name": "New York Apartments",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://whitney.org/artport-commissions/new-york-apartment/index.html",
+			"newTab": true
+		},
+		{
 			"name": "Touba Senegal",
 			"type": "image",
 			"assetUrl": "./media/Touba.jpg",
