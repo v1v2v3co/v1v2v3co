@@ -814,6 +814,20 @@
 			"newTab": true
 		},
 		{
+			"name": "Locally Grown",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://locallygrown.tv/channels",
+			"newTab": true
+		},
+		{
+			"name": "David Hammons Interview",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://www.ubu.com/papers/hammons_interview.html",
+			"newTab": true
+		},
+		{
 			"name": "2 Today",
 			"type": "image",
 			"assetUrl": "./media/2 today.png",
