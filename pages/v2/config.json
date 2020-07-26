@@ -409,10 +409,10 @@
 			"newTab": true
 		},
 		{
-			"name": "Mos Def in Japan",
+			"name": "locally grow",
 			"type": "link",
 			"assetUrl": null,
-			"url": "https://locallygrown.tv/SickDayTV",
+			"url": "https://locallygrown.tv/channels",
 			"newTab": true
 		},
 		{
@@ -841,6 +841,34 @@
 			"type": "link",
 			"assetUrl": null,
 			"url": "https://www.youtube.com/watch?v=PysAZ10mXwQ",
+			"newTab": true
+		},
+		{
+			"name": "CONCATENATION",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=n2WGHP4V2Hc",
+			"newTab": true
+		},
+		{
+			"name": "Spatial Software",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://darkblueheaven.com/spatialsoftware/",
+			"newTab": true
+		},
+		{
+			"name": "MArgiela in his own words",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://drive.google.com/file/d/1TcChpSU8oL-9XZk8Ytrwz5nmJS4Gwv-_/view?ts=5e7c0658",
+			"newTab": true
+		},
+		{
+			"name": "Black Planet Solange",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://blackplanet.com/solange/",
 			"newTab": true
 		},
 		{
