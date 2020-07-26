@@ -793,6 +793,27 @@
 			"newTab": true
 		},
 		{
+			"name": "Claude Mellan",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://commons.m.wikimedia.org/wiki/Category:Claude_Mellan#",
+			"newTab": true
+		},
+		{
+			"name": "Kuniyoshi Project",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://www.kuniyoshiproject.com/Ghost%20Stories-%20Night%20Procession%20of%20the%20Hundred%20Demons.htm",
+			"newTab": true
+		},
+		{
+			"name": "55 Million",
+			"type": "link",
+			"assetUrl": null,
+			"url": "http://www.cc.com/video-clips/c7dwd4/chappelle-s-show-dave-has--55-million---uncensored",
+			"newTab": true
+		},
+		{
 			"name": "2 Today",
 			"type": "image",
 			"assetUrl": "./media/2 today.png",
