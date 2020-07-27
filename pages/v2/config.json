@@ -1,11 +1,11 @@
 {
-	"mode": "random",
+	"mode": "set",
 	"allowRepeats": true,
 	"setContent": {
-		"name": "locally grown",
+		"name": "the shakedown",
 		"type": "link",
 		"assetUrl": null,
-		"url": "https://locallygrown.tv/v1v2v3",
+		"url": "https://shakedown.film/watch",
 		"newTab": true
 	},
 	"randomContent": [
