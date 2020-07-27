@@ -828,6 +828,27 @@
 			"newTab": true
 		},
 		{
+			"name": "No Internal Monologue",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=u69YSh-cFXY&t=184s",
+			"newTab": true
+		},
+		{
+			"name": "Shakedown",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://shakedown.film/watch",
+			"newTab": true
+		},
+		{
+			"name": "Claudette Schreuders",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://jackshainman.com/artists/claudette_schreuders",
+			"newTab": true
+		},
+		{
 			"name": "2 Today",
 			"type": "image",
 			"assetUrl": "./media/2 today.png",
