@@ -1,12 +1,12 @@
 {
-	"mode": "random",
+	"mode": "set",
 	"allowRepeats": true,
 	"setContent": {
-		"name": "locally grown",
+		"name": "online town",
 		"type": "link",
-		"url": "https://locallygrown.tv/v1v2v3",
+		"url": "https://theonline.town",
 		"assetUrl": null,
-		"newTab": false
+		"newTab": true
 	},
 	"randomContent": [
 		{
