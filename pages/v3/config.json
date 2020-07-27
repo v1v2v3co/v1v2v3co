@@ -871,6 +871,34 @@
 			"newTab": true
 		},
 		{
+			"name": "Painters Survival",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://asllinea.org/the-painters-primer-a-survival-kit/",
+			"newTab": true
+		},
+		{
+			"name": "Magic Johnson",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=q8Qbo0WqvOI&t=10s",
+			"newTab": true
+		},
+		{
+			"name": "the way we do art now",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.vdb.org/titles/way-we-do-art-now-and-other-sacred-tales",
+			"newTab": true
+		},
+		{
+			"name": "one year rope piece",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.tehchinghsieh.com/artlife-oneyearperformance1983-1984",
+			"newTab": true
+		},
+		{
 			"name": "Touba Senegal",
 			"type": "image",
 			"assetUrl": "./media/Touba.jpg",
