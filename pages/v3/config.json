@@ -1,11 +1,11 @@
 {
-	"mode": "random",
+	"mode": "set",
 	"allowRepeats": true,
 	"setContent": {
 		"name": "locally grown",
 		"type": "link",
 		"assetUrl": null,
-		"url": "https://locallygrown.tv/v1v2v3",
+		"url": "https://docs.google.com/document/u/0/d/1EK9MSBySLHLk9aqADj2k3i5Z7RD-fKpLdAVplKBFw8w/mobilebasic",
 		"newTab": true
 	},
 	"randomContent": [
