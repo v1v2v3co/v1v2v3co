@@ -96,7 +96,7 @@
 		"grunt-contrib-sass": "^1.0.0",
 		"grunt-contrib-watch": "^1.0.0",
 		"grunt-notify": "^0.4.5",
-		"node-sass": "^4.9.2",
+		"node-sass": "^4.13.1",
 		"nodemon": "^1.18.9",
 		"onchange": "^5.2.0",
 		"prettier-eslint": "^8.8.2",
