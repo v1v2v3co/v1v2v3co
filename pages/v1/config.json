@@ -2,9 +2,9 @@
 	"mode": "set",
 	"allowRepeats": true,
 	"setContent": {
-		"name": "online town",
+		"name": "souls grown deep",
 		"type": "link",
-		"url": "https://theonline.town",
+		"url": "https://www.soulsgrowndeep.org/artists",
 		"assetUrl": null,
 		"newTab": true
 	},
