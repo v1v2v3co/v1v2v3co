@@ -1,5 +1,5 @@
 {
-	"mode": "random",
+	"mode": "set",
 	"allowRepeats": true,
 	"setContent": {
 		"name": "textz",
