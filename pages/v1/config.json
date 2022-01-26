@@ -598,6 +598,20 @@
 			"newTab": true
 		},
 		{
+			"name": "Pyrex Vision",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=UTCeG6WunLE",
+			"newTab": true
+		},
+		{
+			"name": "Ladytron17",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.youtube.com/watch?v=s6jaYJx7yeI",
+			"newTab": true
+		},
+		{
 			"name": "2 Today",
 			"type": "image",
 			"assetUrl": "./media/2 today.png",
