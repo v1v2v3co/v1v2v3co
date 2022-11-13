@@ -1,5 +1,5 @@
 {
-	"mode": "set",
+	"mode": "random",
 	"allowRepeats": true,
 	"setContent": {
 		"name": "the shakedown",
