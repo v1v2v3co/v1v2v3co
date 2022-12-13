@@ -1,20 +1,29 @@
 {
-	"mode": "set",
-	"allowRepeats": true,
-	"setContent": {
-		"name": "souls grown deep",
-		"type": "link",
-		"url": "https://www.soulsgrowndeep.org/artists",
-		"assetUrl": null,
-		"newTab": true
-	},
-	"randomContent": [
-		{
-			"name": "Day Job Jack Stauber",
+		"mode": "set",
+		"setContent": {
 			"type": "link",
 			"assetUrl": null,
-			"url": "https://www.youtube.com/watch?v=bybfO8OnORA",
-			"newTab": true
+			"url": "http://covers.i-d.co/",
+			"newTab": true 
 		},
-	]
+		"randomContent": [
+			{
+				"type": "link",
+				"assetUrl": null,
+				"url": "http://covers.i-d.co/",
+				"newTab": true
+			},
+			{
+				"type": "link",
+				"assetUrl": null,
+				"url": "./pages/v2/media/pdf-name.pdf",
+				"newTab": true
+			},
+			{
+				"type": "image",
+				"assetUrl": "./media/image-name.jpeg",
+				"url": null,
+				"newTab": true
+			},
+		]
 }
