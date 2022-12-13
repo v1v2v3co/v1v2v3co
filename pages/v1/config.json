@@ -1,29 +1,20 @@
 {
-		"mode": "set",
-		"setContent": {
+	"mode": "set",
+	"allowRepeats": true,
+	"setContent": {
+		"name": "the shakedown",
+		"type": "link",
+		"assetUrl": null,
+		"url": "https://shakedown.film/watch",
+		"newTab": true
+	},
+	"randomContent": [
+		{
+			"name": "CDG Spring 1996",
 			"type": "link",
 			"assetUrl": null,
-			"url": "http://covers.i-d.co/",
-			"newTab": true 
+			"url": "https://www.vogue.com/fashion-shows/spring-1996-ready-to-wear/comme-des-garcons/slideshow/collection#10",
+			"newTab": true
 		},
-		"randomContent": [
-			{
-				"type": "link",
-				"assetUrl": null,
-				"url": "http://covers.i-d.co/",
-				"newTab": true
-			},
-			{
-				"type": "link",
-				"assetUrl": null,
-				"url": "./pages/v2/media/pdf-name.pdf",
-				"newTab": true
-			},
-			{
-				"type": "image",
-				"assetUrl": "./media/image-name.jpeg",
-				"url": null,
-				"newTab": true
-			},
-		]
+	]
 }
