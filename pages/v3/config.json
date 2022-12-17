@@ -2,18 +2,25 @@
 	"mode": "set",
 	"allowRepeats": true,
 	"setContent": {
-		"name": "textz",
+		"name": "the shakedown",
 		"type": "link",
 		"assetUrl": null,
-		"url": "https://textz.com",
+		"url": "https://shakedown.film/watch",
 		"newTab": true
 	},
 	"randomContent": [
 		{
-			"name": "ID MAG Covers",
+			"name": "CDG Spring 1996",
 			"type": "link",
 			"assetUrl": null,
-			"url": "http://covers.i-d.co/",
+			"url": "https://www.vogue.com/fashion-shows/spring-1996-ready-to-wear/comme-des-garcons/slideshow/collection#10",
+			"newTab": true
+		},
+		{
+			"name": "CDG Spring 1996",
+			"type": "link",
+			"assetUrl": null,
+			"url": "https://www.vogue.com/fashion-shows/spring-1996-ready-to-wear/comme-des-garcons/slideshow/collection#10",
 			"newTab": true
 		},
 	]
