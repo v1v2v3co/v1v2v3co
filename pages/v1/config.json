@@ -2,10 +2,10 @@
 	"mode": "set",
 	"allowRepeats": true,
 	"setContent": {
-		"name": "TIANNA",
-		"type": "image",
-		"assetUrl": "./media/t - baby.png",
-		"url": "https://www.vogue.com/fashion-shows/spring-1996-ready-to-wear/comme-des-garcons/slideshow/collection#10",
+		"name": "MoR",
+		"type": "link",
+		"assetUrl": null,
+		"url": "hhttps://www.youtube.com/watch?v=O9MrbvJQ-TY",
 		"newTab": true
 	},
 	"randomContent": [
