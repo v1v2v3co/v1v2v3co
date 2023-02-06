@@ -1,6 +1,6 @@
 {
 	"mode": "set",
-	"allowRepeats": true,
+	"allowRepeats": false,
 	"setContent": {
 		"name": "the music of regret",
 		"type": "link",
