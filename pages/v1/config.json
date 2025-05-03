@@ -2,10 +2,10 @@
 	"mode": "set",
 	"allowRepeats": true,
 	"setContent": {
-		"name": "house",
-		"type": "link",
-		"assetUrl": null,
-		"url": "https://www.are.na/8zgpmfbybjk",
+		"name": "shane",
+		"type": "image",
+		"assetUrl": "./media/shane.jpeg",
+		"url": null,
 		"newTab": true
 	},
 	"randomContent": [
