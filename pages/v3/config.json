@@ -1,6 +1,6 @@
 {
 	"mode": "set",
-	"allowRepeats": false,
+	"allowRepeats": true,
 	"setContent": {
 		"name": "hammons",
 		"type": "image",
